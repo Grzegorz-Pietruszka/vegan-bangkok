@@ -34,7 +34,7 @@ export default function PlaceDetail() {
   const dishesHere = dishesSeed.filter((d) => d.places.some((p) => p.name === place.name));
   const lovedCount = Math.max(0, ...dishesHere.flatMap((d) =>
     d.places.filter((p) => p.name === place.name).map((p) => p.lovedCount)));
-  const open = isOpenNow(place.hours as never);
+  const open = isOpenNow(place.hours);
 
   const openDirections = () =>
     Linking.openURL(`http://maps.apple.com/?daddr=${place.lat},${place.lng}`).catch(() => {});
