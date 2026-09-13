@@ -1,0 +1,1291 @@
+[
+  {
+    "name": "Golden Mount",
+    "nameTh": "บรมบรรพต",
+    "lat": 13.753857,
+    "lng": 100.506691,
+    "category": "monument",
+    "summary": "Golden Mount is a historic monument or memorial in 13.735,100.485,13.775,100.525, useful as a civic landmark and orientation point.",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "Grand Palace",
+    "nameTh": "พระบรมมหาราชวัง",
+    "lat": 13.749571,
+    "lng": 100.491792,
+    "category": "palace",
+    "summary": "Grand Palace is a palace-related historic attraction in 13.735,100.485,13.775,100.525, useful for royal-history and old-city itinerary planning.",
+    "vibeTags": [
+      "historic",
+      "scenic-view",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Wat Phra Kaew",
+    "nameTh": "วัดพระศรีรัตนศาสดาราม",
+    "lat": 13.75151,
+    "lng": 100.49269,
+    "category": "temple",
+    "summary": "Wat Phra Kaew is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Democracy Monument",
+    "nameTh": "อนุสาวรีย์ประชาธิปไตย",
+    "lat": 13.756686,
+    "lng": 100.50184,
+    "category": "monument",
+    "summary": "Democracy Monument is a historic monument or memorial in 13.735,100.485,13.775,100.525, useful as a civic landmark and orientation point.",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "King Rama I (Phra Buddha Yodfa) Statue",
+    "nameTh": "ปฐมบรมราชานุสรณ์",
+    "lat": 13.740647,
+    "lng": 100.49804,
+    "category": "monument",
+    "summary": "King Rama I (Phra Buddha Yodfa) Statue is a historic monument or memorial in 13.735,100.485,13.775,100.525, useful as a civic landmark and orientation point.",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "Memorial of Expeditionary Force",
+    "nameTh": "อนุสาวรีย์ทหารอาสา สงครามโลกครั้งที่ 1",
+    "lat": 13.758211,
+    "lng": 100.493255,
+    "category": "monument",
+    "summary": "Memorial of Expeditionary Force is a historic monument or memorial in 13.735,100.485,13.775,100.525, useful as a civic landmark and orientation point.",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "Pig Memorial",
+    "nameTh": "อนุสาวรีย์หมู",
+    "lat": 13.749866,
+    "lng": 100.49621,
+    "category": "monument",
+    "summary": "https://photos.app.goo.gl/Q3fGHXqujPrLQ2zw5",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "Ban Mo Palace",
+    "nameTh": "วังบ้านหม้อ",
+    "lat": 13.746017,
+    "lng": 100.496865,
+    "category": "palace",
+    "summary": "Ban Mo Palace is a palace-related historic attraction in 13.735,100.485,13.775,100.525, useful for royal-history and old-city itinerary planning.",
+    "vibeTags": [
+      "historic",
+      "scenic-view",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Bang Khun Prom Palace",
+    "nameTh": "วังบางขุนพรหม",
+    "lat": 13.76858,
+    "lng": 100.499621,
+    "category": "palace",
+    "summary": "Bang Khun Prom Palace is a palace-related historic attraction in 13.735,100.485,13.775,100.525, useful for royal-history and old-city itinerary planning.",
+    "vibeTags": [
+      "historic",
+      "scenic-view",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Devavesm Palace",
+    "nameTh": "วังเทวะเวสม์",
+    "lat": 13.769804,
+    "lng": 100.50029,
+    "category": "palace",
+    "summary": "Devavesm Palace is a palace-related historic attraction in 13.735,100.485,13.775,100.525, useful for royal-history and old-city itinerary planning.",
+    "vibeTags": [
+      "historic",
+      "scenic-view",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Wang Derm Palace",
+    "nameTh": "พระราชวังเดิม",
+    "lat": 13.742463,
+    "lng": 100.489726,
+    "category": "palace",
+    "summary": "Wang Derm Palace is a palace-related historic attraction in 13.735,100.485,13.775,100.525, useful for royal-history and old-city itinerary planning.",
+    "vibeTags": [
+      "historic",
+      "scenic-view",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Phra Sumen Fort",
+    "nameTh": "ป้อมพระสุเมรุ",
+    "lat": 13.763999,
+    "lng": 100.495753,
+    "category": "cultural-site",
+    "summary": "Phra Sumen Fort is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Bangkok National Museum",
+    "nameTh": "พิพิธภัณฑสถานแห่งชาติ พระนคร",
+    "lat": 13.758146,
+    "lng": 100.491528,
+    "category": "museum",
+    "summary": "Bangkok National Museum is a museum-style cultural stop in 13.735,100.485,13.775,100.525, useful when the itinerary needs indoor historical context or monsoon-friendly pacing.",
+    "vibeTags": [
+      "historic",
+      "monsoon-comfort",
+      "artsy",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Bank of Thailand Museum",
+    "nameTh": "พิพิธภัณฑ์ธนาคารแห่งประเทศไทย",
+    "lat": 13.768284,
+    "lng": 100.499537,
+    "category": "museum",
+    "summary": "Bank of Thailand Museum is a museum-style cultural stop in 13.735,100.485,13.775,100.525, useful when the itinerary needs indoor historical context or monsoon-friendly pacing.",
+    "vibeTags": [
+      "historic",
+      "monsoon-comfort",
+      "artsy",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Museum of Siam",
+    "nameTh": "มิวเซียมสยาม",
+    "lat": 13.743959,
+    "lng": 100.493849,
+    "category": "museum",
+    "summary": "Museum of Siam is a museum-style cultural stop in 13.735,100.485,13.775,100.525, useful when the itinerary needs indoor historical context or monsoon-friendly pacing.",
+    "vibeTags": [
+      "historic",
+      "monsoon-comfort",
+      "artsy",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Queen Sirikit Museum of Textiles",
+    "nameTh": "พิพิธภัณฑ์ผ้าในสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ",
+    "lat": 13.752026,
+    "lng": 100.490724,
+    "category": "museum",
+    "summary": "Queen Sirikit Museum of Textiles is a museum-style cultural stop in 13.735,100.485,13.775,100.525, useful when the itinerary needs indoor historical context or monsoon-friendly pacing.",
+    "vibeTags": [
+      "historic",
+      "monsoon-comfort",
+      "artsy",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Samphanthawong Museum",
+    "nameTh": "พิพิธภัณฑ์ท้องถิ่นกรุงเทพมหานคร เขตสัมพันธวงศ์",
+    "lat": 13.736716,
+    "lng": 100.511098,
+    "category": "museum",
+    "summary": "Samphanthawong Museum is a museum-style cultural stop in 13.735,100.485,13.775,100.525, useful when the itinerary needs indoor historical context or monsoon-friendly pacing.",
+    "vibeTags": [
+      "historic",
+      "monsoon-comfort",
+      "artsy",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Siriraj Bimuksthan Museum",
+    "nameTh": "พิพิธภัณฑ์ศิริราชพิมุขสถาน",
+    "lat": 13.759761,
+    "lng": 100.486785,
+    "category": "museum",
+    "summary": "Siriraj Bimuksthan Museum is a museum-style cultural stop in 13.735,100.485,13.775,100.525, useful when the itinerary needs indoor historical context or monsoon-friendly pacing.",
+    "vibeTags": [
+      "historic",
+      "monsoon-comfort",
+      "artsy",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Wat Arun",
+    "nameTh": "วัดอรุณ",
+    "lat": 13.743823,
+    "lng": 100.488489,
+    "category": "temple",
+    "summary": "Wat Arun is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Maha That Yuwarat Rangsarit Ratchaworamahawihan",
+    "nameTh": "วัดมหาธาตุยุวราชรังสฤษฎิ์ราชวรมหาวิหาร",
+    "lat": 13.75477,
+    "lng": 100.490798,
+    "category": "temple",
+    "summary": "Wat Maha That Yuwarat Rangsarit Ratchaworamahawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Mahannapharam Worawihan",
+    "nameTh": "วัดมหรรณพารามวรวิหาร",
+    "lat": 13.754735,
+    "lng": 100.499378,
+    "category": "temple",
+    "summary": "Wat Mahannapharam Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Rakhang Kositaram Woramahawihan",
+    "nameTh": "วัดระฆังโฆสิตารามวรมหาวิหาร",
+    "lat": 13.752585,
+    "lng": 100.485561,
+    "category": "temple",
+    "summary": "Wat Rakhang Kositaram Woramahawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Ratchabophit Royal Cemetery",
+    "nameTh": "สุสานหลวง วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+    "lat": 13.749084,
+    "lng": 100.49673,
+    "category": "temple",
+    "summary": "Wat Ratchabophit Royal Cemetery is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Ratchabophit Sathit Maha Simaram Ratchaworawihan",
+    "nameTh": "วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+    "lat": 13.749061,
+    "lng": 100.497184,
+    "category": "temple",
+    "summary": "Wat Ratchabophit Sathit Maha Simaram Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Ratchanatdaram Worawihan",
+    "nameTh": "วัดราชนัดดารามวรวิหาร",
+    "lat": 13.754837,
+    "lng": 100.504253,
+    "category": "temple",
+    "summary": "Wat Ratchanatdaram Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Ratchapradit Sathit Maha Simaram Ratchaworawihan",
+    "nameTh": "วัดราชประดิษฐสถิตมหาสีมารามราชวรวิหาร",
+    "lat": 13.749539,
+    "lng": 100.495618,
+    "category": "temple",
+    "summary": "Wat Ratchapradit Sathit Maha Simaram Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Amarin Winitchai Throne Hall",
+    "nameTh": "พระที่นั่งอมรินทรวินิจฉัย",
+    "lat": 13.7504,
+    "lng": 100.492013,
+    "category": "cultural-site",
+    "summary": "Amarin Winitchai Throne Hall is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Ban Chao Phraya",
+    "nameTh": "บ้านเจ้าพระยา",
+    "lat": 13.763454,
+    "lng": 100.494894,
+    "category": "cultural-site",
+    "summary": "Ban Chao Phraya is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic",
+      "riverside",
+      "scenic-view",
+      "vintage"
+    ]
+  },
+  {
+    "name": "Bangkok Railway Station",
+    "nameTh": "สถานีรถไฟกรุงเทพ",
+    "lat": 13.740746,
+    "lng": 100.516927,
+    "category": "cultural-site",
+    "summary": "Bangkok Railway Station is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Chakrapat Phiman Hall",
+    "nameTh": "พระที่นั่งจักรพรรดิพิมาน",
+    "lat": 13.749826,
+    "lng": 100.492021,
+    "category": "cultural-site",
+    "summary": "Chakrapat Phiman Hall is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Dusit Maha Prasat Hall",
+    "nameTh": "พระที่นั่งดุสิตมหาปราสาท",
+    "lat": 13.75016,
+    "lng": 100.490512,
+    "category": "cultural-site",
+    "summary": "https://photos.app.goo.gl/dGAXJtzhd3cg8Rq78",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Moon Satharn Borom Ard Hall",
+    "nameTh": "พระที่นั่งมูลสถานบรมอาสน์",
+    "lat": 13.749863,
+    "lng": 100.491531,
+    "category": "cultural-site",
+    "summary": "Moon Satharn Borom Ard Hall is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Paisal Taksin Hall",
+    "nameTh": "พระที่นั่งไพศาลทักษิณ",
+    "lat": 13.75015,
+    "lng": 100.49202,
+    "category": "cultural-site",
+    "summary": "Paisal Taksin Hall is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Phiman Rattaya Hall",
+    "nameTh": "พระที่นั่งพิมานรัตยา",
+    "lat": 13.749764,
+    "lng": 100.49057,
+    "category": "cultural-site",
+    "summary": "Phiman Rattaya Hall is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Sommuthi Thevaraj Uppabat Hall",
+    "nameTh": "พระที่นั่งสมมติเทวราชอุปบัติ",
+    "lat": 13.749834,
+    "lng": 100.491042,
+    "category": "cultural-site",
+    "summary": "Sommuthi Thevaraj Uppabat Hall is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Tha Pra Chan",
+    "nameTh": "ท่าพระจันทร์",
+    "lat": 13.756429,
+    "lng": 100.489327,
+    "category": "neighborhood",
+    "summary": "Tha Pra Chan is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic"
+    ]
+  },
+  {
+    "name": "Rama VIII Bridge",
+    "nameTh": "สะพานพระราม 8",
+    "lat": 13.769645,
+    "lng": 100.495856,
+    "category": "bridge",
+    "summary": "Rama VIII Bridge is a mapped bridge landmark in 13.735,100.485,13.775,100.525, useful for river crossings, photo stops, and historic urban walks.",
+    "vibeTags": [
+      "historic",
+      "riverside",
+      "scenic-view",
+      "sunset"
+    ]
+  },
+  {
+    "name": "Wang lang market",
+    "nameTh": "ตลาดวังหลัง",
+    "lat": 13.755631,
+    "lng": 100.485183,
+    "category": "market",
+    "summary": "Wang lang market is a mapped market in 13.735,100.485,13.775,100.525, useful for local atmosphere, food-route planning, and heritage-neighborhood exploration.",
+    "vibeTags": [
+      "historic",
+      "street-food",
+      "bustling",
+      "local-favorite"
+    ]
+  },
+  {
+    "name": "Saranrom Park",
+    "nameTh": "สวนสราญรมย์",
+    "lat": 13.748347,
+    "lng": 100.495219,
+    "category": "park",
+    "summary": "Saranrom Park is a historic or heritage-tagged park in 13.735,100.485,13.775,100.525, useful for quieter breaks between dense attraction clusters.",
+    "vibeTags": [
+      "historic",
+      "garden",
+      "quiet",
+      "family-friendly"
+    ]
+  },
+  {
+    "name": "Chao Chom Manda Nueang Monument",
+    "nameTh": "อนุสาวรีย์เจ้าจอมมารดาเนื่อง",
+    "lat": 13.74886,
+    "lng": 100.496606,
+    "category": "monument",
+    "summary": "Chao Chom Manda Nueang Monument is a historic monument or memorial in 13.735,100.485,13.775,100.525, useful as a civic landmark and orientation point.",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "Chao Chom Manda Uam Memorial",
+    "nameTh": "อนุสาวรีย์เจ้าจอมมารดาอ่วม",
+    "lat": 13.748638,
+    "lng": 100.496588,
+    "category": "monument",
+    "summary": "Chao Chom Manda Uam Memorial is a historic monument or memorial in 13.735,100.485,13.775,100.525, useful as a civic landmark and orientation point.",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "Isariyabhorn Memorial",
+    "nameTh": "อนุสาวรีย์พระเจ้าบรมวงศ์เธอ พระองค์เจ้าอิศริยาภรณ์",
+    "lat": 13.748896,
+    "lng": 100.496836,
+    "category": "monument",
+    "summary": "Isariyabhorn Memorial is a historic monument or memorial in 13.735,100.485,13.775,100.525, useful as a civic landmark and orientation point.",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "Phra Si Rattana Chedi",
+    "nameTh": "พระศรีรัตนเจดีย์",
+    "lat": 13.751618,
+    "lng": 100.492287,
+    "category": "monument",
+    "summary": "Phra Si Rattana Chedi is a historic monument or memorial in 13.735,100.485,13.775,100.525, useful as a civic landmark and orientation point.",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "Queen Sunanda Kumariratana Memorial",
+    "nameTh": "อนุสาวรีย์สมเด็จพระนางเจ้าสุนันทากุมารีรัตน์",
+    "lat": 13.748405,
+    "lng": 100.495341,
+    "category": "monument",
+    "summary": "Queen Sunanda Kumariratana Memorial is a historic monument or memorial in 13.735,100.485,13.775,100.525, useful as a civic landmark and orientation point.",
+    "vibeTags": [
+      "historic",
+      "vintage",
+      "scenic-view"
+    ]
+  },
+  {
+    "name": "Wat Amon Khiri",
+    "nameTh": "วัดอมรคีรี",
+    "lat": 13.771894,
+    "lng": 100.48992,
+    "category": "temple",
+    "summary": "Wat Amon Khiri is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Bamphen Chin Phro",
+    "nameTh": "วัดบำเพ็ญจีนพรต",
+    "lat": 13.742028,
+    "lng": 100.507642,
+    "category": "temple",
+    "summary": "Wat Bamphen Chin Phro is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Bang Yi Khan",
+    "nameTh": "วัดบางยี่ขัน",
+    "lat": 13.770779,
+    "lng": 100.489571,
+    "category": "temple",
+    "summary": "Wat Bang Yi Khan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Borom Niwat Ratchaworawihan",
+    "nameTh": "วัดบรมนิวาสราชวรวิหาร",
+    "lat": 13.751552,
+    "lng": 100.519471,
+    "category": "temple",
+    "summary": "Wat Borom Niwat Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Bowon Mongkhon Ratchaworawihan",
+    "nameTh": "วัดบวรมงคลราชวรวิหาร",
+    "lat": 13.775259,
+    "lng": 100.496835,
+    "category": "temple",
+    "summary": "Wat Bowon Mongkhon Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Bowon Niwet Ratchaworawihan",
+    "nameTh": "วัดบวรนิเวศราชวรวิหาร",
+    "lat": 13.759755,
+    "lng": 100.500614,
+    "category": "temple",
+    "summary": "Wat Bowon Niwet Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Bowon Sathan Sutthawat",
+    "nameTh": "วัดบวรสถานสุทธาวาส",
+    "lat": 13.759591,
+    "lng": 100.491542,
+    "category": "temple",
+    "summary": "Wat Bowon Sathan Sutthawat is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Buppharam Worawihan",
+    "nameTh": "วัดบุปผารามวรวิหาร",
+    "lat": 13.735367,
+    "lng": 100.492251,
+    "category": "temple",
+    "summary": "Wat Buppharam Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Buranasiri Mattayaram",
+    "nameTh": "วัดบุรณศิริมาตยาราม",
+    "lat": 13.755561,
+    "lng": 100.495995,
+    "category": "temple",
+    "summary": "Wat Buranasiri Mattayaram is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Chai Chana Songkhram",
+    "nameTh": "วัดชัยชนะสงคราม",
+    "lat": 13.744464,
+    "lng": 100.505634,
+    "category": "temple",
+    "summary": "Wat Chai Chana Songkhram is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Chai Mongkhon",
+    "nameTh": "วัดชัยมงคล",
+    "lat": 13.74795,
+    "lng": 100.522801,
+    "category": "temple",
+    "summary": "Wat Chai Mongkhon is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Chamni Hatthakan",
+    "nameTh": "วัดชำนิหัตถการ",
+    "lat": 13.748672,
+    "lng": 100.519518,
+    "category": "temple",
+    "summary": "Wat Chamni Hatthakan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Chana Songkhram",
+    "nameTh": "วัดชนะสงคราม",
+    "lat": 13.76083,
+    "lng": 100.495078,
+    "category": "temple",
+    "summary": "Wat Chana Songkhram is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Chaturamit Pradittharam",
+    "nameTh": "วัดจตุรมิตรประดิษฐาราม",
+    "lat": 13.768053,
+    "lng": 100.49241,
+    "category": "temple",
+    "summary": "Wat Chaturamit Pradittharam is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Daowaduengsaram",
+    "nameTh": "วัดดาวดึงษาราม",
+    "lat": 13.767921,
+    "lng": 100.491421,
+    "category": "temple",
+    "summary": "Wat Daowaduengsaram is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Dibayavari Vihara",
+    "nameTh": "วัดทิพยวารีวิหาร",
+    "lat": 13.746229,
+    "lng": 100.49864,
+    "category": "temple",
+    "summary": "Wat Dibayavari Vihara is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Disanukaram",
+    "nameTh": "วัดดิสานุการาม",
+    "lat": 13.749078,
+    "lng": 100.508385,
+    "category": "temple",
+    "summary": "Wat Disanukaram is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Duang Khae",
+    "nameTh": "วัดดวงแข",
+    "lat": 13.741607,
+    "lng": 100.518736,
+    "category": "temple",
+    "summary": "Wat Duang Khae is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Dusidaram Worawihan",
+    "nameTh": "วัดดุสิดารามวรวิหาร",
+    "lat": 13.763585,
+    "lng": 100.487545,
+    "category": "temple",
+    "summary": "Wat Dusidaram Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Hong Rattanaram Ratchaworawihan",
+    "nameTh": "วัดหงส์รัตนารามราชวรวิหาร",
+    "lat": 13.739555,
+    "lng": 100.487753,
+    "category": "temple",
+    "summary": "Wat Hong Rattanaram Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Iam Woranut",
+    "nameTh": "วัดเอี่ยมวรนุช",
+    "lat": 13.766259,
+    "lng": 100.501074,
+    "category": "temple",
+    "summary": "Wat Iam Woranut is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Intharawihan",
+    "nameTh": "วัดอินทรวิหาร",
+    "lat": 13.766817,
+    "lng": 100.502994,
+    "category": "temple",
+    "summary": "Wat Intharawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Kan Matuyaram",
+    "nameTh": "วัดกันมาตุยาราม",
+    "lat": 13.742358,
+    "lng": 100.508215,
+    "category": "temple",
+    "summary": "Wat Kan Matuyaram is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Kanlayanamit Woramahawihan",
+    "nameTh": "วัดกัลยาณมิตรวรมหาวิหาร",
+    "lat": 13.740062,
+    "lng": 100.491275,
+    "category": "temple",
+    "summary": "Wat Kanlayanamit Woramahawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Khanika Phon",
+    "nameTh": "วัดคณิกาผล",
+    "lat": 13.744425,
+    "lng": 100.510109,
+    "category": "temple",
+    "summary": "Wat Khanika Phon is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Kharuehabodi",
+    "nameTh": "วัดคฤหบดี",
+    "lat": 13.772044,
+    "lng": 100.49609,
+    "category": "temple",
+    "summary": "Wat Kharuehabodi is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Khruea Wan Worawihan",
+    "nameTh": "วัดเครือวัลย์วรวิหาร",
+    "lat": 13.746279,
+    "lng": 100.485751,
+    "category": "temple",
+    "summary": "Wat Khruea Wan Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Kuson Samakhon",
+    "nameTh": "วัดกุศลสมาคร",
+    "lat": 13.742423,
+    "lng": 100.50768,
+    "category": "temple",
+    "summary": "Wat Kuson Samakhon is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Mai Amatarot",
+    "nameTh": "วัดใหม่อมตรส",
+    "lat": 13.764472,
+    "lng": 100.501612,
+    "category": "temple",
+    "summary": "Wat Mai Amatarot is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Mangkon Kamalawat",
+    "nameTh": "วัดมังกรกมลาวาส",
+    "lat": 13.743526,
+    "lng": 100.509577,
+    "category": "temple",
+    "summary": "Wat Mangkon Kamalawat is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Moli Lokkayaram Ratchaworawihan",
+    "nameTh": "วัดโมลีโลกยารามราชวรวิหาร",
+    "lat": 13.741064,
+    "lng": 100.489541,
+    "category": "temple",
+    "summary": "Wat Moli Lokkayaram Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Noi Nang Hong",
+    "nameTh": "วัดน้อยนางหงษ์",
+    "lat": 13.772515,
+    "lng": 100.488778,
+    "category": "temple",
+    "summary": "Wat Noi Nang Hong is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Noi Thongyu",
+    "nameTh": "วัดน้อยทองอยู่",
+    "lat": 13.763687,
+    "lng": 100.488886,
+    "category": "temple",
+    "summary": "Wat Noi Thongyu is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Noranat Suntharikaram",
+    "nameTh": "วัดนรนาถสุนทริการาม",
+    "lat": 13.769566,
+    "lng": 100.50278,
+    "category": "temple",
+    "summary": "Wat Noranat Suntharikaram is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Pathum Khongkha Ratchaworawihan",
+    "nameTh": "วัดปทุมคงคาราชวรวิหาร",
+    "lat": 13.736421,
+    "lng": 100.510991,
+    "category": "temple",
+    "summary": "Wat Pathum Khongkha Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Phlapphla Chai",
+    "nameTh": "วัดพลับพลาชัย",
+    "lat": 13.745476,
+    "lng": 100.512556,
+    "category": "temple",
+    "summary": "Wat Phlapphla Chai is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Phra Phiren",
+    "nameTh": "วัดพระพิเรนทร์",
+    "lat": 13.74774,
+    "lng": 100.505934,
+    "category": "temple",
+    "summary": "Wat Phra Phiren is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Phraya Siri-aisawan",
+    "nameTh": "วัดพระยาศิริไอยสวรรค์",
+    "lat": 13.768683,
+    "lng": 100.492883,
+    "category": "temple",
+    "summary": "Wat Phraya Siri-aisawan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Phraya Yang Worawihan",
+    "nameTh": "วัดพระยายังวรวิหาร",
+    "lat": 13.752292,
+    "lng": 100.521117,
+    "category": "temple",
+    "summary": "Wat Phraya Yang Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Phummarin Ratchapaksi",
+    "nameTh": "วัดภุมรินทร์ราชปักษี",
+    "lat": 13.764246,
+    "lng": 100.487832,
+    "category": "temple",
+    "summary": "Wat Phummarin Ratchapaksi is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Prayurawongsawat",
+    "nameTh": "วัดประยุรวงศาวาสวรวิหาร",
+    "lat": 13.736713,
+    "lng": 100.495511,
+    "category": "temple",
+    "summary": "Wat Prayurawongsawat is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Rachathiwat Ratchaworawihan",
+    "nameTh": "วัดราชาธิวาสราชวรวิหาร",
+    "lat": 13.77537,
+    "lng": 100.503627,
+    "category": "temple",
+    "summary": "Wat Rachathiwat Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Ratchaburana Ratchaworawihan",
+    "nameTh": "วัดราชบุรณราชวรวิหาร",
+    "lat": 13.742144,
+    "lng": 100.499256,
+    "category": "temple",
+    "summary": "Wat Ratchaburana Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Ratchasittharam Ratchaworawihan",
+    "nameTh": "วัดราชสิทธารามราชวรวิหาร",
+    "lat": 13.736728,
+    "lng": 100.483981,
+    "category": "temple",
+    "summary": "Wat Ratchasittharam Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Sa Bua",
+    "nameTh": "วัดสระบัว",
+    "lat": 13.748163,
+    "lng": 100.518557,
+    "category": "temple",
+    "summary": "Wat Sa Bua is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Sam Phraya Worawihan",
+    "nameTh": "วัดสามพระยาวรวิหาร",
+    "lat": 13.76592,
+    "lng": 100.499029,
+    "category": "temple",
+    "summary": "Wat Sam Phraya Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Samphanthawongsaram Worawihan",
+    "nameTh": "วัดสัมพันธวงศารามวรวิหาร",
+    "lat": 13.738341,
+    "lng": 100.510126,
+    "category": "temple",
+    "summary": "Wat Samphanthawongsaram Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Sangwet Witsayaram",
+    "nameTh": "วัดสังเวชวิศยาราม",
+    "lat": 13.764359,
+    "lng": 100.497425,
+    "category": "temple",
+    "summary": "Wat Sangwet Witsayaram is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Sitaram",
+    "nameTh": "วัดสิตาราม",
+    "lat": 13.755534,
+    "lng": 100.51037,
+    "category": "temple",
+    "summary": "Wat Sitaram is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Suan Sawan",
+    "nameTh": "วัดสวนสวรรค์",
+    "lat": 13.772491,
+    "lng": 100.494494,
+    "category": "temple",
+    "summary": "Wat Suan Sawan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Thep Sirinthrawat Ratchaworawihan",
+    "nameTh": "วัดเทพศิรินทราวาสราชวรวิหาร",
+    "lat": 13.747008,
+    "lng": 100.513902,
+    "category": "temple",
+    "summary": "Wat Thep Sirinthrawat Ratchaworawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Thewarat Kunchon Worawihan",
+    "nameTh": "วัดเทวราชกุญชรวรวิหาร",
+    "lat": 13.77225,
+    "lng": 100.501746,
+    "category": "temple",
+    "summary": "Wat Thewarat Kunchon Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Thewi Worayat",
+    "nameTh": "วัดเทวีวรญาติ",
+    "lat": 13.749444,
+    "lng": 100.509583,
+    "category": "temple",
+    "summary": "Wat Thewi Worayat is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Traimit Witthayaram Worawihan",
+    "nameTh": "วัดไตรมิตรวิทยารามวรวิหาร",
+    "lat": 13.73809,
+    "lng": 100.513629,
+    "category": "temple",
+    "summary": "Wat Traimit Witthayaram Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Wat Tri Thotsathep Worawihan",
+    "nameTh": "วัดตรีทศเทพวรวิหาร",
+    "lat": 13.762118,
+    "lng": 100.503145,
+    "category": "temple",
+    "summary": "Wat Tri Thotsathep Worawihan is a mapped temple or place of worship in 13.735,100.485,13.775,100.525, useful as a cultural stop for historic walking routes.",
+    "vibeTags": [
+      "historic",
+      "temple-visit",
+      "morning"
+    ]
+  },
+  {
+    "name": "Khao San Road",
+    "nameTh": "ถนนข้าวสาร",
+    "lat": 13.758904,
+    "lng": 100.497319,
+    "category": "cultural-site",
+    "summary": "Khao San Road is a mapped historic or cultural attraction in 13.735,100.485,13.775,100.525, pulled from OpenStreetMap for itinerary testing and discovery.",
+    "vibeTags": [
+      "historic",
+      "vintage"
+    ]
+  }
+]
