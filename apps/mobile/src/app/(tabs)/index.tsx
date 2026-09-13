@@ -41,17 +41,17 @@ export default function HomeScreen() {
         <View style={styles.avatar}><ThemedText variant="title" color={colors.onPrimary}>🥬</ThemedText></View>
       </View>
 
-      <Pressable style={styles.searchPill} onPress={() => router.push('/discover' as never)}>
+      <Pressable style={styles.searchPill} onPress={() => router.push('/discover')}>
         <ThemedText color={colors.textMuted}>⌕  {t('home.searchPlaceholder')}</ThemedText>
       </Pressable>
 
-      <Pressable style={styles.cravingCard} onPress={() => router.push('/chat' as never)}>
+      <Pressable style={styles.cravingCard} onPress={() => router.push('/chat')}>
         <ThemedText variant="title" color={colors.onBrand}>What are you craving?</ThemedText>
         <ThemedText variant="caption" color={colors.onBrandDim}>Ask in your own words — “rainy day soup near me”</ThemedText>
       </Pressable>
 
       {pick ? (
-        <Pressable style={styles.hero} onPress={() => router.push(`/dish/${pick.id}` as never)}>
+        <Pressable style={styles.hero} onPress={() => router.push(`/dish/${pick.id}`)}>
           <View style={styles.heroPhoto}>
             <ThemedText variant="caption" color={colors.white}>photo · {pick.nameEn.toLowerCase()}</ThemedText>
           </View>
@@ -77,7 +77,7 @@ export default function HomeScreen() {
       </ThemedText>
       <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.shelf}>
         {shelf.map((d) => (
-          <Pressable key={d.id} style={styles.shelfCard} onPress={() => router.push(`/dish/${d.id}` as never)}>
+          <Pressable key={d.id} style={styles.shelfCard} onPress={() => router.push(`/dish/${d.id}`)}>
             <View style={styles.shelfPhoto}>
               <ThemedText variant="caption" color={colors.white} numberOfLines={1}>photo</ThemedText>
             </View>
@@ -97,7 +97,7 @@ export default function HomeScreen() {
             <Pressable
               key={tile.region}
               style={[styles.regionTile, { backgroundColor: colors[tile.bg] }]}
-              onPress={() => router.push({ pathname: '/discover', params: { region: tile.region } } as never)}
+              onPress={() => router.push({ pathname: '/discover', params: { region: tile.region } })}
             >
               <ThemedText variant="label" color={colors[tile.text]}>{tile.label}</ThemedText>
               {two.map((d) => (

@@ -87,7 +87,7 @@ export default function ChatScreen() {
           <DishResultCard
             key={r.id}
             dish={{ id: r.id, nameEn: r.nameEn, sub: r.description ?? r.regionName ?? undefined }}
-            onPress={() => router.push(`/dish/${r.id}` as never)}
+            onPress={() => router.push(`/dish/${r.id}`)}
           />
         ))}
       </View>

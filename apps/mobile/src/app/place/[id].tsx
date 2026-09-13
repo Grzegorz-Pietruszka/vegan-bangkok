@@ -119,7 +119,7 @@ export default function PlaceDetail() {
             </ThemedText>
           ) : (
             dishesHere.map((d) => (
-              <Pressable key={d.id} style={styles.dishRow} onPress={() => router.push(`/dish/${d.id}` as never)}>
+              <Pressable key={d.id} style={styles.dishRow} onPress={() => router.push(`/dish/${d.id}`)}>
                 <View style={{ flex: 1 }}>
                   <ThemedText variant="title">{d.nameEn}</ThemedText>
                   {d.places.find((p) => p.name === place.name)?.verifiedVegan ? (

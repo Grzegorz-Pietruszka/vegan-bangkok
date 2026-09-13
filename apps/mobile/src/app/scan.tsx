@@ -55,7 +55,7 @@ export default function ScanScreen() {
   // scanned dish ids come from the same corpus the bundle was exported from; only link
   // when the dish is actually in the bundle so dish/[id] never opens on "not found"
   const goDish = (id: string) => {
-    if (dishesSeed.some((d) => d.id === id)) router.push(`/dish/${id}` as never);
+    if (dishesSeed.some((d) => d.id === id)) router.push(`/dish/${id}`);
   };
 
   return (

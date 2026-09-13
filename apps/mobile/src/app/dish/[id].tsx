@@ -117,7 +117,7 @@ export default function DishDetail() {
               </View>
             );
             return placeId ? (
-              <Pressable key={p.name} onPress={() => router.push(`/place/${placeId}` as never)}>{row}</Pressable>
+              <Pressable key={p.name} onPress={() => router.push(`/place/${placeId}`)}>{row}</Pressable>
             ) : row;
           })
         )}
@@ -129,7 +129,7 @@ export default function DishDetail() {
       </Animated.View>
 
       <View style={[styles.ctaRow, { paddingBottom: insets.bottom + spacing.md }]}>
-        <Pressable style={styles.secondaryPill} onPress={() => router.push(`/vendor/${dish.id}` as never)}>
+        <Pressable style={styles.secondaryPill} onPress={() => router.push(`/vendor/${dish.id}`)}>
           <ThemedText variant="label" color={colors.primary}>Show the vendor</ThemedText>
         </Pressable>
         <Pressable style={styles.primaryPill} onPress={() => { /* place list arrives with 5b/search */ }}>
