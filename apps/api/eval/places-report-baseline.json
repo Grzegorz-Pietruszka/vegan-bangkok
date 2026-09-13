@@ -1,0 +1,601 @@
+{
+  "config": {
+    "slm": false,
+    "warmupMs": null,
+    "places": 144
+  },
+  "cases": 32,
+  "hardViolations": 0,
+  "accuracy": {
+    "deterministic": {
+      "graded": 15,
+      "passed": 14
+    },
+    "retrieval": {
+      "graded": 7,
+      "passed": 0
+    },
+    "slm": {
+      "graded": 9,
+      "passed": 7
+    }
+  },
+  "fallbackRate": {
+    "all": 0.5625,
+    "slmSet": 1
+  },
+  "latencyMs": {
+    "pass1": {
+      "p50": 7.088959000000614,
+      "p95": 327.29454199999964,
+      "max": 558.76975
+    },
+    "pass2": {
+      "p50": 7.760165999999117,
+      "p95": 13.166583000000173,
+      "max": 26.44508399999995
+    },
+    "parserOnly": {
+      "p50": 0.005724170000003141,
+      "p95": 0.04026834000000235
+    },
+    "slmInference": null
+  },
+  "embedCalls": {
+    "pass1": 15,
+    "pass2": 0
+  },
+  "rowsChecked": 314,
+  "perCase": [
+    {
+      "q": "best vegan restaurant in Thonglor",
+      "set": "deterministic",
+      "ms": 559,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": "Thonglor",
+      "confidence": 1,
+      "top3": [
+        "Nature’s Charm Cafe",
+        "PLANTIFUL on Sukhumvit 61",
+        "Plant Passion BKK แพลนต์แพชชั่น"
+      ],
+      "problems": []
+    },
+    {
+      "q": "cheap vegan food in Chinatown",
+      "set": "deterministic",
+      "ms": 295,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Chinatown",
+      "confidence": 1,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Punsuk Vegetarian",
+        "So Vegan - i'm Chinatown​ (2F)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "vegan cafe in Ari",
+      "set": "deterministic",
+      "ms": 317,
+      "fallback": true,
+      "fallbackReason": "no_results",
+      "intentType": "entity",
+      "mode": null,
+      "location": "Ari",
+      "confidence": 1,
+      "top3": [
+        "Signature 15",
+        "Dasaprakash - Pratunam, Bangkok",
+        "Vegetarian Society in Chatuchak"
+      ],
+      "problems": []
+    },
+    {
+      "q": "hidden gem vegan places in Silom",
+      "set": "deterministic",
+      "ms": 327,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": "hidden_gems",
+      "location": "Silom",
+      "confidence": 1,
+      "top3": [
+        "Baan Ying Plant-Based - Thai Vegan All Day Dining & Wine Bar",
+        "Tutto Matto - Sathon 11",
+        "EAT ME RESTAURANT"
+      ],
+      "problems": []
+    },
+    {
+      "q": "popular vegan restaurants sukhumvit",
+      "set": "deterministic",
+      "ms": 288,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": "popular",
+      "location": "Sukhumvit",
+      "confidence": 0.75,
+      "top3": [
+        "VEGANERIE Concept",
+        "Golden State Vegan Restaurant",
+        "MAY VEGGIE HOME EXPRESS [Sukhumvit23]"
+      ],
+      "problems": []
+    },
+    {
+      "q": "vegan near me",
+      "set": "deterministic",
+      "ms": 265,
+      "fallback": false,
+      "intentType": "nearby",
+      "mode": null,
+      "location": null,
+      "confidence": 1,
+      "top3": [
+        "Nature’s Charm Cafe",
+        "PLANTIFUL on Sukhumvit 61",
+        "Nature's Charm"
+      ],
+      "problems": []
+    },
+    {
+      "q": "vegan food open now in Khao San",
+      "set": "deterministic",
+      "ms": 288,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Khao San",
+      "confidence": 1,
+      "top3": [
+        "Kem-Kon Khaosan",
+        "Mango Vegetarian & Vegan",
+        "Tham Na"
+      ],
+      "problems": []
+    },
+    {
+      "q": "vegan buffet in Phrom Phong",
+      "set": "deterministic",
+      "ms": 270,
+      "fallback": false,
+      "intentType": "entity",
+      "mode": null,
+      "location": "Phrom Phong",
+      "confidence": 1,
+      "top3": [
+        "Golden State Vegan Restaurant",
+        "VEGANERIE Concept",
+        "Nature’s Charm Cafe"
+      ],
+      "problems": []
+    },
+    {
+      "q": "ทองหล่อ",
+      "set": "deterministic",
+      "ms": 253,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Thonglor",
+      "confidence": 1,
+      "top3": [
+        "Nature’s Charm Cafe",
+        "Sit and Wonder",
+        "PLANTIFUL on Sukhumvit 61"
+      ],
+      "problems": []
+    },
+    {
+      "q": "yaowarat vegan street food",
+      "set": "deterministic",
+      "ms": 283,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Chinatown",
+      "confidence": 0.75,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "So Vegan - i'm Chinatown​ (2F)",
+        "Jae Lee Vegan"
+      ],
+      "problems": [
+        "intentType discovery ≠ entity"
+      ]
+    },
+    {
+      "q": "vegan food crawl in old town",
+      "set": "deterministic",
+      "ms": 293,
+      "fallback": false,
+      "intentType": "planning",
+      "mode": null,
+      "location": "Phra Nakhon",
+      "confidence": 1,
+      "top3": [
+        "Vegan Pranakhon- Khaosan Road วีแกนพระนคร- ถนนข้าวสาร",
+        "Ethos Vegetarian & Vegan Restaurant",
+        "Kem-Kon Khaosan"
+      ],
+      "problems": []
+    },
+    {
+      "q": "top rated vegan bakery ekkamai",
+      "set": "deterministic",
+      "ms": 272,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": "Ekkamai",
+      "confidence": 0.8,
+      "top3": [
+        "Kynd Kulture",
+        "PLANTIFUL on Sukhumvit 61",
+        "Plant Passion BKK แพลนต์แพชชั่น"
+      ],
+      "problems": []
+    },
+    {
+      "q": "quiet vegan cafe",
+      "set": "deterministic",
+      "ms": 299,
+      "fallback": false,
+      "intentType": "entity",
+      "mode": null,
+      "location": null,
+      "confidence": 1,
+      "top3": [
+        "Nature’s Charm Cafe",
+        "Kynd Kulture",
+        "So Vegan - i'm Chinatown​ (2F)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "budget vegan eats little india",
+      "set": "deterministic",
+      "ms": 249,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Pahurat",
+      "confidence": 1,
+      "top3": [
+        "ร้านนางอาหารเจ (vegetarian food)",
+        "Kem-Kon Vegan Phahurat",
+        "GYO FU Vegetarian Dumplings - เกี๊ยวฟู"
+      ],
+      "problems": []
+    },
+    {
+      "q": "hole in the wall vegan pahurat",
+      "set": "deterministic",
+      "ms": 266,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": "hidden_gems",
+      "location": "Pahurat",
+      "confidence": 1,
+      "top3": [
+        "Kem-Kon Vegan Phahurat",
+        "Kem-Kon Pahurat",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "broccoli revolution",
+      "set": "retrieval",
+      "ms": 6,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": [
+        "top-1 \"Jae Oa Vegetarian\" ≠ \"Broccoli Revolution\""
+      ]
+    },
+    {
+      "q": "may kaidee",
+      "set": "retrieval",
+      "ms": 6,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": [
+        "\"May Kaidee\" not in top-5"
+      ]
+    },
+    {
+      "q": "ethos",
+      "set": "retrieval",
+      "ms": 5,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": [
+        "\"Ethos Vegetarian & Vegan Restaurant\" not in top-5"
+      ]
+    },
+    {
+      "q": "chamlong",
+      "set": "retrieval",
+      "ms": 5,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": [
+        "\"Chamlong's\" not in top-5"
+      ]
+    },
+    {
+      "q": "plantiful sukhumvit",
+      "set": "retrieval",
+      "ms": 7,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Sukhumvit",
+      "confidence": 0.5,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "VEGANERIE Ratchathewi",
+        "Masu Maki & Sushi Bar"
+      ],
+      "problems": [
+        "\"PLANTIFUL on Sukhumvit 61\" not in top-5"
+      ]
+    },
+    {
+      "q": "mercy republic",
+      "set": "retrieval",
+      "ms": 5,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": [
+        "\"Mercy Republic\" not in top-5"
+      ]
+    },
+    {
+      "q": "vegan sushi",
+      "set": "retrieval",
+      "ms": 5,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0.5,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": [
+        "\"Golden State Vegan Sushi\" not in top-5"
+      ]
+    },
+    {
+      "q": "somewhere chill to grab dinner tonight",
+      "set": "slm",
+      "ms": 7,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0.17,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "top rated brunch spots",
+      "set": "slm",
+      "ms": 6,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "best",
+      "mode": null,
+      "location": null,
+      "confidence": 0.25,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "secret local places tourists dont know",
+      "set": "slm",
+      "ms": 5,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0.17,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": [
+        "SLM mode null ∉ [hidden_gems]"
+      ]
+    },
+    {
+      "q": "what should i eat",
+      "set": "slm",
+      "ms": 5,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0.25,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "fancy dinner date spot",
+      "set": "slm",
+      "ms": 5,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "michelin level plant based fine dining",
+      "set": "slm",
+      "ms": 6,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "hungry and lazy dont want to walk far",
+      "set": "slm",
+      "ms": 5,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0.13,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "i want to spend a whole day eating my way across the city",
+      "set": "slm",
+      "ms": 5,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0.23,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": [
+        "SLM intentType discovery ∉ [planning]"
+      ]
+    },
+    {
+      "q": "everyone keeps talking about that one noodle shop",
+      "set": "slm",
+      "ms": 6,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "asdkjh qwe zxc",
+      "set": "slm",
+      "ms": 4,
+      "fallback": true,
+      "fallbackReason": "low_confidence",
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Ruyi vegetarian",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    }
+  ]
+}

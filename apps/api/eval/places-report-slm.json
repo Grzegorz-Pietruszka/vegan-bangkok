@@ -1,0 +1,574 @@
+{
+  "config": {
+    "slm": true,
+    "warmupMs": 1966.9011249999999,
+    "places": 144
+  },
+  "cases": 32,
+  "hardViolations": 0,
+  "accuracy": {
+    "deterministic": {
+      "graded": 15,
+      "passed": 14
+    },
+    "retrieval": {
+      "graded": 7,
+      "passed": 7
+    },
+    "slm": {
+      "graded": 9,
+      "passed": 7
+    }
+  },
+  "fallbackRate": {
+    "all": 0.03125,
+    "slmSet": 0
+  },
+  "latencyMs": {
+    "pass1": {
+      "p50": 374.4491249999992,
+      "p95": 590.2851250000003,
+      "max": 613.9862079999998
+    },
+    "pass2": {
+      "p50": 143.66062500000044,
+      "p95": 503.91729199999827,
+      "max": 645.1747080000023
+    },
+    "parserOnly": {
+      "p50": 0.0029470900000160326,
+      "p95": 0.010921669999988807
+    },
+    "slmInference": {
+      "p50": 243.4656249999971,
+      "p95": 384.648541999999,
+      "n": 10
+    }
+  },
+  "embedCalls": {
+    "pass1": 32,
+    "pass2": 0
+  },
+  "rowsChecked": 314,
+  "perCase": [
+    {
+      "q": "best vegan restaurant in Thonglor",
+      "set": "deterministic",
+      "ms": 614,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": "Thonglor",
+      "confidence": 1,
+      "top3": [
+        "Nature’s Charm Cafe",
+        "PLANTIFUL on Sukhumvit 61",
+        "Plant Passion BKK แพลนต์แพชชั่น"
+      ],
+      "problems": []
+    },
+    {
+      "q": "cheap vegan food in Chinatown",
+      "set": "deterministic",
+      "ms": 373,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Chinatown",
+      "confidence": 1,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "Punsuk Vegetarian",
+        "So Vegan - i'm Chinatown​ (2F)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "vegan cafe in Ari",
+      "set": "deterministic",
+      "ms": 277,
+      "fallback": true,
+      "fallbackReason": "no_results",
+      "intentType": "entity",
+      "mode": null,
+      "location": "Ari",
+      "confidence": 1,
+      "top3": [
+        "Signature 15",
+        "Dasaprakash - Pratunam, Bangkok",
+        "Vegetarian Society in Chatuchak"
+      ],
+      "problems": []
+    },
+    {
+      "q": "hidden gem vegan places in Silom",
+      "set": "deterministic",
+      "ms": 252,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": "hidden_gems",
+      "location": "Silom",
+      "confidence": 1,
+      "top3": [
+        "Baan Ying Plant-Based - Thai Vegan All Day Dining & Wine Bar",
+        "Tutto Matto - Sathon 11",
+        "EAT ME RESTAURANT"
+      ],
+      "problems": []
+    },
+    {
+      "q": "popular vegan restaurants sukhumvit",
+      "set": "deterministic",
+      "ms": 271,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": "popular",
+      "location": "Sukhumvit",
+      "confidence": 0.75,
+      "top3": [
+        "VEGANERIE Concept",
+        "Golden State Vegan Restaurant",
+        "MAY VEGGIE HOME EXPRESS [Sukhumvit23]"
+      ],
+      "problems": []
+    },
+    {
+      "q": "vegan near me",
+      "set": "deterministic",
+      "ms": 280,
+      "fallback": false,
+      "intentType": "nearby",
+      "mode": null,
+      "location": null,
+      "confidence": 1,
+      "top3": [
+        "Nature’s Charm Cafe",
+        "PLANTIFUL on Sukhumvit 61",
+        "Nature's Charm"
+      ],
+      "problems": []
+    },
+    {
+      "q": "vegan food open now in Khao San",
+      "set": "deterministic",
+      "ms": 251,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Khao San",
+      "confidence": 1,
+      "top3": [
+        "Kem-Kon Khaosan",
+        "Mango Vegetarian & Vegan",
+        "Tham Na"
+      ],
+      "problems": []
+    },
+    {
+      "q": "vegan buffet in Phrom Phong",
+      "set": "deterministic",
+      "ms": 256,
+      "fallback": false,
+      "intentType": "entity",
+      "mode": null,
+      "location": "Phrom Phong",
+      "confidence": 1,
+      "top3": [
+        "Golden State Vegan Restaurant",
+        "VEGANERIE Concept",
+        "Nature’s Charm Cafe"
+      ],
+      "problems": []
+    },
+    {
+      "q": "ทองหล่อ",
+      "set": "deterministic",
+      "ms": 264,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Thonglor",
+      "confidence": 1,
+      "top3": [
+        "Nature’s Charm Cafe",
+        "Sit and Wonder",
+        "PLANTIFUL on Sukhumvit 61"
+      ],
+      "problems": []
+    },
+    {
+      "q": "yaowarat vegan street food",
+      "set": "deterministic",
+      "ms": 269,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Chinatown",
+      "confidence": 0.75,
+      "top3": [
+        "Jae Oa Vegetarian",
+        "So Vegan - i'm Chinatown​ (2F)",
+        "Jae Lee Vegan"
+      ],
+      "problems": [
+        "intentType discovery ≠ entity"
+      ]
+    },
+    {
+      "q": "vegan food crawl in old town",
+      "set": "deterministic",
+      "ms": 274,
+      "fallback": false,
+      "intentType": "planning",
+      "mode": null,
+      "location": "Phra Nakhon",
+      "confidence": 1,
+      "top3": [
+        "Vegan Pranakhon- Khaosan Road วีแกนพระนคร- ถนนข้าวสาร",
+        "Ethos Vegetarian & Vegan Restaurant",
+        "Kem-Kon Khaosan"
+      ],
+      "problems": []
+    },
+    {
+      "q": "top rated vegan bakery ekkamai",
+      "set": "deterministic",
+      "ms": 316,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": "Ekkamai",
+      "confidence": 0.8,
+      "top3": [
+        "Kynd Kulture",
+        "PLANTIFUL on Sukhumvit 61",
+        "Plant Passion BKK แพลนต์แพชชั่น"
+      ],
+      "problems": []
+    },
+    {
+      "q": "quiet vegan cafe",
+      "set": "deterministic",
+      "ms": 244,
+      "fallback": false,
+      "intentType": "entity",
+      "mode": null,
+      "location": null,
+      "confidence": 1,
+      "top3": [
+        "Nature’s Charm Cafe",
+        "Kynd Kulture",
+        "So Vegan - i'm Chinatown​ (2F)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "budget vegan eats little india",
+      "set": "deterministic",
+      "ms": 279,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": "Pahurat",
+      "confidence": 1,
+      "top3": [
+        "ร้านนางอาหารเจ (vegetarian food)",
+        "Kem-Kon Vegan Phahurat",
+        "GYO FU Vegetarian Dumplings - เกี๊ยวฟู"
+      ],
+      "problems": []
+    },
+    {
+      "q": "hole in the wall vegan pahurat",
+      "set": "deterministic",
+      "ms": 322,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": "hidden_gems",
+      "location": "Pahurat",
+      "confidence": 1,
+      "top3": [
+        "Kem-Kon Vegan Phahurat",
+        "Kem-Kon Pahurat",
+        "ร้านนางอาหารเจ (vegetarian food)"
+      ],
+      "problems": []
+    },
+    {
+      "q": "broccoli revolution",
+      "set": "retrieval",
+      "ms": 537,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Broccoli Revolution",
+        "PLANTIFUL on Sukhumvit 61",
+        "Green Berry แฟชั่นไอส์แลนด์ ชั้นใต้ดิน"
+      ],
+      "problems": []
+    },
+    {
+      "q": "may kaidee",
+      "set": "retrieval",
+      "ms": 448,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "May Kaidee Tanao Vegetarian & Vegan Restaurant",
+        "May Kaidee",
+        "May Veggie Home"
+      ],
+      "problems": []
+    },
+    {
+      "q": "ethos",
+      "set": "retrieval",
+      "ms": 506,
+      "fallback": false,
+      "intentType": "entity",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Ethos Vegetarian & Vegan Restaurant",
+        "CRAFT",
+        "Green & Sunny"
+      ],
+      "problems": []
+    },
+    {
+      "q": "chamlong",
+      "set": "retrieval",
+      "ms": 590,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Chamlong's",
+        "Duklong Cafe and Eat",
+        "Nature’s Charm Cafe"
+      ],
+      "problems": []
+    },
+    {
+      "q": "plantiful sukhumvit",
+      "set": "retrieval",
+      "ms": 374,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": "Sukhumvit",
+      "confidence": 0.5,
+      "top3": [
+        "PLANTIFUL on Sukhumvit 61",
+        "VEGANERIE Concept",
+        "Golden State Vegan Restaurant"
+      ],
+      "problems": []
+    },
+    {
+      "q": "mercy republic",
+      "set": "retrieval",
+      "ms": 442,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Mercy Republic",
+        "freshupthailand",
+        "Mercy Republic"
+      ],
+      "problems": []
+    },
+    {
+      "q": "vegan sushi",
+      "set": "retrieval",
+      "ms": 410,
+      "fallback": false,
+      "intentType": "entity",
+      "mode": null,
+      "location": null,
+      "confidence": 0.5,
+      "top3": [
+        "Golden State Vegan Restaurant",
+        "PLANTIFUL on Sukhumvit 61",
+        "Golden State Vegan Sushi"
+      ],
+      "problems": []
+    },
+    {
+      "q": "somewhere chill to grab dinner tonight",
+      "set": "slm",
+      "ms": 554,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": null,
+      "location": null,
+      "confidence": 0.17,
+      "top3": [
+        "Kynd Kulture",
+        "Mercy Republic",
+        "CoCo ICHIBANYA"
+      ],
+      "problems": []
+    },
+    {
+      "q": "top rated brunch spots",
+      "set": "slm",
+      "ms": 479,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": null,
+      "confidence": 0.25,
+      "top3": [
+        "CRAFT",
+        "VEGANERIE Ratchathewi",
+        "Green & Sunny"
+      ],
+      "problems": []
+    },
+    {
+      "q": "secret local places tourists dont know",
+      "set": "slm",
+      "ms": 412,
+      "fallback": false,
+      "intentType": "discovery",
+      "mode": "hidden_gems",
+      "location": null,
+      "confidence": 0.17,
+      "top3": [
+        "The Rice & Healthy food",
+        "VEGANERIE Concept",
+        "Ruyi vegetarian"
+      ],
+      "problems": []
+    },
+    {
+      "q": "what should i eat",
+      "set": "slm",
+      "ms": 353,
+      "fallback": false,
+      "intentType": "entity",
+      "mode": null,
+      "location": null,
+      "confidence": 0.25,
+      "top3": [
+        "PLANTIFUL on Sukhumvit 61",
+        "EAT ME RESTAURANT",
+        "Kem-Kon Khaosan"
+      ],
+      "problems": [
+        "SLM intentType entity ∉ [discovery]"
+      ]
+    },
+    {
+      "q": "fancy dinner date spot",
+      "set": "slm",
+      "ms": 440,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Seven Spoons",
+        "Vegan Pranakhon- Khaosan Road วีแกนพระนคร- ถนนข้าวสาร",
+        "EAT ME RESTAURANT"
+      ],
+      "problems": []
+    },
+    {
+      "q": "michelin level plant based fine dining",
+      "set": "slm",
+      "ms": 360,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Baan Ying Plant-Based - Thai Vegan All Day Dining & Wine Bar",
+        "Vegan Pranakhon- Khaosan Road วีแกนพระนคร- ถนนข้าวสาร",
+        "PLANTIFUL on Sukhumvit 61"
+      ],
+      "problems": []
+    },
+    {
+      "q": "hungry and lazy dont want to walk far",
+      "set": "slm",
+      "ms": 525,
+      "fallback": false,
+      "intentType": "entity",
+      "mode": null,
+      "location": null,
+      "confidence": 0.13,
+      "top3": [
+        "So Vegan - Century Onnut",
+        "Eat Me Veggie & Vegan",
+        "Ruyi vegetarian"
+      ],
+      "problems": [
+        "SLM intentType entity ∉ [nearby,discovery]"
+      ]
+    },
+    {
+      "q": "i want to spend a whole day eating my way across the city",
+      "set": "slm",
+      "ms": 397,
+      "fallback": false,
+      "intentType": "planning",
+      "mode": null,
+      "location": null,
+      "confidence": 0.23,
+      "top3": [
+        "Chamlong's",
+        "Vegetarian Society in Chatuchak",
+        "So Vegan - Century Onnut"
+      ],
+      "problems": []
+    },
+    {
+      "q": "everyone keeps talking about that one noodle shop",
+      "set": "slm",
+      "ms": 521,
+      "fallback": false,
+      "intentType": "entity",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "Washin Ramen",
+        "Jae Lee Vegan",
+        "Nop Nan Vegan"
+      ],
+      "problems": []
+    },
+    {
+      "q": "asdkjh qwe zxc",
+      "set": "slm",
+      "ms": 389,
+      "fallback": false,
+      "intentType": "best",
+      "mode": null,
+      "location": null,
+      "confidence": 0,
+      "top3": [
+        "EAT ME RESTAURANT",
+        "Mr. Genki",
+        "曼谷一号 Joyluck"
+      ],
+      "problems": []
+    }
+  ]
+}
