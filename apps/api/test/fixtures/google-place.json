@@ -1,0 +1,45 @@
+{
+  "id": "ChIJTESTFIXTURExxxxxxxxxxxx",
+  "displayName": { "text": "Fixture Vegan Kitchen", "languageCode": "en" },
+  "location": { "latitude": 13.7201, "longitude": 100.5602 },
+  "regularOpeningHours": {
+    "openNow": true,
+    "periods": [
+      { "open": { "day": 1, "hour": 9, "minute": 0 }, "close": { "day": 1, "hour": 21, "minute": 30 } },
+      { "open": { "day": 2, "hour": 9, "minute": 0 }, "close": { "day": 2, "hour": 21, "minute": 30 } },
+      { "open": { "day": 6, "hour": 10, "minute": 0 }, "close": { "day": 6, "hour": 15, "minute": 0 } },
+      { "open": { "day": 6, "hour": 17, "minute": 0 }, "close": { "day": 6, "hour": 22, "minute": 0 } }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 9:00 AM – 9:30 PM",
+      "Tuesday: 9:00 AM – 9:30 PM",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: Closed",
+      "Saturday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Sunday: Closed"
+    ]
+  },
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": {
+    "text": "Casual counter-serve spot for tofu curries and noodle dishes in a plant-filled shophouse.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJTESTFIXTURExxxxxxxxxxxx/reviews/rev1",
+      "rating": 5,
+      "text": { "text": "The khao soi here is fully vegan and the owner explains every ingredient.", "languageCode": "en" }
+    },
+    {
+      "name": "places/ChIJTESTFIXTURExxxxxxxxxxxx/reviews/rev2",
+      "rating": 4,
+      "text": { "text": "Quiet on weekday mornings, gets busy after office hours.", "languageCode": "en" }
+    },
+    {
+      "name": "places/ChIJTESTFIXTURExxxxxxxxxxxx/reviews/rev3",
+      "rating": 5
+    }
+  ]
+}

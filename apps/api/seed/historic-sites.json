@@ -1,0 +1,182 @@
+[
+  {
+    "name": "The Grand Palace",
+    "nameTh": "พระบรมมหาราชวัง",
+    "lat": 13.7501,
+    "lng": 100.492,
+    "category": "palace",
+    "summary": "Bangkok’s royal showpiece anchors the old city with gilded halls, ceremonial courtyards, and the sense that every corner was built for statecraft and spectacle.",
+    "vibeTags": ["historic", "bustling", "family-friendly", "morning", "scenic-view"]
+  },
+  {
+    "name": "Wat Phra Kaew (Temple of the Emerald Buddha)",
+    "nameTh": "วัดพระศรีรัตนศาสดาราม",
+    "lat": 13.7514,
+    "lng": 100.4928,
+    "category": "temple",
+    "summary": "Thailand’s most sacred temple sits inside the Grand Palace complex, packed with mirrored mosaics, guardian giants, murals, and the revered Emerald Buddha.",
+    "vibeTags": ["historic", "temple-visit", "bustling", "family-friendly", "morning"]
+  },
+  {
+    "name": "Wat Pho (Temple of the Reclining Buddha)",
+    "nameTh": "วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหาร",
+    "lat": 13.7464,
+    "lng": 100.4936,
+    "category": "temple",
+    "summary": "A sprawling old-city temple famous for its giant reclining Buddha, tiled chedis, massage heritage, and calmer courtyards just south of the Grand Palace.",
+    "vibeTags": ["historic", "temple-visit", "family-friendly", "monsoon-comfort", "morning"]
+  },
+  {
+    "name": "Wat Arun (Temple of Dawn)",
+    "nameTh": "วัดอรุณราชวรารามราชวรมหาวิหาร",
+    "lat": 13.7436,
+    "lng": 100.4889,
+    "category": "temple",
+    "summary": "The riverside temple everyone photographs at sunset, with a porcelain-covered central prang rising over the Chao Phraya.",
+    "vibeTags": ["historic", "riverside", "sunset", "temple-visit", "scenic-view"]
+  },
+  {
+    "name": "Wat Saket (The Golden Mount)",
+    "nameTh": "วัดสระเกศราชวรมหาวิหาร",
+    "lat": 13.7538,
+    "lng": 100.5068,
+    "category": "temple",
+    "summary": "A hilltop temple climb in the middle of old Bangkok, ending at a golden chedi with one of the best low-rise views across the historic district.",
+    "vibeTags": ["historic", "temple-visit", "sunset", "morning", "scenic-view"]
+  },
+  {
+    "name": "Wat Suthat Thepwararam",
+    "nameTh": "วัดสุทัศนเทพวรารามราชวรมหาวิหาร",
+    "lat": 13.7511,
+    "lng": 100.5011,
+    "category": "temple",
+    "summary": "A grand royal temple beside the Giant Swing, known for its elegant scale, quiet cloisters, and old Bangkok atmosphere without quite as many tour groups.",
+    "vibeTags": ["historic", "temple-visit", "quiet", "hidden-gem", "morning"]
+  },
+  {
+    "name": "Giant Swing",
+    "nameTh": "เสาชิงช้า",
+    "lat": 13.7512,
+    "lng": 100.5008,
+    "category": "monument",
+    "summary": "A tall red ceremonial landmark facing Wat Suthat, the Giant Swing gives the old civic quarter an instantly recognizable silhouette.",
+    "vibeTags": ["historic", "vintage", "budget-friendly", "scenic-view", "morning"]
+  },
+  {
+    "name": "Wat Ratchanatdaram (Loha Prasat)",
+    "nameTh": "วัดราชนัดดารามวรวิหาร",
+    "lat": 13.7548,
+    "lng": 100.5043,
+    "category": "temple",
+    "summary": "This temple is best known for Loha Prasat, a rare metal-spired structure that feels geometric, serene, and slightly unexpected in the middle of Bangkok.",
+    "vibeTags": ["historic", "temple-visit", "quiet", "hidden-gem", "scenic-view"]
+  },
+  {
+    "name": "Wat Benchamabophit (Marble Temple)",
+    "nameTh": "วัดเบญจมบพิตรดุสิตวนารามราชวรวิหาร",
+    "lat": 13.7661,
+    "lng": 100.5142,
+    "category": "temple",
+    "summary": "A refined Dusit temple of pale marble, graceful rooflines, and polished courtyards that works especially well for a slower morning visit.",
+    "vibeTags": ["historic", "temple-visit", "quiet", "morning", "scenic-view"]
+  },
+  {
+    "name": "Bangkok National Museum",
+    "nameTh": "พิพิธภัณฑสถานแห่งชาติ พระนคร",
+    "lat": 13.7578,
+    "lng": 100.4923,
+    "category": "museum",
+    "summary": "The city’s major historical museum sits in the former Front Palace area and is a strong indoor stop for Thai art, royal objects, and deep cultural context.",
+    "vibeTags": ["historic", "monsoon-comfort", "family-friendly", "quiet", "artsy"]
+  },
+  {
+    "name": "Museum Siam",
+    "nameTh": "มิวเซียมสยาม",
+    "lat": 13.7442,
+    "lng": 100.4942,
+    "category": "museum",
+    "summary": "A playful history museum in a handsome old government building, Museum Siam turns Thai identity and everyday culture into an easy indoor stop.",
+    "vibeTags": ["historic", "monsoon-comfort", "family-friendly", "artsy", "colonial"]
+  },
+  {
+    "name": "Jim Thompson House Museum",
+    "nameTh": "พิพิธภัณฑ์บ้านจิม ทอมป์สัน",
+    "lat": 13.7492,
+    "lng": 100.5283,
+    "category": "museum",
+    "summary": "A lush canal-side compound of traditional Thai teak houses, art collections, and gardens that feels worlds away from the shopping district nearby.",
+    "vibeTags": ["historic", "artsy", "garden", "quiet", "monsoon-comfort"]
+  },
+  {
+    "name": "Rattanakosin Exhibition Hall",
+    "nameTh": "นิทรรศน์รัตนโกสินทร์",
+    "lat": 13.7559,
+    "lng": 100.5038,
+    "category": "museum",
+    "summary": "A multimedia museum focused on the Rattanakosin era, useful for understanding the royal capital before or after walking the old city.",
+    "vibeTags": ["historic", "monsoon-comfort", "family-friendly", "artsy", "scenic-view"]
+  },
+  {
+    "name": "Bangkok City Pillar Shrine",
+    "nameTh": "ศาลหลักเมืองกรุงเทพมหานคร",
+    "lat": 13.7525,
+    "lng": 100.4942,
+    "category": "shrine",
+    "summary": "A compact but important shrine near the Grand Palace, where locals come to pray at the symbolic spiritual foundation of Bangkok.",
+    "vibeTags": ["historic", "local-favorite", "morning", "quiet", "budget-friendly"]
+  },
+  {
+    "name": "Democracy Monument",
+    "nameTh": "อนุสาวรีย์ประชาธิปไตย",
+    "lat": 13.7567,
+    "lng": 100.5017,
+    "category": "monument",
+    "summary": "A major civic landmark on Ratchadamnoen Avenue, this Art Deco-style monument gives political history and street geography a clear visual anchor.",
+    "vibeTags": ["historic", "vintage", "budget-friendly", "scenic-view"]
+  },
+  {
+    "name": "Phra Sumen Fort",
+    "nameTh": "ป้อมพระสุเมรุ",
+    "lat": 13.764,
+    "lng": 100.4958,
+    "category": "monument",
+    "summary": "One of the old city’s surviving fortifications, set beside Santichaiprakarn Park with river breezes and an easy sunset walk nearby.",
+    "vibeTags": ["historic", "riverside", "sunset", "quiet", "scenic-view"]
+  },
+  {
+    "name": "Pak Khlong Talat Flower Market",
+    "nameTh": "ปากคลองตลาด",
+    "lat": 13.7422,
+    "lng": 100.4966,
+    "category": "market",
+    "summary": "Bangkok’s historic flower market is at its most atmospheric late at night and before dawn, when garlands, orchids, roses, and delivery carts fill the lanes.",
+    "vibeTags": ["historic", "local-favorite", "bustling", "late-night", "morning"]
+  },
+  {
+    "name": "Yaowarat Road (Bangkok Chinatown)",
+    "nameTh": "เยาวราช",
+    "lat": 13.7411,
+    "lng": 100.5083,
+    "category": "neighborhood",
+    "summary": "Bangkok’s Chinatown layers gold shops, old shophouses, temples, markets, and neon street-food energy into one of the city’s most vivid historic walks.",
+    "vibeTags": ["historic", "street-food", "late-night", "bustling", "local-favorite"]
+  },
+  {
+    "name": "Kudi Chin Community",
+    "nameTh": "กุฎีจีน",
+    "lat": 13.739,
+    "lng": 100.4938,
+    "category": "neighborhood",
+    "summary": "A quiet Thai-Portuguese riverside neighborhood near Santa Cruz Church, Kudi Chin is ideal for narrow-lane wandering, heritage snacks, and multicultural history.",
+    "vibeTags": ["historic", "riverside", "hidden-gem", "colonial", "quiet"]
+  },
+  {
+    "name": "Memorial Bridge (Saphan Phut)",
+    "nameTh": "สะพานพระพุทธยอดฟ้า",
+    "lat": 13.7391,
+    "lng": 100.4982,
+    "category": "bridge",
+    "summary": "A historic steel bridge over the Chao Phraya, best treated as a connector between old-city markets, Thonburi lanes, and river-view photo stops.",
+    "vibeTags": ["historic", "riverside", "sunset", "vintage", "scenic-view"]
+  }
+]

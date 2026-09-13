@@ -1,0 +1,51 @@
+{
+  "name": "@vegan-bangkok/api",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "node --import ./src/instrument.ts --watch --env-file-if-exists=.env src/server.ts",
+    "start": "node --import ./src/instrument.ts src/server.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "NODE_ENV=test node --env-file-if-exists=.env.test --test --test-concurrency=1",
+    "db:generate": "drizzle-kit generate",
+    "db:studio": "drizzle-kit studio",
+    "db:migrate": "node --env-file-if-exists=.env src/db/migrate.ts",
+    "db:migrate:test": "node --env-file-if-exists=.env.test src/db/migrate.ts",
+    "embed:backfill": "node --env-file-if-exists=.env src/embed/run-backfill.ts",
+    "seed": "node --env-file-if-exists=.env seed/run-seed.ts",
+    "seed:tags": "node --env-file-if-exists=.env seed/seed-tags-cli.ts",
+    "enrich": "node --env-file-if-exists=.env scripts/enrich-places.ts",
+    "eval": "node --env-file-if-exists=.env eval/run.ts",
+    "eval:places": "node --env-file-if-exists=.env eval/places.ts",
+    "seed:osm-test": "node --env-file-if-exists=.env scripts/fetch-osm.ts --load"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.2.0",
+    "@fastify/multipart": "^10.0.0",
+    "@fastify/rate-limit": "^11.1.0",
+    "@fastify/sensible": "^6.0.4",
+    "@google/genai": "^2.10.0",
+    "@huggingface/transformers": "^4.2.0",
+    "@sentry/node": "^10.63.0",
+    "@vegan-bangkok/db": "*",
+    "@vegan-bangkok/schemas": "*",
+    "drizzle-orm": "^0.45.2",
+    "fastify": "^5.9.0",
+    "fastify-type-provider-zod": "^7.0.0",
+    "pg": "^8.22.0",
+    "sharp": "^0.35.3",
+    "tesseract.js": "^7.0.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.2",
+    "@types/pg": "^8.20.0",
+    "dotenv": "^17.4.2",
+    "drizzle-kit": "^0.31.10",
+    "pino-pretty": "^13.1.3",
+    "typescript": "^6.0.3"
+  }
+}

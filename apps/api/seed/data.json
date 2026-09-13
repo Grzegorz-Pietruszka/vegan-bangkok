@@ -1,0 +1,2063 @@
+{
+  "regions": [
+    {
+      "name": "Isaan (northeast)",
+      "description": "Bright, sour, fiery; Lao-rooted."
+    },
+    {
+      "name": "Northern Thailand",
+      "description": "Milder, coconut-curry noodles, Burmese-influenced."
+    },
+    {
+      "name": "Central Thailand",
+      "description": "Balanced sweet-salty-sour; the Bangkok everyday canon."
+    }
+  ],
+  "dishes": [
+    {
+      "nameEn": "Som tam",
+      "nameTh": "ส้มตำ",
+      "region": "Isaan (northeast)",
+      "description": "Pounded green papaya salad — bright, sour, fiery.",
+      "spiceLevel": 4,
+      "tags": [
+        "papaya",
+        "sour",
+        "salad",
+        "light"
+      ],
+      "orderPhrase": "som tam jay",
+      "skipIngredients": "fish sauce, dried shrimp, crab"
+    },
+    {
+      "nameEn": "Larb mushroom",
+      "nameTh": "ลาบเห็ด",
+      "region": "Isaan (northeast)",
+      "description": "Spicy minced mushroom salad with herbs.",
+      "spiceLevel": 3,
+      "tags": [
+        "mushroom",
+        "salad",
+        "herbs",
+        "spicy"
+      ],
+      "orderPhrase": "larb hed jay",
+      "skipIngredients": "fish sauce"
+    },
+    {
+      "nameEn": "Nam tok mushroom",
+      "nameTh": "น้ำตกเห็ด",
+      "region": "Isaan (northeast)",
+      "description": "Spicy grilled mushroom salad.",
+      "spiceLevel": 3,
+      "tags": [
+        "mushroom",
+        "salad",
+        "grilled",
+        "spicy"
+      ],
+      "orderPhrase": "nam tok hed jay",
+      "skipIngredients": "fish sauce"
+    },
+    {
+      "nameEn": "Yum woon sen",
+      "nameTh": "ยำวุ้นเส้น",
+      "region": "Central Thailand",
+      "description": "Spicy glass noodle salad.",
+      "spiceLevel": 3,
+      "tags": [
+        "glass noodles",
+        "salad",
+        "spicy",
+        "light"
+      ],
+      "orderPhrase": "yum woon sen jay",
+      "skipIngredients": "fish sauce, dried shrimp, minced pork"
+    },
+    {
+      "nameEn": "Yum tofu",
+      "nameTh": "ยำเต้าหู้",
+      "region": "Central Thailand",
+      "description": "Spicy tofu salad with herbs.",
+      "spiceLevel": 2,
+      "tags": [
+        "tofu",
+        "salad",
+        "herbs",
+        "spicy"
+      ],
+      "orderPhrase": "yum tao hoo jay",
+      "skipIngredients": "fish sauce"
+    },
+    {
+      "nameEn": "Pad thai",
+      "nameTh": "ผัดไทย",
+      "region": "Central Thailand",
+      "description": "Stir fried rice noodles with tofu and tamarind.",
+      "spiceLevel": 1,
+      "tags": [
+        "noodles",
+        "stir fry",
+        "tamarind",
+        "tofu"
+      ],
+      "orderPhrase": "pad thai jay",
+      "skipIngredients": "fish sauce, egg, dried shrimp"
+    },
+    {
+      "nameEn": "Pad see ew",
+      "nameTh": "ผัดซีอิ๊ว",
+      "region": "Central Thailand",
+      "description": "Stir fried wide rice noodles with soy sauce.",
+      "spiceLevel": 0,
+      "tags": [
+        "noodles",
+        "stir fry",
+        "wide noodles",
+        "soy sauce"
+      ],
+      "orderPhrase": "pad see ew jay",
+      "skipIngredients": "oyster sauce, egg"
+    },
+    {
+      "nameEn": "Pad kee mao",
+      "nameTh": "ผัดขี้เมา",
+      "region": "Central Thailand",
+      "description": "Spicy drunken rice noodles with holy basil.",
+      "spiceLevel": 4,
+      "tags": [
+        "noodles",
+        "stir fry",
+        "holy basil",
+        "spicy"
+      ],
+      "orderPhrase": "pad kee mao jay",
+      "skipIngredients": "fish sauce, oyster sauce"
+    },
+    {
+      "nameEn": "Pad woon sen",
+      "nameTh": "ผัดวุ้นเส้น",
+      "region": "Central Thailand",
+      "description": "Stir fried glass noodles with vegetables.",
+      "spiceLevel": 1,
+      "tags": [
+        "glass noodles",
+        "stir fry",
+        "vegetables"
+      ],
+      "orderPhrase": "pad woon sen jay",
+      "skipIngredients": "oyster sauce, egg"
+    },
+    {
+      "nameEn": "Pad kra pao",
+      "nameTh": "ผัดกะเพรา",
+      "region": "Central Thailand",
+      "description": "Spicy holy basil tofu stir fry.",
+      "spiceLevel": 3,
+      "tags": [
+        "stir fry",
+        "holy basil",
+        "tofu",
+        "spicy"
+      ],
+      "orderPhrase": "pad kra pao tao hoo jay",
+      "skipIngredients": "fish sauce, oyster sauce, fried egg"
+    },
+    {
+      "nameEn": "Pad prik king",
+      "nameTh": "ผัดพริกขิง",
+      "region": "Central Thailand",
+      "description": "Stir fried tofu with red curry paste and green beans.",
+      "spiceLevel": 2,
+      "tags": [
+        "stir fry",
+        "tofu",
+        "green beans",
+        "curry paste"
+      ],
+      "orderPhrase": "pad prik king jay",
+      "skipIngredients": "shrimp paste in curry paste, fish sauce"
+    },
+    {
+      "nameEn": "Pad pak ruam",
+      "nameTh": "ผัดผักรวม",
+      "region": "Central Thailand",
+      "description": "Mixed vegetable stir fry.",
+      "spiceLevel": 0,
+      "tags": [
+        "stir fry",
+        "vegetables",
+        "mild"
+      ],
+      "orderPhrase": "pad pak ruam jay",
+      "skipIngredients": "oyster sauce"
+    },
+    {
+      "nameEn": "Pad kana",
+      "nameTh": "ผัดคะน้า",
+      "region": "Central Thailand",
+      "description": "Chinese broccoli stir fry with crispy soy protein.",
+      "spiceLevel": 1,
+      "tags": [
+        "stir fry",
+        "chinese broccoli",
+        "soy protein"
+      ],
+      "orderPhrase": "pad kana jay",
+      "skipIngredients": "oyster sauce"
+    },
+    {
+      "nameEn": "Pad prik pao",
+      "nameTh": "ผัดพริกเผา",
+      "region": "Central Thailand",
+      "description": "Stir fried vegetables with roasted chili paste.",
+      "spiceLevel": 2,
+      "tags": [
+        "stir fry",
+        "vegetables",
+        "chili paste"
+      ],
+      "orderPhrase": "pad prik pao jay",
+      "skipIngredients": "shrimp-based chili jam, fish sauce"
+    },
+    {
+      "nameEn": "Pak boong fai daeng",
+      "nameTh": "ผักบุ้งไฟแดง",
+      "region": "Central Thailand",
+      "description": "Stir fried morning glory with garlic and chili.",
+      "spiceLevel": 2,
+      "tags": [
+        "stir fry",
+        "morning glory",
+        "garlic",
+        "chili"
+      ],
+      "orderPhrase": "pak boong fai daeng jay",
+      "skipIngredients": "oyster sauce, fish sauce"
+    },
+    {
+      "nameEn": "Tom yum",
+      "nameTh": "ต้มยำ",
+      "region": "Central Thailand",
+      "description": "Spicy sour mushroom soup.",
+      "spiceLevel": 3,
+      "tags": [
+        "soup",
+        "sour",
+        "mushroom",
+        "spicy",
+        "lemongrass"
+      ],
+      "orderPhrase": "tom yum hed jay",
+      "skipIngredients": "fish sauce, shrimp"
+    },
+    {
+      "nameEn": "Tom kha",
+      "nameTh": "ต้มข่า",
+      "region": "Central Thailand",
+      "description": "Coconut galangal soup with tofu and mushrooms.",
+      "spiceLevel": 1,
+      "tags": [
+        "soup",
+        "coconut",
+        "galangal",
+        "tofu",
+        "mushroom",
+        "mild"
+      ],
+      "orderPhrase": "tom kha tao hoo jay",
+      "skipIngredients": "fish sauce, chicken stock"
+    },
+    {
+      "nameEn": "Gaeng keow wan",
+      "nameTh": "แกงเขียวหวาน",
+      "region": "Central Thailand",
+      "description": "Green curry with tofu and vegetables.",
+      "spiceLevel": 3,
+      "tags": [
+        "curry",
+        "green curry",
+        "coconut",
+        "tofu"
+      ],
+      "orderPhrase": "gaeng keow wan jay",
+      "skipIngredients": "shrimp paste in curry paste, fish sauce"
+    },
+    {
+      "nameEn": "Gaeng phed",
+      "nameTh": "แกงเผ็ด",
+      "region": "Central Thailand",
+      "description": "Red curry with tofu and bamboo shoots.",
+      "spiceLevel": 3,
+      "tags": [
+        "curry",
+        "red curry",
+        "coconut",
+        "tofu",
+        "bamboo"
+      ],
+      "orderPhrase": "gaeng phed jay",
+      "skipIngredients": "shrimp paste in curry paste, fish sauce"
+    },
+    {
+      "nameEn": "Panang curry",
+      "nameTh": "พะแนง",
+      "region": "Central Thailand",
+      "description": "Creamy panang curry with tofu.",
+      "spiceLevel": 2,
+      "tags": [
+        "curry",
+        "panang",
+        "coconut",
+        "creamy",
+        "tofu"
+      ],
+      "orderPhrase": "gaeng panang jay",
+      "skipIngredients": "shrimp paste in curry paste, fish sauce"
+    },
+    {
+      "nameEn": "Massaman curry",
+      "nameTh": "มัสมั่น",
+      "region": "Central Thailand",
+      "description": "Mild massaman curry with potatoes and tofu.",
+      "spiceLevel": 1,
+      "tags": [
+        "curry",
+        "massaman",
+        "coconut",
+        "potato",
+        "peanut",
+        "mild"
+      ],
+      "orderPhrase": "gaeng massaman jay",
+      "skipIngredients": "shrimp paste in curry paste, fish sauce"
+    },
+    {
+      "nameEn": "Yellow curry",
+      "nameTh": "แกงกะหรี่",
+      "region": "Central Thailand",
+      "description": "Yellow coconut curry with tofu and potatoes.",
+      "spiceLevel": 1,
+      "tags": [
+        "curry",
+        "yellow curry",
+        "coconut",
+        "potato",
+        "turmeric"
+      ],
+      "orderPhrase": "gaeng karee jay",
+      "skipIngredients": "shrimp paste in curry paste, fish sauce"
+    },
+    {
+      "nameEn": "Khao pad",
+      "nameTh": "ข้าวผัด",
+      "region": "Central Thailand",
+      "description": "Thai fried rice with vegetables.",
+      "spiceLevel": 0,
+      "tags": [
+        "rice",
+        "fried rice",
+        "vegetables"
+      ],
+      "orderPhrase": "khao pad jay",
+      "skipIngredients": "egg, fish sauce, oyster sauce"
+    },
+    {
+      "nameEn": "Pineapple fried rice",
+      "nameTh": "ข้าวผัดสับปะรด",
+      "region": "Central Thailand",
+      "description": "Thai fried rice with pineapple and cashews.",
+      "spiceLevel": 0,
+      "tags": [
+        "rice",
+        "fried rice",
+        "pineapple",
+        "cashew"
+      ],
+      "orderPhrase": "khao pad sapparot jay",
+      "skipIngredients": "egg, fish sauce, shrimp"
+    },
+    {
+      "nameEn": "Khao soi",
+      "nameTh": "ข้าวซอย",
+      "region": "Northern Thailand",
+      "description": "Northern coconut curry noodle soup.",
+      "spiceLevel": 2,
+      "tags": [
+        "noodles",
+        "soup",
+        "curry",
+        "coconut",
+        "northern"
+      ],
+      "orderPhrase": "khao soi jay",
+      "skipIngredients": "egg noodles, fish sauce, meat broth"
+    },
+    {
+      "nameEn": "Rad na",
+      "nameTh": "ราดหน้า",
+      "region": "Central Thailand",
+      "description": "Wide rice noodles with rich vegetable gravy.",
+      "spiceLevel": 0,
+      "tags": [
+        "noodles",
+        "wide noodles",
+        "gravy"
+      ],
+      "orderPhrase": "rad na jay",
+      "skipIngredients": "oyster sauce, pork"
+    },
+    {
+      "nameEn": "Kuay teow nam",
+      "nameTh": "ก๋วยเตี๋ยวน้ำ",
+      "region": "Central Thailand",
+      "description": "Clear vegetable noodle soup.",
+      "spiceLevel": 1,
+      "tags": [
+        "noodles",
+        "soup",
+        "clear broth",
+        "vegetables"
+      ],
+      "orderPhrase": "kuay teow nam jay",
+      "skipIngredients": "meat broth, fish balls, fish sauce"
+    },
+    {
+      "nameEn": "Tofu satay",
+      "nameTh": "สะเต๊ะเต้าหู้",
+      "region": "Central Thailand",
+      "description": "Grilled tofu skewers with peanut sauce.",
+      "spiceLevel": 0,
+      "tags": [
+        "starter",
+        "tofu",
+        "grilled",
+        "peanut sauce",
+        "skewers"
+      ],
+      "orderPhrase": "satay tao hoo jay",
+      "skipIngredients": "fish sauce in peanut sauce"
+    },
+    {
+      "nameEn": "Spring rolls",
+      "nameTh": "ปอเปี๊ยะทอด",
+      "region": "Central Thailand",
+      "description": "Crispy vegetable spring rolls.",
+      "spiceLevel": 0,
+      "tags": [
+        "starter",
+        "fried",
+        "crispy",
+        "vegetables"
+      ],
+      "orderPhrase": "por pia tod jay",
+      "skipIngredients": "meat filling, egg in wrapper"
+    },
+    {
+      "nameEn": "Mango sticky rice",
+      "nameTh": "ข้าวเหนียวมะม่วง",
+      "region": "Central Thailand",
+      "description": "Sweet mango with coconut sticky rice.",
+      "spiceLevel": 0,
+      "tags": [
+        "dessert",
+        "mango",
+        "coconut",
+        "sweet",
+        "sticky rice"
+      ],
+      "orderPhrase": "khao niao mamuang",
+      "skipIngredients": null
+    }
+  ],
+  "places": [
+    {
+      "name": "Jae Oa Vegetarian",
+      "neighbourhood": "Chinatown",
+      "lat": 13.7405,
+      "lng": 100.5095,
+      "veganStatus": "vegetarian_jay",
+      "priceBand": 1,
+      "hours": {
+        "mon": [
+          {
+            "open": "09:00",
+            "close": "15:00"
+          }
+        ],
+        "sun": []
+      },
+      "nearestStation": "MRT Wat Mangkon",
+      "photoUrl": null
+    },
+    {
+      "name": "Broccoli Revolution",
+      "neighbourhood": "Thonglor",
+      "lat": 13.7266,
+      "lng": 100.5753,
+      "veganStatus": "fully_vegan",
+      "priceBand": 2,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "nearestStation": "BTS Thong Lo",
+      "photoUrl": null,
+      "summary": "A polished plant-based café on Sukhumvit 49 with bowls, burgers, juices, Thai-inspired plates, and an easy all-day brunch feel.",
+      "vibeTags": [
+        "upscale",
+        "quiet",
+        "morning",
+        "monsoon-comfort"
+      ]
+    },
+    {
+      "name": "Vistro",
+      "neighbourhood": "Phrom Phong",
+      "lat": 13.7273,
+      "lng": 100.5683,
+      "veganStatus": "fully_vegan",
+      "priceBand": 3,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ]
+      },
+      "nearestStation": "BTS Phrom Phong",
+      "photoUrl": null,
+      "summary": "A modern vegan restaurant on Sukhumvit 24 with comfort food, bowls, small plates, and a more polished sit-down feel than a casual café.",
+      "vibeTags": [
+        "upscale",
+        "quiet",
+        "family-friendly",
+        "monsoon-comfort"
+      ]
+    },
+    {
+      "name": "Veganerie Concept",
+      "neighbourhood": "Phrom Phong",
+      "lat": 13.7289,
+      "lng": 100.5669,
+      "veganStatus": "fully_vegan",
+      "priceBand": 2,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ]
+      },
+      "nearestStation": "BTS Phrom Phong",
+      "photoUrl": null,
+      "summary": "A reliable all-vegan café near Benchasiri Park, useful for waffles, cakes, burgers, smoothie bowls, and rainy-day mall-adjacent meals.",
+      "vibeTags": [
+        "family-friendly",
+        "monsoon-comfort",
+        "morning"
+      ]
+    },
+    {
+      "name": "Nature's Charm",
+      "neighbourhood": "Thonglor",
+      "lat": 13.7266,
+      "lng": 100.5765,
+      "veganStatus": "fully_vegan",
+      "priceBand": 2,
+      "hours": {
+        "mon": [
+          {
+            "open": "09:00",
+            "close": "20:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "09:00",
+            "close": "20:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "09:00",
+            "close": "20:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "09:00",
+            "close": "20:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "09:00",
+            "close": "20:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "09:00",
+            "close": "20:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "09:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "nearestStation": "BTS Thong Lo",
+      "photoUrl": null,
+      "summary": "A cozy vegan café and dessert spot in Sukhumvit 51, especially good for coconut-based sweets, comfort plates, and slower daytime meals.",
+      "vibeTags": [
+        "quiet",
+        "morning",
+        "monsoon-comfort",
+        "hidden-gem"
+      ]
+    },
+    {
+      "name": "May Veggie Home",
+      "neighbourhood": "Punnawithi",
+      "lat": 13.6911,
+      "lng": 100.6141,
+      "veganStatus": "fully_vegan",
+      "priceBand": 1,
+      "hours": {
+        "mon": [],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "nearestStation": "BTS Punnawithi",
+      "photoUrl": null,
+      "summary": "A long-running vegan Thai restaurant with curries, noodles, stir-fries, and mock-meat comfort dishes at approachable prices.",
+      "vibeTags": [
+        "budget-friendly",
+        "local-favorite",
+        "family-friendly"
+      ]
+    },
+    {
+      "name": "May Veggie Home Express",
+      "neighbourhood": "Asok",
+      "lat": 13.7404,
+      "lng": 100.5631,
+      "veganStatus": "fully_vegan",
+      "priceBand": 1,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "nearestStation": "BTS Asok / MRT Sukhumvit",
+      "photoUrl": null,
+      "summary": "A compact express branch near Asok for quick vegan Thai meals, useful when the itinerary needs a central Sukhumvit fallback.",
+      "vibeTags": [
+        "budget-friendly",
+        "monsoon-comfort",
+        "quiet"
+      ]
+    },
+    {
+      "name": "Kem-Kon KhaoSan",
+      "neighbourhood": "Khao San",
+      "lat": 13.7599,
+      "lng": 100.4988,
+      "veganStatus": "fully_vegan",
+      "priceBand": 2,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:00",
+            "close": "23:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "23:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "23:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "23:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "23:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "23:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "23:00"
+          }
+        ]
+      },
+      "nearestStation": "MRT Sam Yot",
+      "photoUrl": null,
+      "summary": "A fully vegan restaurant close to the backpacker zone, good for pairing old-city sightseeing with a late, easy plant-based meal.",
+      "vibeTags": [
+        "backpacker",
+        "late-night",
+        "bustling"
+      ]
+    },
+    {
+      "name": "Kem-Kon Pahurat",
+      "neighbourhood": "Pahurat",
+      "lat": 13.745,
+      "lng": 100.4992,
+      "veganStatus": "fully_vegan",
+      "priceBand": 2,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ]
+      },
+      "nearestStation": "MRT Sam Yot",
+      "photoUrl": null,
+      "summary": "A vegan stop near Pahurat and the old shopping streets, useful for historic-walk itineraries around Little India, Sampeng, and the river.",
+      "vibeTags": [
+        "historic",
+        "budget-friendly",
+        "local-favorite"
+      ]
+    },
+    {
+      "name": "Vegan Mahanakhon",
+      "neighbourhood": "Bangkok Noi",
+      "lat": 13.7515,
+      "lng": 100.4833,
+      "veganStatus": "fully_vegan",
+      "priceBand": 3,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:30",
+            "close": "21:00"
+          }
+        ]
+      },
+      "nearestStation": "MRT Itsaraphap",
+      "photoUrl": null,
+      "summary": "A more refined vegan Thai restaurant on the Thonburi side, handy after Wat Arun, Wang Lang, or riverside temple routes.",
+      "vibeTags": [
+        "upscale",
+        "historic",
+        "quiet"
+      ]
+    },
+    {
+      "name": "Vegan Pranakhon",
+      "neighbourhood": "Phra Nakhon",
+      "lat": 13.7581,
+      "lng": 100.4992,
+      "veganStatus": "fully_vegan",
+      "priceBand": 3,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:00",
+            "close": "23:59"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "23:59"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "23:59"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "23:59"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "23:59"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "23:59"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "23:59"
+          }
+        ]
+      },
+      "nearestStation": "MRT Sam Yot",
+      "photoUrl": null,
+      "summary": "A fully vegan Thai restaurant in the old city, strong for late meals after temples, Khao San, or Ratchadamnoen walks.",
+      "vibeTags": [
+        "historic",
+        "late-night",
+        "upscale"
+      ]
+    },
+    {
+      "name": "Mercy Republic",
+      "neighbourhood": "Asok",
+      "lat": 13.7398,
+      "lng": 100.5653,
+      "veganStatus": "fully_vegan",
+      "priceBand": 3,
+      "hours": {
+        "mon": [],
+        "tue": [
+          {
+            "open": "11:00",
+            "close": "23:59"
+          }
+        ],
+        "wed": [
+          {
+            "open": "11:00",
+            "close": "23:59"
+          }
+        ],
+        "thu": [
+          {
+            "open": "11:00",
+            "close": "23:59"
+          }
+        ],
+        "fri": [
+          {
+            "open": "11:00",
+            "close": "23:59"
+          }
+        ],
+        "sat": [
+          {
+            "open": "11:00",
+            "close": "23:59"
+          }
+        ],
+        "sun": [
+          {
+            "open": "11:00",
+            "close": "23:59"
+          }
+        ]
+      },
+      "nearestStation": "BTS Asok / MRT Sukhumvit",
+      "photoUrl": null,
+      "summary": "A stylish vegan Thai-fusion restaurant near Asok, useful for dinner plans, date-night routing, and late central-Sukhumvit meals.",
+      "vibeTags": [
+        "late-night",
+        "upscale",
+        "bustling"
+      ]
+    },
+    {
+      "name": "V Street",
+      "neighbourhood": "Phrom Phong",
+      "lat": 13.7322,
+      "lng": 100.5663,
+      "veganStatus": "fully_vegan",
+      "priceBand": 2,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:00",
+            "close": "21:30"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "21:30"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "21:30"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "21:30"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "21:30"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "21:30"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "21:30"
+          }
+        ]
+      },
+      "nearestStation": "BTS Phrom Phong",
+      "photoUrl": null,
+      "summary": "A vegan street-food-style counter inside Emsphere, useful when the route needs a fast plant-based option in an air-conditioned mall.",
+      "vibeTags": [
+        "bustling",
+        "monsoon-comfort",
+        "family-friendly"
+      ]
+    },
+    {
+      "name": "WAKI WAKI Veggie Sushi",
+      "neighbourhood": "Phrom Phong",
+      "lat": 13.7271,
+      "lng": 100.5681,
+      "veganStatus": "vegan_friendly",
+      "priceBand": 2,
+      "hours": {
+        "mon": [],
+        "tue": [
+          {
+            "open": "11:00",
+            "close": "21:30"
+          }
+        ],
+        "wed": [
+          {
+            "open": "11:00",
+            "close": "21:30"
+          }
+        ],
+        "thu": [
+          {
+            "open": "11:00",
+            "close": "21:30"
+          }
+        ],
+        "fri": [
+          {
+            "open": "11:00",
+            "close": "21:30"
+          }
+        ],
+        "sat": [
+          {
+            "open": "11:00",
+            "close": "21:30"
+          }
+        ],
+        "sun": [
+          {
+            "open": "11:00",
+            "close": "21:30"
+          }
+        ]
+      },
+      "nearestStation": "BTS Phrom Phong",
+      "photoUrl": null,
+      "summary": "A vegetarian sushi spot where vegan versions are easy to build, especially useful for groups that want Japanese-style rolls and small plates.",
+      "vibeTags": [
+        "hidden-gem",
+        "quiet",
+        "monsoon-comfort"
+      ]
+    },
+    {
+      "name": "Golden State Vegan Sushi",
+      "neighbourhood": "Phrom Phong",
+      "lat": 13.732,
+      "lng": 100.5678,
+      "veganStatus": "fully_vegan",
+      "priceBand": 3,
+      "hours": {
+        "mon": [
+          {
+            "open": "12:00",
+            "close": "23:59"
+          }
+        ],
+        "tue": [
+          {
+            "open": "12:00",
+            "close": "23:59"
+          }
+        ],
+        "wed": [
+          {
+            "open": "12:00",
+            "close": "23:59"
+          }
+        ],
+        "thu": [
+          {
+            "open": "12:00",
+            "close": "23:59"
+          }
+        ],
+        "fri": [
+          {
+            "open": "12:00",
+            "close": "23:59"
+          }
+        ],
+        "sat": [
+          {
+            "open": "12:00",
+            "close": "23:59"
+          }
+        ],
+        "sun": [
+          {
+            "open": "12:00",
+            "close": "23:59"
+          }
+        ]
+      },
+      "nearestStation": "BTS Phrom Phong",
+      "photoUrl": null,
+      "summary": "A fully vegan sushi and bar concept near Sukhumvit 33, good for dinner routes where the itinerary wants something more social and late-running.",
+      "vibeTags": [
+        "late-night",
+        "upscale",
+        "bustling"
+      ]
+    },
+    {
+      "name": "So Vegan Gateway Ekkamai",
+      "neighbourhood": "Ekkamai",
+      "lat": 13.7185,
+      "lng": 100.5852,
+      "veganStatus": "fully_vegan",
+      "priceBand": 1,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "nearestStation": "BTS Ekkamai",
+      "photoUrl": null,
+      "summary": "A mall-based vegan counter at Gateway Ekkamai, useful as a budget-friendly fallback before buses, errands, or east-side Sukhumvit plans.",
+      "vibeTags": [
+        "budget-friendly",
+        "monsoon-comfort",
+        "family-friendly"
+      ]
+    },
+    {
+      "name": "So Vegan Lotus Ladprao",
+      "neighbourhood": "Lat Phrao",
+      "lat": 13.8182,
+      "lng": 100.5632,
+      "veganStatus": "fully_vegan",
+      "priceBand": 1,
+      "hours": {
+        "mon": [
+          {
+            "open": "08:00",
+            "close": "20:30"
+          }
+        ],
+        "tue": [
+          {
+            "open": "08:00",
+            "close": "20:30"
+          }
+        ],
+        "wed": [
+          {
+            "open": "08:00",
+            "close": "20:30"
+          }
+        ],
+        "thu": [
+          {
+            "open": "08:00",
+            "close": "20:30"
+          }
+        ],
+        "fri": [
+          {
+            "open": "08:00",
+            "close": "20:30"
+          }
+        ],
+        "sat": [
+          {
+            "open": "08:00",
+            "close": "20:30"
+          }
+        ],
+        "sun": [
+          {
+            "open": "08:00",
+            "close": "20:30"
+          }
+        ]
+      },
+      "nearestStation": "MRT Phahon Yothin",
+      "photoUrl": null,
+      "summary": "A practical vegan food-court-style branch in the Lat Phrao area, useful for affordable meals outside the tourist core.",
+      "vibeTags": [
+        "budget-friendly",
+        "local-favorite",
+        "family-friendly"
+      ]
+    },
+    {
+      "name": "So Vegan Yaowarat",
+      "neighbourhood": "Chinatown",
+      "lat": 13.7416,
+      "lng": 100.5115,
+      "veganStatus": "fully_vegan",
+      "priceBand": 1,
+      "hours": {
+        "mon": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "nearestStation": "MRT Wat Mangkon",
+      "photoUrl": null,
+      "summary": "A budget vegan branch in the Chinatown area, good for adding a plant-based option to Yaowarat, Talat Noi, or old-city food routes.",
+      "vibeTags": [
+        "street-food",
+        "budget-friendly",
+        "bustling",
+        "historic"
+      ]
+    },
+    {
+      "name": "Aroi Vegetarian Food - Arawy",
+      "neighbourhood": "Phra Nakhon",
+      "lat": 13.7545,
+      "lng": 100.5012,
+      "veganStatus": "fully_vegan",
+      "priceBand": 1,
+      "hours": {
+        "mon": [
+          {
+            "open": "07:00",
+            "close": "19:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "07:00",
+            "close": "19:00"
+          }
+        ],
+        "wed": [
+          {
+            "open": "07:00",
+            "close": "19:00"
+          }
+        ],
+        "thu": [
+          {
+            "open": "07:00",
+            "close": "19:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "07:00",
+            "close": "19:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "07:00",
+            "close": "19:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "07:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "nearestStation": "MRT Sam Yot",
+      "photoUrl": null,
+      "summary": "A simple old-city vegan canteen near Dinso Road, best for budget Thai plates before or after temple and monument walks.",
+      "vibeTags": [
+        "street-food",
+        "budget-friendly",
+        "local-favorite",
+        "historic",
+        "morning"
+      ]
+    },
+    {
+      "name": "Mango Vegetarian & Vegan",
+      "neighbourhood": "Khao San",
+      "lat": 13.7596,
+      "lng": 100.4992,
+      "veganStatus": "vegan_friendly",
+      "priceBand": 2,
+      "hours": {
+        "mon": [
+          {
+            "open": "09:00",
+            "close": "22:00"
+          }
+        ],
+        "tue": [
+          {
+            "open": "09:00",
+            "close": "22:00"
+          }
+        ],
+        "wed": [],
+        "thu": [
+          {
+            "open": "09:00",
+            "close": "22:00"
+          }
+        ],
+        "fri": [
+          {
+            "open": "09:00",
+            "close": "22:00"
+          }
+        ],
+        "sat": [
+          {
+            "open": "09:00",
+            "close": "22:00"
+          }
+        ],
+        "sun": [
+          {
+            "open": "09:00",
+            "close": "22:00"
+          }
+        ]
+      },
+      "nearestStation": "MRT Sam Yot",
+      "photoUrl": null,
+      "summary": "A vegetarian-and-vegan-friendly café near Khao San with labelled vegan options, relaxed traveler energy, and easy old-city routing.",
+      "vibeTags": [
+        "backpacker",
+        "artsy",
+        "quiet",
+        "family-friendly"
+      ]
+    },
+    {
+      "name": "Sustaina Organic Restaurant",
+      "neighbourhood": "Phrom Phong",
+      "lat": 13.7308,
+      "lng": 100.5701,
+      "veganStatus": "vegan_friendly",
+      "priceBand": 2,
+      "hours": {
+        "mon": [
+          {
+            "open": "09:30",
+            "close": "20:30"
+          }
+        ],
+        "tue": [
+          {
+            "open": "09:30",
+            "close": "20:30"
+          }
+        ],
+        "wed": [
+          {
+            "open": "09:30",
+            "close": "20:30"
+          }
+        ],
+        "thu": [
+          {
+            "open": "09:30",
+            "close": "20:30"
+          }
+        ],
+        "fri": [
+          {
+            "open": "09:30",
+            "close": "20:30"
+          }
+        ],
+        "sat": [
+          {
+            "open": "09:30",
+            "close": "20:30"
+          }
+        ],
+        "sun": [
+          {
+            "open": "09:30",
+            "close": "20:30"
+          }
+        ]
+      },
+      "nearestStation": "BTS Phrom Phong",
+      "photoUrl": null,
+      "summary": "An organic Japanese-leaning restaurant near Sukhumvit 39 with vegan-friendly options, best used as a flexible mixed-diet stop.",
+      "vibeTags": [
+        "quiet",
+        "monsoon-comfort",
+        "local-favorite"
+      ]
+    }
+  ],
+  "placeDishes": [
+    {
+      "place": "Jae Oa Vegetarian",
+      "dish": "Som tam",
+      "verifiedVegan": true,
+      "source": "team visit 2026-06",
+      "confidence": 0.95,
+      "lovedCount": 212
+    }
+  ],
+  "dishAliases": [
+    {
+      "dish": "Som tam",
+      "aliases": [
+        "som tum"
+      ]
+    },
+    {
+      "dish": "Larb mushroom",
+      "aliases": [
+        "laab hed"
+      ]
+    },
+    {
+      "dish": "Yum woon sen",
+      "aliases": [
+        "yam wun sen"
+      ]
+    },
+    {
+      "dish": "Pad thai",
+      "aliases": [
+        "phad thai"
+      ]
+    },
+    {
+      "dish": "Pad see ew",
+      "aliases": [
+        "pad si ew",
+        "pad see you"
+      ]
+    },
+    {
+      "dish": "Pad kee mao",
+      "aliases": [
+        "pad ki mao"
+      ]
+    },
+    {
+      "dish": "Pad kra pao",
+      "aliases": [
+        "pad krapow",
+        "pad gaprao"
+      ]
+    },
+    {
+      "dish": "Pak boong fai daeng",
+      "aliases": [
+        "pak bung fai daeng"
+      ]
+    },
+    {
+      "dish": "Tom yum",
+      "aliases": [
+        "tom yam"
+      ]
+    },
+    {
+      "dish": "Tom kha",
+      "aliases": [
+        "tom ka"
+      ]
+    },
+    {
+      "dish": "Gaeng keow wan",
+      "aliases": [
+        "green curry",
+        "gaeng khiao wan"
+      ]
+    },
+    {
+      "dish": "Massaman curry",
+      "aliases": [
+        "matsaman curry"
+      ]
+    },
+    {
+      "dish": "Panang curry",
+      "aliases": [
+        "phanaeng curry"
+      ]
+    },
+    {
+      "dish": "Yellow curry",
+      "aliases": [
+        "gaeng garee"
+      ]
+    },
+    {
+      "dish": "Khao pad",
+      "aliases": [
+        "kao pad"
+      ]
+    },
+    {
+      "dish": "Khao soi",
+      "aliases": [
+        "kow soi",
+        "khao soy"
+      ]
+    },
+    {
+      "dish": "Rad na",
+      "aliases": [
+        "lad na"
+      ]
+    },
+    {
+      "dish": "Kuay teow nam",
+      "aliases": [
+        "guay tiew nam"
+      ]
+    },
+    {
+      "dish": "Spring rolls",
+      "aliases": [
+        "por pia tod"
+      ]
+    },
+    {
+      "dish": "Mango sticky rice",
+      "aliases": [
+        "khao niao mamuang"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "nameEn": "Pork",
+      "nameTh": "หมู",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "หมู",
+          "language": "th"
+        },
+        {
+          "text": "pork",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Chicken",
+      "nameTh": "ไก่",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "ไก่",
+          "language": "th"
+        },
+        {
+          "text": "chicken",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Beef / meat",
+      "nameTh": "เนื้อ",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "เนื้อ",
+          "language": "th"
+        },
+        {
+          "text": "beef",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Fish",
+      "nameTh": "ปลา",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "ปลา",
+          "language": "th"
+        },
+        {
+          "text": "fish",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Shrimp",
+      "nameTh": "กุ้ง",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "กุ้ง",
+          "language": "th"
+        },
+        {
+          "text": "shrimp",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Crab",
+      "nameTh": "ปู",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "ปู",
+          "language": "th"
+        },
+        {
+          "text": "crab",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Shellfish",
+      "nameTh": "หอย",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "หอย",
+          "language": "th"
+        },
+        {
+          "text": "shellfish",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Squid",
+      "nameTh": "หมึก",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "หมึก",
+          "language": "th"
+        },
+        {
+          "text": "squid",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Fish sauce",
+      "nameTh": "น้ำปลา",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "น้ำปลา",
+          "language": "th"
+        },
+        {
+          "text": "fish sauce",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Oyster sauce",
+      "nameTh": "ซอสหอยนางรม",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "ซอสหอยนางรม",
+          "language": "th"
+        },
+        {
+          "text": "น้ำมันหอย",
+          "language": "th"
+        },
+        {
+          "text": "oyster sauce",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Shrimp paste",
+      "nameTh": "กะปิ",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "กะปิ",
+          "language": "th"
+        },
+        {
+          "text": "shrimp paste",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Milk",
+      "nameTh": "นม",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "นม",
+          "language": "th"
+        },
+        {
+          "text": "milk",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Butter",
+      "nameTh": "เนย",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "เนย",
+          "language": "th"
+        },
+        {
+          "text": "butter",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Egg",
+      "nameTh": "ไข่",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "ไข่",
+          "language": "th"
+        },
+        {
+          "text": "egg",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Honey",
+      "nameTh": "น้ำผึ้ง",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "น้ำผึ้ง",
+          "language": "th"
+        },
+        {
+          "text": "honey",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "nameEn": "Gelatin",
+      "nameTh": "เจลาติน",
+      "veganRiskClass": "hard_block",
+      "aliases": [
+        {
+          "text": "เจลาติน",
+          "language": "th"
+        },
+        {
+          "text": "gelatin",
+          "language": "en"
+        }
+      ]
+    }
+  ]
+}
