@@ -31,4 +31,13 @@ describe('isOpenNow()', () => {
     expect(isOpenNow(null, at(6, '12:00'))).toBe(false);
     expect(isOpenNow(undefined, at(6, '12:00'))).toBe(false);
   });
+  it('malformed entries are ignored, not thrown on', () => {
+    expect(isOpenNow({ mon: 'closed' }, at(6, '12:00'))).toBe(false);
+    expect(isOpenNow({ mon: [null, { open: '09:00' }] }, at(6, '12:00'))).toBe(false);
+    expect(isOpenNow({ mon: [null, { open: '09:00', close: '15:00' }] }, at(6, '12:00'))).toBe(true);
+  });
+  it('uses Bangkok time, not the device clock', () => {
+    expect(isOpenNow(hours, new Date('2026-07-06T04:00:00Z'))).toBe(true);
+    expect(isOpenNow(hours, new Date('2026-07-06T09:00:00Z'))).toBe(false);
+  });
 });
