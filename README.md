@@ -50,7 +50,11 @@ Measured locally over a 32-query eval set against 144 places (`npm run eval:plac
 | SLM inference | — | 243 ms p50 / 385 ms p95 |
 
 The SLM earns its ~240 ms on exactly the queries the parser can't read, and never runs on the
-ones it can. Full write-up: [`docs/place-search-pipeline.md`](docs/place-search-pipeline.md).
+ones it can.
+
+📝 **[I built a search pipeline that knows when it doesn't understand you](https://dev.to/grzegorzpietrus/i-built-a-search-pipeline-that-knows-when-it-doesnt-understand-you-58p2)**
+— the design decisions, the numbers, and the parts that are still half-broken.
+Architecture reference: [`docs/place-search-pipeline.md`](docs/place-search-pipeline.md).
 
 ---
 
