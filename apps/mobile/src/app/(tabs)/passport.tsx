@@ -64,7 +64,7 @@ export default function PassportScreen() {
             <Pressable
               key={d.id}
               style={styles.cell}
-              onPress={() => router.push(`/dish/${d.id}` as never)}
+              onPress={() => router.push(`/dish/${d.id}`)}
             >
               <View
                 style={[
@@ -94,7 +94,7 @@ export default function PassportScreen() {
       </View>
 
       {nextUp ? (
-        <Pressable style={styles.nextCard} onPress={() => router.push(`/dish/${nextUp.id}` as never)}>
+        <Pressable style={styles.nextCard} onPress={() => router.push(`/dish/${nextUp.id}`)}>
           <View style={styles.nextStar}><ThemedText variant="title" color={colors.communityPillText}>★</ThemedText></View>
           <View style={{ flex: 1 }}>
             <ThemedText variant="label" color={colors.textMuted}>{t('passport.nextUp')}</ThemedText>

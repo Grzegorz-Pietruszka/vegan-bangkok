@@ -108,7 +108,7 @@ export default function ProfileScreen() {
           </View>
         </Pressable>
 
-        <Pressable style={styles.card} onPress={() => router.push('/passport' as never)}>
+        <Pressable style={styles.card} onPress={() => router.push('/passport')}>
           <ThemedText variant="label" color={colors.primary}>{t('passport.collection')}</ThemedText>
           <ThemedText variant="title">
             {t('passport.eaten', { eaten: progress.eaten, total: progress.total })}
@@ -123,7 +123,7 @@ export default function ProfileScreen() {
           <ThemedText variant="caption" color={colors.textMuted}>{t('profile.savedEmpty')}</ThemedText>
         ) : (
           savedPlaces.map((p) => (
-            <Pressable key={p.id} style={styles.row} onPress={() => router.push(`/place/${p.id}` as never)}>
+            <Pressable key={p.id} style={styles.row} onPress={() => router.push(`/place/${p.id}`)}>
               <View style={{ flex: 1 }}>
                 <ThemedText variant="title">{p.name}</ThemedText>
                 <ThemedText variant="caption" color={colors.textMuted}>{p.neighbourhood}</ThemedText>

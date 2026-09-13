@@ -76,7 +76,7 @@ export function PlacesMap() {
       return;
     }
     const id = feature.properties?.id as string | undefined; // a pin — go to detail
-    if (id) router.push(`/place/${id}` as never);
+    if (id) router.push(`/place/${id}`);
   }, [router]);
 
   if (!config) {                                              // token missing/invalid — graceful fallback

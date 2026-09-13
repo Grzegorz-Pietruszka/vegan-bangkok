@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { Platform } from 'react-native';
-import { router } from 'expo-router';
+import { router, type Href } from 'expo-router';
 import * as Notifications from 'expo-notifications';
 import { CHANNEL_ID } from './lunchNudge';
 
@@ -29,7 +29,7 @@ export function initNotifications(): void {
 // Tap → route. Only app-internal paths are trusted — anything else in data.url is ignored.
 export function routeFromNotification(data: unknown): void {
   const url = (data as { url?: unknown } | null | undefined)?.url;
-  if (typeof url === 'string' && url.startsWith('/')) router.push(url as never);
+  if (typeof url === 'string' && url.startsWith('/')) router.push(url as Href);
 }
 
 // Warm taps via the response listener; cold-start taps via the last response (the SDK 57

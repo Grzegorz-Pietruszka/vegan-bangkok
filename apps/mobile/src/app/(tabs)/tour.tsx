@@ -1,6 +1,6 @@
 import { useState, type ReactNode } from 'react';
 import { View, Text, TextInput, Pressable, ScrollView, ActivityIndicator, StyleSheet } from 'react-native';
-import { useRouter } from 'expo-router';
+import { useRouter, type Href } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import type { ItineraryResponse, TimeOfDay } from '@vegan-bangkok/schemas';
 import { fetchItinerary, type TourRequest } from '@/api/itinerary';
@@ -127,7 +127,7 @@ export default function TourScreen() {
           <Text style={styles.hint}>Using the old town as start — location was unavailable.</Text>
         ) : null}
         {route.narrative ? <Text style={styles.narrative}>{route.narrative}</Text> : null}
-        <Pressable testID="view-map-btn" style={styles.mapPill} onPress={() => router.push('/tour-map' as never)}>
+        <Pressable testID="view-map-btn" style={styles.mapPill} onPress={() => router.push('/tour-map')}>
           <Ionicons name="map-outline" size={16} color={colors.primary} />
           <Text style={styles.mapPillText}>View on map</Text>
         </Pressable>
@@ -135,7 +135,7 @@ export default function TourScreen() {
           <TourStepCard
             key={step.id}
             step={step}
-            onOpen={(selected) => router.push(`/${selected.type}/${selected.id}` as never)}
+            onOpen={(selected) => router.push(`/${selected.type}/${selected.id}` as Href)}
           />
         ))}
         <Pressable testID="new-tour-btn" style={styles.secondaryBtn} onPress={reset}>

@@ -59,7 +59,7 @@ export default function DiscoverScreen() {
     return dishesSeed.filter((d) => FAMOUS.includes(d.nameEn));
   }, [tag, region]);
 
-  const goDish = (id: string) => router.push(`/dish/${id}` as never);
+  const goDish = (id: string) => router.push(`/dish/${id}`);
 
   return (
     <Screen edges={['top', 'bottom']}>
@@ -85,7 +85,7 @@ export default function DiscoverScreen() {
           />
         </View>
 
-        <Pressable style={styles.scanEntry} onPress={() => router.push('/scan' as never)}>
+        <Pressable style={styles.scanEntry} onPress={() => router.push('/scan')}>
           <ThemedText variant="title">📷  Scan a menu</ThemedText>
           <ThemedText variant="caption" color={colors.textMuted}>
             photograph any Thai menu — we’ll read it for you
