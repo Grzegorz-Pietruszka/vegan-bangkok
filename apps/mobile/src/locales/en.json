@@ -1,0 +1,72 @@
+{
+  "tabs": { "explore": "Explore", "map": "Map", "tour": "Food tour", "passport": "Passport", "profile": "Profile" },
+  "explore": { "title": "Find vegan food in Bangkok" },
+  "home": {
+    "searchPlaceholder": "Try \"pad thai\" or \"something spicy\"",
+    "tonightsPick": "TONIGHT'S PICK",
+    "orderShelf": "ORDER VEGAN EASILY",
+    "eatByRegion": "EAT BY REGION",
+    "verifiedAt": "Verified vegan at"
+  },
+  "discover": {
+    "title": "What are you craving?",
+    "famous": "FAMOUS DISHES",
+    "regions": "BROWSE BY REGION",
+    "offlineResults": "Offline results — showing your saved catalog",
+    "degradedResults": "Simple keyword results — smart search is taking a break",
+    "noResults": "Tell us what you're craving — try a dish or a mood"
+  },
+  "passport": {
+    "share": "Share",
+    "collection": "BANGKOK CLASSICS",
+    "eaten": "{{eaten}} of {{total}} eaten",
+    "badgeHint": "{{remaining}} more for the {{badge}} badge",
+    "nextUp": "NEXT UP"
+  },
+  "profile": {
+    "greeting": "Sawasdee, {{name}}",
+    "setIdentity": "Set your name",
+    "identityEdit": "Edit your name and emoji",
+    "nameLabel": "Your name",
+    "saveName": "Save",
+    "savedTitle": "SAVED PLACES",
+    "savedEmpty": "No saved places yet — tap the bookmark on any place to start planning your trip.",
+    "removeSaved": "Remove {{name}} from saved places",
+    "settings": "SETTINGS",
+    "clear": "Clear saved data",
+    "clearConfirm": "Remove all saved places? This can't be undone.",
+    "appearance": "Appearance",
+    "appearanceSystem": "Auto",
+    "appearanceLight": "Light",
+    "appearanceDark": "Dark",
+    "lunchReminder": "Lunch reminder",
+    "lunchReminderHint": "One heads-up when a saved place is open for lunch",
+    "version": "Version {{version}}"
+  },
+  "map": { "savedOnly": "Saved only", "showAll": "Show all" },
+  "notif": {
+    "lunchTitle": "🌱 {{place}} from your saved places is open for lunch",
+    "lunchBody": "Tap for details and how to order vegan.",
+    "preTitle": "Lunchtime heads-up?",
+    "preBody": "Get one reminder when a place you saved is open for lunch.",
+    "preNo": "Not now",
+    "preYes": "Sure"
+  },
+  "common": { "offline": "Showing your saved catalog", "cancel": "Cancel" },
+  "errors": {
+    "title": "Something went wrong",
+    "retry": "Try again",
+    "offline": "No connection — the live guide is unreachable right now.",
+    "offlineBanner": "Offline — showing saved content",
+    "timeout": "That took too long. Try again.",
+    "validation": "Some details need fixing — check the highlighted fields.",
+    "auth": "Your session has expired. Sign in again to continue.",
+    "forbidden": "You don't have access to that.",
+    "not_found": "That isn't available right now.",
+    "conflict": "That changed on the server — refresh and try again.",
+    "rate_limited": "Too many attempts — wait a moment and try again.",
+    "server": "The guide hit a snag on our side. Try again in a moment.",
+    "unknown": "Something went wrong. Try again.",
+    "saveFailed": "Couldn't save that — try again."
+  }
+}

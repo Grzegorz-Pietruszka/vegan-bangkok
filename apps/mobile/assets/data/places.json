@@ -1,0 +1,7016 @@
+[
+  {
+    "id": "95ef2480-071c-4d60-a902-a6a21a657f40",
+    "name": "Alice Cafe",
+    "neighbourhood": "",
+    "lat": 13.7486614,
+    "lng": 100.4980489,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Alice Cafe provides delicious cakes, drinks, and various meal options in a calm, cozy, and air-conditioned setting with friendly staff.",
+    "vibeTags": [
+      "quiet",
+      "morning",
+      "family-friendly",
+      "hidden-gem",
+      "monsoon-comfort"
+    ],
+    "verified": false
+  },
+  {
+    "id": "65f32e79-684a-49f0-93d2-bdaa7b845de6",
+    "name": "Aroi Vegetarian Food - Arawy",
+    "neighbourhood": "Phra Nakhon",
+    "lat": 13.7545,
+    "lng": 100.5012,
+    "veganStatus": "fully_vegan",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "nearestStation": "MRT Sam Yot",
+    "photoUrl": null,
+    "summary": "A simple old-city vegan canteen near Dinso Road, best for budget Thai plates before or after temple and monument walks.",
+    "vibeTags": [
+      "street-food",
+      "budget-friendly",
+      "local-favorite",
+      "historic",
+      "morning"
+    ],
+    "verified": false
+  },
+  {
+    "id": "a7c23daf-5463-4d72-a08d-6d2596f483ae",
+    "name": "Baan Ying Plant-Based - Thai Vegan All Day Dining & Wine Bar",
+    "neighbourhood": "",
+    "lat": 13.7386357,
+    "lng": 100.5414747,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Reviewers consistently describe a pleasant dining experience with overwhelmingly delicious and high-quality vegan Thai food.",
+    "vibeTags": [
+      "upscale",
+      "local-favorite",
+      "family-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "187c0e57-89e4-46b3-9936-5452511ed109",
+    "name": "Bangkok Poutine",
+    "neighbourhood": "",
+    "lat": 13.7633586,
+    "lng": 100.4989026,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Bangkok Poutine offers authentic Quebecois poutine, hot dogs, and other items, noted for its flavorful gravy, fresh fries, and super affordable prices.",
+    "vibeTags": [
+      "old-town",
+      "hole-in-the-wall",
+      "hidden-gem",
+      "budget-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "32ec5138-3f01-4530-8e05-0c68ce4ee91b",
+    "name": "Bar-B-Q Plaza",
+    "neighbourhood": "",
+    "lat": 13.7462409,
+    "lng": 100.5396662,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This Thai BBQ & hotpot restaurant, found in shopping malls, offers good value for money with fresh ingredients, a variety of options including platter sets, and a signature BBQ dipping sauce, making it a fun choice for dining with friends or family.",
+    "vibeTags": [
+      "budget-friendly",
+      "family-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "aa667c17-77de-4362-96eb-8ee61ef1fa2c",
+    "name": "BEGAN VEGAN",
+    "neighbourhood": "",
+    "lat": 13.7451815,
+    "lng": 100.4913533,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Began Vegan is a top choice in Bangkok for great-tasting, fresh vegan food, with highlights including well-prepared plant-based pork belly and a good price to value ratio.",
+    "vibeTags": [
+      "quiet",
+      "budget-friendly",
+      "morning"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad0591cf-a186-4b70-9544-51c71b91729f",
+    "name": "Bonita cafe and social club",
+    "neighbourhood": "",
+    "lat": 13.7225376,
+    "lng": 100.5235394,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "We-Mo 11:30-22:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "28a69ade-760b-44ab-b49c-9e13a9d1667c",
+    "name": "Bonita Cafe and Social club",
+    "neighbourhood": "",
+    "lat": 13.7250925,
+    "lng": 100.5214572,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "We-Mo 09:30-21:30"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "cdf0d682-fdab-47bd-9adf-e207970ac778",
+    "name": "Broccoli Revolution",
+    "neighbourhood": "",
+    "lat": 13.7266758,
+    "lng": 100.5753771,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "10:00-21:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "b989d0c3-1d7c-4bc3-be11-c842114a2120",
+    "name": "Broccoli Revolution",
+    "neighbourhood": "Thonglor",
+    "lat": 13.7266,
+    "lng": 100.5753,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": "BTS Thong Lo",
+    "photoUrl": null,
+    "summary": "A polished plant-based café on Sukhumvit 49 with bowls, burgers, juices, Thai-inspired plates, and an easy all-day brunch feel.",
+    "vibeTags": [
+      "upscale",
+      "quiet",
+      "morning",
+      "monsoon-comfort"
+    ],
+    "verified": false
+  },
+  {
+    "id": "c887103f-c55d-4dd6-8f0a-b1163cbe3da5",
+    "name": "Chamlong's",
+    "neighbourhood": "",
+    "lat": 13.7994619,
+    "lng": 100.5470534,
+    "veganStatus": "fully_vegan",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Chamlong's is a super cool vegetarian and vegan street market open from 8 AM to 2 PM, offering a wide variety of cheap and delicious dishes, providing great value and a local eating experience.",
+    "vibeTags": [
+      "street-food",
+      "morning",
+      "budget-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "a25ee1c5-2c66-4166-8e62-9f92c5a921a6",
+    "name": "Chennai Kitchen",
+    "neighbourhood": "",
+    "lat": 13.722819699999999,
+    "lng": 100.52361719999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Chennai Kitchen is praised as an authentic South Indian restaurant with fresh, flavorful dishes and warm hospitality.",
+    "vibeTags": [
+      "local-favorite",
+      "quiet",
+      "family-friendly",
+      "hidden-gem"
+    ],
+    "verified": false
+  },
+  {
+    "id": "f3f9e7bf-1cc3-45cd-bc54-703c1d6b6f05",
+    "name": "Chijuya",
+    "neighbourhood": "",
+    "lat": 13.7371886,
+    "lng": 100.5085785,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "2b0b02a4-fed9-4a06-9529-3c8aab33ca14",
+    "name": "CoCo ICHIBANYA",
+    "neighbourhood": "",
+    "lat": 13.737777,
+    "lng": 100.5604742,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This reliable chain restaurant offers customizable Japanese curry with consistent quality and a calm, quiet atmosphere, making it suitable for both new and experienced diners.",
+    "vibeTags": [
+      "quiet",
+      "family-friendly",
+      "budget-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "4becff46-0e10-43e2-b7a2-6ec2cb2f696c",
+    "name": "Colette Bangkok",
+    "neighbourhood": "",
+    "lat": 13.7340086,
+    "lng": 100.56526029999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "06:30",
+          "close": "01:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "06:30",
+          "close": "01:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:30",
+          "close": "01:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:30",
+          "close": "01:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:30",
+          "close": "01:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:30",
+          "close": "01:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:30",
+          "close": "01:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Colette Bangkok is a solid 5-star hotel bar that offers an impressive beverage menu with a huge selection of wines and craft cocktails, as well as a stunningly presented and elevated breakfast and delicious, beautifully prepared dinner courses.",
+    "vibeTags": [
+      "upscale",
+      "trendy",
+      "romantic",
+      "morning",
+      "late-night"
+    ],
+    "verified": false
+  },
+  {
+    "id": "c69f83b7-2ece-4c10-bb5d-96dfc05a315d",
+    "name": "CRAFT",
+    "neighbourhood": "",
+    "lat": 13.7374574,
+    "lng": 100.5438011,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "CRAFT is a pet-friendly hotel cafe known for its relaxing atmosphere, greenery, and good options for breakfast, brunch, and delicious desserts.",
+    "vibeTags": [
+      "garden",
+      "morning",
+      "quiet",
+      "upscale"
+    ],
+    "verified": false
+  },
+  {
+    "id": "3ce08996-b6ce-47c9-9973-a5109b46b8da",
+    "name": "Dasaprakash - Pratunam, Bangkok",
+    "neighbourhood": "",
+    "lat": 13.7540515,
+    "lng": 100.54094780000001,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Dasaprakash is a newly opened pure vegetarian South Indian restaurant offering authentic food, great quality, and good service with surprisingly good pricing.",
+    "vibeTags": [
+      "budget-friendly",
+      "quiet",
+      "morning"
+    ],
+    "verified": false
+  },
+  {
+    "id": "4294b4e8-4e16-44fe-b6a8-3972bcdcc554",
+    "name": "Duklong Cafe and Eat",
+    "neighbourhood": "",
+    "lat": 13.7613071,
+    "lng": 100.5010004,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Duklong Cafe and Eat offers delicious fresh food with many vegetarian and vegan options, featuring an old Bangkok feel and a nice environment by the river.",
+    "vibeTags": [
+      "old-town",
+      "vintage",
+      "romantic",
+      "riverside",
+      "budget-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "7916f775-2397-4bd4-852e-6be7d11376d3",
+    "name": "EAT ME RESTAURANT",
+    "neighbourhood": "",
+    "lat": 13.7254648,
+    "lng": 100.53389849999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 3,
+    "hours": {
+      "fri": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This trendy and lively restaurant, tucked away in a small side street, offers incredible food, excellent cocktails, and professional service in a gallery-like setting.",
+    "vibeTags": [
+      "trendy",
+      "hidden-gem",
+      "upscale",
+      "artsy",
+      "late-night"
+    ],
+    "verified": false
+  },
+  {
+    "id": "acd8cb7b-d082-4a5c-9308-afa10a8ac021",
+    "name": "Eat Me Veggie & Vegan",
+    "neighbourhood": "",
+    "lat": 13.7250392,
+    "lng": 100.5192464,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Eat Me Veggie & Vegan is a quiet, little family-run restaurant offering delicious and affordably priced vegan Thai and Indian food with a home-cooked feel.",
+    "vibeTags": [
+      "quiet",
+      "hole-in-the-wall",
+      "local-favorite",
+      "budget-friendly",
+      "family-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "806cba18-a09d-4094-8e86-d6f6a3182b42",
+    "name": "Ethos Vegetarian & Vegan Restaurant",
+    "neighbourhood": "",
+    "lat": 13.758588699999999,
+    "lng": 100.4994116,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Ethos is a cosy vegetarian and vegan restaurant located in an alley off a busy road, offering an extensive menu of fresh, wholesome Thai and Western specialties with generous portions and a calm, traditional atmosphere.",
+    "vibeTags": [
+      "hidden-gem",
+      "quiet",
+      "budget-friendly",
+      "backpacker",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "86e0cf5e-5704-4aef-a2c9-136931e37fa4",
+    "name": "FlowRun",
+    "neighbourhood": "",
+    "lat": 13.7207201,
+    "lng": 100.5473315,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "a438d8bc-76e7-425c-996a-04a3a816aa55",
+    "name": "freshupthailand",
+    "neighbourhood": "",
+    "lat": 13.7471847,
+    "lng": 100.539368,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "472f8105-651a-4345-a971-dc3d76ea6c12",
+    "name": "GINGER FARM kitchen at ICONSIAM",
+    "neighbourhood": "",
+    "lat": 13.7263377,
+    "lng": 100.51065059999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "If you appreciate northern Thai food made with care and is farm to table, this place is a must visit.",
+    "vibeTags": [
+      "local-favorite",
+      "hidden-gem",
+      "family-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "d34faf64-902c-4983-ba53-2f1261365031",
+    "name": "Golden State Vegan Restaurant",
+    "neighbourhood": "",
+    "lat": 13.7319479,
+    "lng": 100.5678647,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Golden State Vegan Restaurant is a hidden gem in Bangkok, offering exceptional, beautifully presented fusion sushi and appetizers in a cool, retro atmosphere with friendly staff.",
+    "vibeTags": [
+      "hidden-gem",
+      "trendy",
+      "upscale",
+      "late-night",
+      "bustling"
+    ],
+    "verified": false
+  },
+  {
+    "id": "70b5dc16-8d64-445a-99de-0aa5e053801a",
+    "name": "Golden State Vegan Sushi",
+    "neighbourhood": "Phrom Phong",
+    "lat": 13.732,
+    "lng": 100.5678,
+    "veganStatus": "fully_vegan",
+    "priceBand": 3,
+    "hours": {
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "23:59"
+        }
+      ],
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "23:59"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "23:59"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "23:59"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:59"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "23:59"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:59"
+        }
+      ]
+    },
+    "nearestStation": "BTS Phrom Phong",
+    "photoUrl": null,
+    "summary": "A fully vegan sushi and bar concept near Sukhumvit 33, good for dinner routes where the itinerary wants something more social and late-running.",
+    "vibeTags": [
+      "late-night",
+      "upscale",
+      "bustling"
+    ],
+    "verified": false
+  },
+  {
+    "id": "662bf6c6-2608-4e30-b726-f2f2d68dd9fa",
+    "name": "Goodsouls Kitchen",
+    "neighbourhood": "",
+    "lat": 13.7239158,
+    "lng": 100.5709275,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 10:00-21:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "45c9b019-416b-48b5-ab15-5f71b01fa4bf",
+    "name": "Green Berry แฟชั่นไอส์แลนด์ ชั้นใต้ดิน",
+    "neighbourhood": "",
+    "lat": 13.825385899999999,
+    "lng": 100.6777541,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "20:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "20:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "20:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This reasonably priced salad bar, located next to the food court, offers very fresh vegetables and a wide variety of fruit.",
+    "vibeTags": [
+      "budget-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "1092cdc7-e051-4b1c-8e4c-d7af8507d8a6",
+    "name": "Green & Sunny",
+    "neighbourhood": "Rājadevī",
+    "lat": 13.709416,
+    "lng": 100.395409,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "The cafe features good atmosphere and decorations, has invested in better air quality, and is suitable for chilling out with friends or relaxing from the messy surroundings.",
+    "vibeTags": [
+      "quiet",
+      "upscale",
+      "morning",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "d8d7dfd1-6222-46cf-a5ec-902fcb8b5661",
+    "name": "Guptaji Ki Kitchen",
+    "neighbourhood": "",
+    "lat": 13.7539415,
+    "lng": 100.5393892,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "6e74eb26-d1ab-4906-8c9d-00bcc940102f",
+    "name": "GYO FU Vegetarian Dumplings - เกี๊ยวฟู",
+    "neighbourhood": "",
+    "lat": 13.7435808,
+    "lng": 100.50546609999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This new vegan restaurant in Chinatown specializes in both steamed and fried dumplings, offering various soups with noodles and dumplings, all served with moderate prices and warm service.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite",
+      "hidden-gem",
+      "street-food"
+    ],
+    "verified": false
+  },
+  {
+    "id": "6a5b965b-0864-41d6-b928-ba1fa8e95de4",
+    "name": "Hass Bistro",
+    "neighbourhood": "",
+    "lat": 13.7272298,
+    "lng": 100.5754133,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "8938b76c-029f-4a0f-9f06-4b76d5697d57",
+    "name": "Home Cafe Tha Tien",
+    "neighbourhood": "",
+    "lat": 13.745695,
+    "lng": 100.491253,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "19:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "19:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Home Cafe Tha Tien is a small restaurant conveniently located near the Grand Palace, offering unexpectedly delicious food such as mango sticky rice, flavorful noodles, and refreshing lemon tea.",
+    "vibeTags": [
+      "budget-friendly",
+      "hole-in-the-wall",
+      "quiet"
+    ],
+    "verified": false
+  },
+  {
+    "id": "8ef1f8cf-4c8c-4979-8833-99fb5ff55f6e",
+    "name": "House of Joy",
+    "neighbourhood": "",
+    "lat": 13.7222015,
+    "lng": 100.524303,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Fr 10:00-18:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "34c76c79-7f57-49d3-a606-f75a83edd869",
+    "name": "Hummus Heads Bangkok",
+    "neighbourhood": "",
+    "lat": 13.731950900000001,
+    "lng": 100.5831652,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Hummus Heads Bangkok is a small place offering fresh, healthy, and delicious Lebanese food with friendly staff.",
+    "vibeTags": [
+      "hole-in-the-wall",
+      "budget-friendly",
+      "local-favorite",
+      "late-night",
+      "street-food"
+    ],
+    "verified": false
+  },
+  {
+    "id": "a3e67d73-b419-4bba-bb2c-fd7edb9558ca",
+    "name": "Jae Lee Vegan",
+    "neighbourhood": "",
+    "lat": 13.7427615,
+    "lng": 100.5082238,
+    "veganStatus": "fully_vegan",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Jae Lee Vegan is a fantastic, budget-friendly spot hidden in a small alley in Bangkok’s Chinatown.",
+    "vibeTags": [
+      "budget-friendly",
+      "hidden-gem",
+      "hole-in-the-wall",
+      "local-favorite",
+      "street-food"
+    ],
+    "verified": false
+  },
+  {
+    "id": "633f402c-cb69-4281-9c6a-e5749c37fc4f",
+    "name": "Jae Oa Vegetarian",
+    "neighbourhood": "Chinatown",
+    "lat": 13.7405,
+    "lng": 100.5095,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 1,
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "nearestStation": "MRT Wat Mangkon",
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": true
+  },
+  {
+    "id": "94d77e23-e24d-4821-ab0d-0eed8694e0d1",
+    "name": "Kem-Kon Khaosan",
+    "neighbourhood": "",
+    "lat": 13.7599092,
+    "lng": 100.4987852,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Kem Kon offers a large and diverse selection of fully vegan dishes, including unique vegan alternatives for meats, fish, and eggs, along with special drinks.",
+    "vibeTags": [
+      "trendy",
+      "local-favorite",
+      "backpacker"
+    ],
+    "verified": false
+  },
+  {
+    "id": "0a5bedd4-25a7-42c0-84e5-0ffbfe89c169",
+    "name": "Kem-Kon KhaoSan",
+    "neighbourhood": "Khao San",
+    "lat": 13.7599,
+    "lng": 100.4988,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": "MRT Sam Yot",
+    "photoUrl": null,
+    "summary": "A fully vegan restaurant close to the backpacker zone, good for pairing old-city sightseeing with a late, easy plant-based meal.",
+    "vibeTags": [
+      "backpacker",
+      "late-night",
+      "bustling"
+    ],
+    "verified": false
+  },
+  {
+    "id": "10ebe07e-8bf2-4544-a5fc-dc8437f96560",
+    "name": "Kem-Kon Pahurat",
+    "neighbourhood": "Pahurat",
+    "lat": 13.745,
+    "lng": 100.4992,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": "MRT Sam Yot",
+    "photoUrl": null,
+    "summary": "A vegan stop near Pahurat and the old shopping streets, useful for historic-walk itineraries around Little India, Sampeng, and the river.",
+    "vibeTags": [
+      "historic",
+      "budget-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "5a63a118-685c-487b-ba63-15f934859905",
+    "name": "Kem-Kon Vegan Phahurat",
+    "neighbourhood": "",
+    "lat": 13.7450198,
+    "lng": 100.4992193,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Kem-Kon Vegan Phahurat offers a huge all-vegan selection of delicious Thai and Western dishes, making it a pleasant and reliable spot.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite",
+      "quiet",
+      "hidden-gem"
+    ],
+    "verified": false
+  },
+  {
+    "id": "b784ba87-1f9f-47fa-a873-8bc1b58de68c",
+    "name": "KFC PTTOR Vipavadi 11",
+    "neighbourhood": "",
+    "lat": 13.821038099999999,
+    "lng": 100.557604,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This newly opened restaurant chain is known for its buckets of fried chicken, combo meals, and sides, with one customer enjoying the steak, despite others noting issues with dirty tables and shriveled, tough chicken.",
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "9ea522c0-ce6e-492c-84ec-726bf51b4f7c",
+    "name": "Khao Gaeng Jek Pui (Je Chie)",
+    "neighbourhood": "",
+    "lat": 13.7437524,
+    "lng": 100.50901929999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "14:00",
+          "close": "19:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "14:00",
+          "close": "19:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "14:00",
+          "close": "19:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "14:00",
+          "close": "19:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "14:00",
+          "close": "19:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "14:00",
+          "close": "19:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "14:00",
+          "close": "19:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Khao Gaeng Jek Pui (Je Chie) is a popular curry and rice shop, known for its rich and flavorful curries and quick service, located near Wat Leng Noei Yi in Yaowarat.",
+    "vibeTags": [
+      "hidden-gem",
+      "local-favorite",
+      "budget-friendly",
+      "street-food",
+      "old-town"
+    ],
+    "verified": false
+  },
+  {
+    "id": "48088889-70ea-4be8-b422-20581ee26107",
+    "name": "Khrua J St. Louis",
+    "neighbourhood": "",
+    "lat": 13.717607,
+    "lng": 100.52699679999999,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Khrua J St. Louis is a long-standing restaurant, around for 20+ years, serving clean and affordable local vegan and vegetarian food with friendly staff, offering a varied buffet and dishes like khao soi.",
+    "vibeTags": [
+      "historic",
+      "budget-friendly",
+      "local-favorite",
+      "morning",
+      "hole-in-the-wall"
+    ],
+    "verified": false
+  },
+  {
+    "id": "8205edbc-867f-470c-906b-e5433b590c6d",
+    "name": "Kind Cafe",
+    "neighbourhood": "",
+    "lat": 13.8208575,
+    "lng": 100.6242239,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "We-Mo 10:00-19:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "c19fe12c-966e-4d45-b8d4-fc44ebfaece1",
+    "name": "Kran Boom Modern Thai",
+    "neighbourhood": "",
+    "lat": 13.7437059,
+    "lng": 100.5014561,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "c7802241-f9ea-4c2a-9cbf-0ea8e0876a21",
+    "name": "Kruaboon Thai",
+    "neighbourhood": "",
+    "lat": 13.724671299999999,
+    "lng": 100.5191385,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Kruaboon Thai offers amazing, quality, and reasonably priced vegetarian and vegan food with an extensive menu, friendly staff, and impressive cooking, despite some reports of lacking ambiance.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite",
+      "hole-in-the-wall",
+      "street-food"
+    ],
+    "verified": false
+  },
+  {
+    "id": "a877f10b-1509-440c-a66c-09cc256d152e",
+    "name": "Kynd Kulture",
+    "neighbourhood": "",
+    "lat": 13.726053499999999,
+    "lng": 100.5870444,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Kynd Kulture is an all-vegan cafe inside the EKM6 community space in Ekkamai that offers a super relaxing atmosphere.",
+    "vibeTags": [
+      "quiet",
+      "morning",
+      "trendy",
+      "family-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "15b789fe-6210-4a19-a9bd-bd34c4c0d5b2",
+    "name": "L' Ambiance Café",
+    "neighbourhood": "",
+    "lat": 13.737847499999999,
+    "lng": 100.56962109999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This is a charming little café with a complete menu, excellent coffee, and lovely staff.",
+    "vibeTags": [
+      "hole-in-the-wall",
+      "trendy",
+      "local-favorite",
+      "artsy"
+    ],
+    "verified": false
+  },
+  {
+    "id": "089f2672-65cd-4c14-a6c6-6016112dedc7",
+    "name": "Laun",
+    "neighbourhood": "",
+    "lat": 13.7503432,
+    "lng": 100.49810409999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Laun is a Thai-inspired restaurant with a modern menu offering a delightful blend of Thai and Western dishes in a new, nice, and clean atmosphere with friendly staff.",
+    "vibeTags": [
+      "hidden-gem",
+      "vintage",
+      "upscale",
+      "trendy"
+    ],
+    "verified": false
+  },
+  {
+    "id": "a4d60100-dd86-4102-b58c-8c4689835e25",
+    "name": "Lee Jae Veg",
+    "neighbourhood": "",
+    "lat": 13.7427155,
+    "lng": 100.5082519,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 08:00-17:30"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "b15b4057-fe4c-4f96-9f8a-019e58cfd3e0",
+    "name": "L'Orangerie",
+    "neighbourhood": "",
+    "lat": 13.783174899999999,
+    "lng": 100.4029173,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "L'Orangerie provides a wide variety of delicious vegetarian and vegan dishes in a clean, cozy, and modern interior with affordable prices and attentive staff, also offering a vegan food store.",
+    "vibeTags": [
+      "budget-friendly",
+      "hidden-gem",
+      "quiet",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "253cbb43-2066-4d2c-87c8-dd669c65bdf2",
+    "name": "Lumpoo Massage",
+    "neighbourhood": "",
+    "lat": 13.7625008,
+    "lng": 100.4970539,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This hole in the wall place seriously impressed with the quality of massage for the price.",
+    "vibeTags": [
+      "hole-in-the-wall",
+      "hidden-gem",
+      "budget-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "e6631cb5-6d62-415f-90ca-fd2f16e79a30",
+    "name": "Mama Mia",
+    "neighbourhood": "",
+    "lat": 13.724817799999999,
+    "lng": 100.52311329999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This classic street cafe offers excellent Thai food and very good service, providing a true authentic Bangkok experience despite its modest appearance.",
+    "vibeTags": [
+      "street-food",
+      "local-favorite",
+      "hidden-gem",
+      "hole-in-the-wall",
+      "bustling"
+    ],
+    "verified": false
+  },
+  {
+    "id": "945c62c1-c11f-4e6b-9b2a-a49cdfad22b2",
+    "name": "Mandalay Food House",
+    "neighbourhood": "Rājadevī",
+    "lat": 13.7526078,
+    "lng": 100.53677549999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Mandalay Food House offers delicious, authentic Burmese cuisine with warm, friendly service in a new, more spacious location, and is highly recommended.",
+    "vibeTags": [
+      "local-favorite",
+      "family-friendly",
+      "budget-friendly",
+      "street-food",
+      "hidden-gem"
+    ],
+    "verified": false
+  },
+  {
+    "id": "e57946c3-54f2-4f2b-9aa5-f967e3c2710c",
+    "name": "Mango Vegetarian & Vegan",
+    "neighbourhood": "Khao San",
+    "lat": 13.759609099999999,
+    "lng": 100.4992991,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": "MRT Sam Yot",
+    "photoUrl": null,
+    "summary": "Mango Vegetarian & Vegan offers beautiful, delicious, and nutritious food with attention to detail, a cute interior, refreshing homemade drinks, and friendly cat companions, providing a nourishing and refreshing experience.",
+    "vibeTags": [
+      "local-favorite",
+      "budget-friendly",
+      "trendy",
+      "hidden-gem"
+    ],
+    "verified": false
+  },
+  {
+    "id": "1a7814e1-f5a0-4e88-b7ee-718563b4f70a",
+    "name": "Mango Vegetarian & Vegan",
+    "neighbourhood": "",
+    "lat": 13.7596702,
+    "lng": 100.4993442,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "2a7acf53-e205-4ad2-beaf-895b5981ea6a",
+    "name": "Masu Maki & Sushi Bar",
+    "neighbourhood": "",
+    "lat": 13.732435599999999,
+    "lng": 100.5709768,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Masu Maki & Sushi Bar is a wonderful place with great staff, delicious and filling food including amazing vegetarian options, and excellent ambiance.",
+    "vibeTags": [
+      "local-favorite",
+      "bustling",
+      "budget-friendly",
+      "hole-in-the-wall"
+    ],
+    "verified": false
+  },
+  {
+    "id": "8a2dc759-2008-4f35-8f3d-62543d4fa57e",
+    "name": "May Kaidee",
+    "neighbourhood": "",
+    "lat": 13.7581663,
+    "lng": 100.4993423,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 09:00-22:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "ae4ef4c9-7a7d-4557-862c-ab72389d21f1",
+    "name": "May Kaidee Tanao Vegetarian & Vegan Restaurant",
+    "neighbourhood": "",
+    "lat": 13.766276,
+    "lng": 100.4994861,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "May Kaidee Tanao is a fantastic vegetarian and vegan restaurant offering brilliant quality at a reasonable price with a variety of delicious food, friendly service, and a rustic ambiance, also providing cooking classes.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite",
+      "quiet",
+      "street-food"
+    ],
+    "verified": false
+  },
+  {
+    "id": "e1fbe16d-faa7-46f4-8c75-9474008a86c0",
+    "name": "May Veggie Home",
+    "neighbourhood": "Punnawithi",
+    "lat": 13.6911039,
+    "lng": 100.6140784,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": "BTS Punnawithi",
+    "photoUrl": null,
+    "summary": "May Veggie Home is a beautiful, budget-friendly cafe situated on a side street away from bustling Sukhumvit Road, offering a rich menu of delicious and plentiful Thai and Western favorites, including options for specific dietary needs.",
+    "vibeTags": [
+      "budget-friendly",
+      "hidden-gem",
+      "family-friendly",
+      "quiet",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "602a9309-1158-49b7-88e6-3856caf82ced",
+    "name": "May Veggie Home Express",
+    "neighbourhood": "Asok",
+    "lat": 13.7404,
+    "lng": 100.5631,
+    "veganStatus": "fully_vegan",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": "BTS Asok / MRT Sukhumvit",
+    "photoUrl": null,
+    "summary": "A compact express branch near Asok for quick vegan Thai meals, useful when the itinerary needs a central Sukhumvit fallback.",
+    "vibeTags": [
+      "budget-friendly",
+      "monsoon-comfort",
+      "quiet"
+    ],
+    "verified": false
+  },
+  {
+    "id": "37d35722-3e6e-4b75-9f59-adf04546842f",
+    "name": "MAY VEGGIE HOME EXPRESS [Sukhumvit23]",
+    "neighbourhood": "",
+    "lat": 13.7406025,
+    "lng": 100.5629907,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This small, quiet, air-conditioned vegetarian restaurant, hidden on the second floor, offers excellent Thai and western cuisine with large servings at reasonable prices.",
+    "vibeTags": [
+      "hidden-gem",
+      "quiet",
+      "hole-in-the-wall",
+      "budget-friendly",
+      "monsoon-comfort"
+    ],
+    "verified": false
+  },
+  {
+    "id": "3d256bd3-bafa-4767-b54e-fa26d6cf6671",
+    "name": "Mercy Republic",
+    "neighbourhood": "Asok",
+    "lat": 13.7397642,
+    "lng": 100.56528329999999,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "00:00"
+        }
+      ]
+    },
+    "nearestStation": "BTS Asok / MRT Sukhumvit",
+    "photoUrl": null,
+    "summary": "Mercy Republic is described as a small, dark, and cozy vegan restaurant with an intimate, lounge-like atmosphere featuring good music and delicious food, often tucked away.",
+    "vibeTags": [
+      "hidden-gem",
+      "late-night",
+      "romantic",
+      "local-favorite",
+      "trendy"
+    ],
+    "verified": false
+  },
+  {
+    "id": "93eaff82-c69b-4643-8336-d2904beda3b8",
+    "name": "Mercy Republic",
+    "neighbourhood": "",
+    "lat": 13.7397802,
+    "lng": 100.5652624,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "ef958749-0ceb-4c13-a221-ae9e53abfeb9",
+    "name": "Mr. Genki",
+    "neighbourhood": "",
+    "lat": 13.6602503,
+    "lng": 100.46838509999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Mr. Genki is a reliable institution for high-quality vegetarian dining, offering a diverse menu of traditional Japanese flavors adapted into vegetarian dishes within a clean, beautiful, and serene environment.",
+    "vibeTags": [
+      "hidden-gem",
+      "quiet",
+      "romantic",
+      "family-friendly",
+      "budget-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "2f7ebb18-1a99-4b63-aecd-0ca479b70c2d",
+    "name": "My House Guesthouse & Restaurant",
+    "neighbourhood": "",
+    "lat": 13.762039,
+    "lng": 100.49490899999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "My House Guesthouse & Restaurant offers clean, budget-friendly rooms and a restaurant with good food, situated in a relatively quiet location yet within walking distance to Khao San Road.",
+    "vibeTags": [
+      "quiet",
+      "budget-friendly",
+      "backpacker"
+    ],
+    "verified": false
+  },
+  {
+    "id": "e510e0d9-ad6c-41ce-94fe-94043f3cebfd",
+    "name": "Nature's Charm",
+    "neighbourhood": "Thonglor",
+    "lat": 13.7266,
+    "lng": 100.5765,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": "BTS Thong Lo",
+    "photoUrl": null,
+    "summary": "A cozy vegan café and dessert spot in Sukhumvit 51, especially good for coconut-based sweets, comfort plates, and slower daytime meals.",
+    "vibeTags": [
+      "quiet",
+      "morning",
+      "monsoon-comfort",
+      "hidden-gem"
+    ],
+    "verified": false
+  },
+  {
+    "id": "b1e223f5-4924-41e3-b69b-5f6bfe6239cf",
+    "name": "Nature’s Charm Cafe",
+    "neighbourhood": "",
+    "lat": 13.7265676,
+    "lng": 100.5765413,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Nature's Charm Cafe is a beautiful, relaxing two-level cafe offering a massive and creative vegan menu that includes Western, Thai, and Korean dishes.",
+    "vibeTags": [
+      "garden",
+      "morning",
+      "quiet",
+      "trendy"
+    ],
+    "verified": false
+  },
+  {
+    "id": "7e91d031-ec55-4303-b82b-3a5427d0e6f1",
+    "name": "Nop Nan Vegan",
+    "neighbourhood": "",
+    "lat": 13.713799100000001,
+    "lng": 100.5153613,
+    "veganStatus": "fully_vegan",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Nop Nan Vegan is a hidden gem in Bangkok, offering delicious, budget-friendly vegan food with a very local vibe.",
+    "vibeTags": [
+      "hidden-gem",
+      "budget-friendly",
+      "local-favorite",
+      "hole-in-the-wall"
+    ],
+    "verified": false
+  },
+  {
+    "id": "aeb1b417-1d8f-4aa7-b9a4-c60e98cc17e4",
+    "name": "Nourish Cafe",
+    "neighbourhood": "",
+    "lat": 13.7051314,
+    "lng": 100.5974795,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Fr 07:00-21:00; Sa-Su 09:00-17:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "5689979d-9320-41c8-8d3d-326471134a27",
+    "name": "OM GANESH INDIAN RESTAURANT 1997 | Bangkok",
+    "neighbourhood": "",
+    "lat": 13.706367199999999,
+    "lng": 100.59851379999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This restaurant offers delicious Himalayan/Nepali-Indian food with reasonable prices, friendly service, and a cozy atmosphere where customers can explore dishes like flavorful lamb sekuwa, garlic naan, and spicy vindaloo.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite",
+      "quiet"
+    ],
+    "verified": false
+  },
+  {
+    "id": "3dac5d76-6086-4757-8456-89959f42c1a9",
+    "name": "PALA PIZZA ROMANA & BISTROT",
+    "neighbourhood": "",
+    "lat": 13.7369303,
+    "lng": 100.5608983,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "22:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "22:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Pala Pizza Romana & Bistro offers authentic Italian food, including Roman-style pizza by the slice, in a lively, casual European deli vibe right under BTS Asok.",
+    "vibeTags": [
+      "trendy",
+      "street-food",
+      "bustling",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad6f369a-6f09-4876-b92b-ea2964d57253",
+    "name": "Pa Phu Rice & Curries",
+    "neighbourhood": "",
+    "lat": 13.762235500000001,
+    "lng": 100.5019497,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "22:00",
+          "close": "08:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "22:00",
+          "close": "08:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "22:00",
+          "close": "08:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "22:00",
+          "close": "08:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "22:00",
+          "close": "08:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "22:00",
+          "close": "08:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This place offers authentic, tasty, delicious, clean, and flavorful Thai food at a generally reasonable price.",
+    "vibeTags": [
+      "street-food",
+      "budget-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ad75d852-346f-436d-84fc-76ed0e45aae8",
+    "name": "PLANTIFUL on Sukhumvit 61",
+    "neighbourhood": "",
+    "lat": 13.725029399999999,
+    "lng": 100.5833889,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Plantiful offers a great variety of delicious vegan dishes, including tofu scramble, pad thai, sushi, and a special vegan banoffee, served in a peaceful, bright atmosphere suitable for remote work.",
+    "vibeTags": [
+      "upscale",
+      "trendy",
+      "quiet",
+      "morning"
+    ],
+    "verified": false
+  },
+  {
+    "id": "2f6349db-605b-45cf-b4ef-3d453ee9d9ec",
+    "name": "Plant Passion BKK แพลนต์แพชชั่น",
+    "neighbourhood": "",
+    "lat": 13.7262141,
+    "lng": 100.5868414,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Plant Passion specializes in traditional Thai cuisine, with a menu of plant-based stir-fries, noodles, and rice plates that include creative dishes like garlic 'prawns' and 'duck' with meat-like texture.",
+    "vibeTags": [
+      "local-favorite",
+      "hidden-gem",
+      "hole-in-the-wall"
+    ],
+    "verified": false
+  },
+  {
+    "id": "36ee6092-fed8-4658-a990-c8d46334526d",
+    "name": "Punsuk Vegetarian",
+    "neighbourhood": "",
+    "lat": 13.7431865,
+    "lng": 100.5115434,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This fully vegan restaurant in the Chinatown area offers a wide array of Japanese, Taiwanese, Chinese, and Thai options, with delicious and well-cooked food, including impressive vegan meat alternatives and generous portions, served in a cozy and authentic atmosphere.",
+    "vibeTags": [
+      "hole-in-the-wall",
+      "local-favorite",
+      "old-town",
+      "hidden-gem"
+    ],
+    "verified": false
+  },
+  {
+    "id": "e4e3c32c-3ff4-4d9f-b975-b1df743262a2",
+    "name": "Rasayana Retreat",
+    "neighbourhood": "",
+    "lat": 13.7351127,
+    "lng": 100.57355150000001,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Rasayana Retreat offers a peaceful, calming oasis in Bangkok with delicious raw vegan food, cold-pressed juices, and health classes, along with a spa for detox and post-flight recovery.",
+    "vibeTags": [
+      "quiet",
+      "garden",
+      "upscale",
+      "hidden-gem"
+    ],
+    "verified": false
+  },
+  {
+    "id": "1e7438c1-803c-4c63-bf75-8fdf1d64f4b3",
+    "name": "Rosie’s Kitchen",
+    "neighbourhood": "",
+    "lat": 13.753831,
+    "lng": 100.5048106,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Sa 10:30-15:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "c51dc6dc-fa32-4243-9ba6-5e7e3f60c6c8",
+    "name": "Royal Dosa",
+    "neighbourhood": "",
+    "lat": 13.7539968,
+    "lng": 100.5394159,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "0ad673a3-a57d-4b0c-9d69-d3b07e808d90",
+    "name": "Ruyi vegetarian",
+    "neighbourhood": "",
+    "lat": 13.738115,
+    "lng": 100.51817009999999,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Ruyi vegetarian is an incredible and quaint little restaurant offering 10/10 vegetarian and vegan versions of classic Thai and Chinese food, which is often filled with locals.",
+    "vibeTags": [
+      "hole-in-the-wall",
+      "local-favorite",
+      "budget-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "4136ece1-3c06-4712-af24-d15e95cb191b",
+    "name": "Seven Spoons",
+    "neighbourhood": "",
+    "lat": 13.759103099999999,
+    "lng": 100.5088157,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Seven Spoons is described as a cozy and stylish place with seriously good food that is full of flavor and beautifully plated.",
+    "vibeTags": [
+      "hidden-gem",
+      "upscale",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "cc341bf8-3966-4c30-b6b8-0f844721672d",
+    "name": "Signature 15",
+    "neighbourhood": "",
+    "lat": 13.7537478,
+    "lng": 100.5370839,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This fantastic Burmese restaurant offers delicious Burmese and Thai foods, stands out for its impeccable cleanliness and lightning-fast service, and provides incredible value for money.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ec99879b-c946-402a-b844-4d2d7d988f3d",
+    "name": "Sit and Wonder",
+    "neighbourhood": "",
+    "lat": 13.7252218,
+    "lng": 100.5800618,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Sit and Wonder is a narrow eatery dishing out classic and authentic Thai plates from curries to soups plus rice & noodles, located upstairs down a back alley, offering delicious food and warm, attentive, and friendly service.",
+    "vibeTags": [
+      "hidden-gem",
+      "hole-in-the-wall",
+      "local-favorite",
+      "budget-friendly",
+      "morning"
+    ],
+    "verified": false
+  },
+  {
+    "id": "c87d140e-cfe6-4a6e-9738-73fad76c7895",
+    "name": "So Vegan - Century Onnut",
+    "neighbourhood": "",
+    "lat": 13.705617799999999,
+    "lng": 100.6018187,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "So Vegan is a clean, efficient, cafeteria-style spot located directly at the On Nut BTS station, offering budget-friendly, high-protein, low-cost vegan and vegetarian meals perfect for a quick lunch or healthy takeout.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite",
+      "morning",
+      "street-food"
+    ],
+    "verified": false
+  },
+  {
+    "id": "c8d9b38d-c014-44cd-856b-e1e510b6c483",
+    "name": "So Vegan Gateway Ekkamai",
+    "neighbourhood": "Ekkamai",
+    "lat": 13.7185,
+    "lng": 100.5852,
+    "veganStatus": "fully_vegan",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": "BTS Ekkamai",
+    "photoUrl": null,
+    "summary": "A mall-based vegan counter at Gateway Ekkamai, useful as a budget-friendly fallback before buses, errands, or east-side Sukhumvit plans.",
+    "vibeTags": [
+      "budget-friendly",
+      "monsoon-comfort",
+      "family-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "6e509084-a741-4ceb-88b8-ab37354454f0",
+    "name": "So Vegan - i'm Chinatown​ (2F)",
+    "neighbourhood": "",
+    "lat": 13.741643999999999,
+    "lng": 100.5112918,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "So Vegan is a cozy, quiet place with around 6 tables located on the second floor of a small complex in Chinatown, offering delicious and affordable vegan versions of classic Thai dishes.",
+    "vibeTags": [
+      "hole-in-the-wall",
+      "quiet",
+      "budget-friendly",
+      "hidden-gem",
+      "old-town"
+    ],
+    "verified": false
+  },
+  {
+    "id": "c433bbe1-b9e1-4d1e-b4d7-940cc051bb41",
+    "name": "So Vegan Lotus Ladprao",
+    "neighbourhood": "Lat Phrao",
+    "lat": 13.8182,
+    "lng": 100.5632,
+    "veganStatus": "fully_vegan",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ]
+    },
+    "nearestStation": "MRT Phahon Yothin",
+    "photoUrl": null,
+    "summary": "A practical vegan food-court-style branch in the Lat Phrao area, useful for affordable meals outside the tourist core.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite",
+      "family-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "9769bc00-dac0-435b-96a3-99b975bac9da",
+    "name": "So Vegan Yaowarat",
+    "neighbourhood": "Chinatown",
+    "lat": 13.7416,
+    "lng": 100.5115,
+    "veganStatus": "fully_vegan",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": "MRT Wat Mangkon",
+    "photoUrl": null,
+    "summary": "A budget vegan branch in the Chinatown area, good for adding a plant-based option to Yaowarat, Talat Noi, or old-city food routes.",
+    "vibeTags": [
+      "street-food",
+      "budget-friendly",
+      "bustling",
+      "historic"
+    ],
+    "verified": false
+  },
+  {
+    "id": "159b570d-5505-4c59-b49e-2fc2ef18f39e",
+    "name": "So Vegan สาขา Phenix ประตูน้ำ",
+    "neighbourhood": "",
+    "lat": 13.7509415,
+    "lng": 100.53724,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "So Vegan สาขา Phenix ประตูน้ำ is a pure vegan place in the Pratunam area, offering an extensive and affordable menu with tasty Thai cuisine, fast service, and friendly staff.",
+    "vibeTags": [
+      "budget-friendly",
+      "family-friendly",
+      "local-favorite",
+      "quiet"
+    ],
+    "verified": false
+  },
+  {
+    "id": "8d944d79-f492-4a86-83db-2025db54399e",
+    "name": "Sri Ananda Bhawan",
+    "neighbourhood": "",
+    "lat": 13.724116299999999,
+    "lng": 100.5224294,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Sri Ananda Bhawan offers authentic South Indian food including vegetarian side dishes and a South Indian thali, praised for being healthy, fresh, and affordable.",
+    "vibeTags": [
+      "budget-friendly",
+      "backpacker",
+      "hole-in-the-wall",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "9f80d5bb-c493-4f45-a5e1-7faff8668f0b",
+    "name": "Starbucks Paradise Park - Bangkok",
+    "neighbourhood": "",
+    "lat": 13.6877778,
+    "lng": 100.6475,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "21:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "21:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This welcoming coffeehouse on the second floor of Paradise Park Mall offers handcrafted coffee, espresso, tea, breakfast, lunch, and pastries in a comfortable, laptop-working friendly space with free wifi, many seats, and friendly staff, often busy during weekends and closing late.",
+    "vibeTags": [
+      "late-night",
+      "morning",
+      "bustling",
+      "budget-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "8228372a-d0b5-4f2c-8f44-c470a7f0267b",
+    "name": "Sustaina Organic Restaurant",
+    "neighbourhood": "Phrom Phong",
+    "lat": 13.7308,
+    "lng": 100.5701,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "20:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "20:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "20:30"
+        }
+      ]
+    },
+    "nearestStation": "BTS Phrom Phong",
+    "photoUrl": null,
+    "summary": "An organic Japanese-leaning restaurant near Sukhumvit 39 with vegan-friendly options, best used as a flexible mixed-diet stop.",
+    "vibeTags": [
+      "quiet",
+      "monsoon-comfort",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "dd4fde74-a16d-4380-9cf8-8606e46a628b",
+    "name": "Sweet Addict",
+    "neighbourhood": "",
+    "lat": 13.6998758,
+    "lng": 100.53091219999999,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "14:00",
+          "close": "00:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "14:00",
+          "close": "00:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "14:00",
+          "close": "00:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "14:00",
+          "close": "00:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "14:00",
+          "close": "00:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "14:00",
+          "close": "00:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "14:00",
+          "close": "00:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Sweet Addict is a dessert cafe open until midnight, offering items like bingsu, croffle, and toasts in a simply decorated space that can be packed.",
+    "vibeTags": [
+      "late-night",
+      "bustling",
+      "budget-friendly",
+      "hole-in-the-wall"
+    ],
+    "verified": false
+  },
+  {
+    "id": "d182d0e7-54e8-416b-92b1-31548786e1f5",
+    "name": "Talalaks",
+    "neighbourhood": "",
+    "lat": 13.6614772,
+    "lng": 100.4338432,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Talalaks is a fantastic vegetarian gem serving flavorful, well-balanced, and consistently delicious plant-based Thai food at very reasonable prices.",
+    "vibeTags": [
+      "budget-friendly",
+      "family-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "5ccdf189-de20-488b-99c9-a03059109795",
+    "name": "Tank Coffee",
+    "neighbourhood": "",
+    "lat": 13.790947700000002,
+    "lng": 100.4627924,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Tank Coffee is a relaxing cafe around Ratchapruek road offering a variety of excellent coffee beans, many photo spots, and mini aquariums.",
+    "vibeTags": [
+      "quiet",
+      "family-friendly",
+      "upscale",
+      "trendy",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "28b5f23e-1ec9-4f27-8263-c158a2a5c926",
+    "name": "Tham Na",
+    "neighbourhood": "",
+    "lat": 13.764615399999999,
+    "lng": 100.4996415,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Tham Na offers delicious vegetarian and vegan Thai food made with high-quality, fresh ingredients, praised for being flavourful and a hidden gem.",
+    "vibeTags": [
+      "hidden-gem",
+      "local-favorite",
+      "budget-friendly",
+      "hole-in-the-wall"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ecb9112a-5b3e-40f7-94f6-b5c5a9de5b35",
+    "name": "The Garage Burger​ &​ Grill",
+    "neighbourhood": "",
+    "lat": 13.726424999999999,
+    "lng": 100.5751579,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "The Garage Burger & Grill offers authentic American-style burgers and food, with a welcoming atmosphere and friendly service that makes guests feel like family.",
+    "vibeTags": [
+      "vintage",
+      "local-favorite",
+      "family-friendly",
+      "hidden-gem",
+      "late-night"
+    ],
+    "verified": false
+  },
+  {
+    "id": "e8dbb547-f91a-419e-b26e-c888ad692c4b",
+    "name": "The Island Bangkok – Top Rated Thai Restaurant & Bar",
+    "neighbourhood": "",
+    "lat": 13.763558,
+    "lng": 100.50033599999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "As a vegetarian, they have a good variety at a reasonable cost around 80-200 baht.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite",
+      "quiet",
+      "bustling",
+      "backpacker"
+    ],
+    "verified": false
+  },
+  {
+    "id": "077927f6-50a9-4aa5-8cae-97e3d103eb42",
+    "name": "The Rice & Healthy food",
+    "neighbourhood": "แขวงบางบำหรุ",
+    "lat": 13.776551,
+    "lng": 100.4796283,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "The Rice & Healthy food is a vegetarian café offering terrific local food with a vegan twist on traditional Thai dishes, fantastic barista coffee, and good value at local prices.",
+    "vibeTags": [
+      "hidden-gem",
+      "local-favorite",
+      "morning",
+      "quiet",
+      "budget-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "a9ce240e-176a-4b7f-afcf-fb2f950fa128",
+    "name": "The Vegetarian Cottage",
+    "neighbourhood": "",
+    "lat": 13.799576199999999,
+    "lng": 100.56917089999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This quiet, hidden-gem restaurant is surrounded by big plants and a bird bath fountain, offering a vast menu of delicious Western, Thai, and Japanese vegan dishes, including many meat substitutes, at a reasonable price.",
+    "vibeTags": [
+      "quiet",
+      "hidden-gem",
+      "garden",
+      "budget-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "38d5166e-9306-4e71-81fb-7f3ca79a87a6",
+    "name": "Tien Sin",
+    "neighbourhood": "",
+    "lat": 13.720953999999999,
+    "lng": 100.516657,
+    "veganStatus": "fully_vegan",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Tien Sin offers a huge selection of reasonably priced, good-portioned Thai/Chinese style vegetarian dishes served buffet style, buzzing with local people.",
+    "vibeTags": [
+      "budget-friendly",
+      "bustling",
+      "local-favorite",
+      "morning"
+    ],
+    "verified": false
+  },
+  {
+    "id": "2e051a09-72d5-4879-87f1-ce2ee66a28ce",
+    "name": "Tutto Matto - Sathon 11",
+    "neighbourhood": "",
+    "lat": 13.7176112,
+    "lng": 100.52713899999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "00:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "00:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "00:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "00:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "00:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "00:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "00:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Tutto Matto is a small, clean, and welcoming Italian fast-food–style restaurant that offers an extensive menu, including a fully dedicated vegan selection, in a charming atmosphere.",
+    "vibeTags": [
+      "hidden-gem",
+      "hole-in-the-wall"
+    ],
+    "verified": false
+  },
+  {
+    "id": "cdbb1c13-83b8-4362-8c5b-c26bb9d92972",
+    "name": "Vegan 108",
+    "neighbourhood": "",
+    "lat": 13.7737561,
+    "lng": 100.5701644,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "ff510087-1030-45d2-8162-4d377a233afe",
+    "name": "Veganarie",
+    "neighbourhood": "",
+    "lat": 13.7432384,
+    "lng": 100.544248,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "3628c586-243b-4c34-820c-80302e7c67a3",
+    "name": "Veganerie",
+    "neighbourhood": "",
+    "lat": 13.7288526,
+    "lng": 100.5669278,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 09:30-22:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "e100b264-b15e-425c-938b-2e1493deab86",
+    "name": "Veganerie Concept",
+    "neighbourhood": "Phrom Phong",
+    "lat": 13.7289,
+    "lng": 100.5669,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "nearestStation": "BTS Phrom Phong",
+    "photoUrl": null,
+    "summary": "A reliable all-vegan café near Benchasiri Park, useful for waffles, cakes, burgers, smoothie bowls, and rainy-day mall-adjacent meals.",
+    "vibeTags": [
+      "family-friendly",
+      "monsoon-comfort",
+      "morning"
+    ],
+    "verified": false
+  },
+  {
+    "id": "eeee0ad0-9d9b-4fcf-9b77-f9c7960003f4",
+    "name": "VEGANERIE Concept",
+    "neighbourhood": "Phrom Phong",
+    "lat": 13.7288529,
+    "lng": 100.56681309999999,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ]
+    },
+    "nearestStation": "BTS Phrom Phong",
+    "photoUrl": null,
+    "summary": "Veganerie Concept is an absolute gem in Bangkok, perfectly tucked away on Sukhumvit just behind Benchasiri Park.",
+    "vibeTags": [
+      "hidden-gem",
+      "quiet",
+      "garden",
+      "local-favorite",
+      "morning"
+    ],
+    "verified": false
+  },
+  {
+    "id": "54e1dd51-0ccb-4ae0-86a5-1da90b438de6",
+    "name": "Veganerie Nana",
+    "neighbourhood": "",
+    "lat": 13.741226099999999,
+    "lng": 100.556443,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Veganerie Nana is praised as an amazing vegan restaurant offering a variety of dishes such as mac and cheese, Tomyum tofu noodles, crispy cauliflower, and waffles, with excellent flavors and freshness.",
+    "vibeTags": [
+      "local-favorite",
+      "budget-friendly",
+      "quiet"
+    ],
+    "verified": false
+  },
+  {
+    "id": "90147265-27eb-478b-b059-ca933299d092",
+    "name": "Veganerie (Nana) Ambassador Hotel",
+    "neighbourhood": "",
+    "lat": 13.7416731,
+    "lng": 100.5566338,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "10a2a464-1f5c-4de6-a86c-f5ae550b959c",
+    "name": "VEGANERIE Ratchathewi",
+    "neighbourhood": "",
+    "lat": 13.751721,
+    "lng": 100.5299648,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Veganerie Ratchathewi offers a very wide choice of delicious and well-presented vegan dishes in a special and relaxed atmosphere with impeccable service.",
+    "vibeTags": [
+      "trendy",
+      "upscale",
+      "morning",
+      "family-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "57f08879-bd4b-44fd-a849-eefcb37604a8",
+    "name": "Veganerie Silom",
+    "neighbourhood": "",
+    "lat": 13.7229906,
+    "lng": 100.52075769999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "21:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This restaurant is highly recommended for its incredibly flavorful and diverse menu, offering wide choices including gluten-free, keto-friendly, and low FODMAP options, all served with great service in a cosy ambience at fair prices.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite",
+      "quiet"
+    ],
+    "verified": false
+  },
+  {
+    "id": "608c85f6-aa72-46c2-8df8-ac4144e4b3ac",
+    "name": "Vegan Food Thai Jae Restaurant",
+    "neighbourhood": "",
+    "lat": 13.7619132,
+    "lng": 100.5000454,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {},
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "be0980a3-385f-47fe-ba3c-eb6ad74a677c",
+    "name": "Vegan India- 100% Pure Vegetarian Indian Restaurant in Bangkok",
+    "neighbourhood": "ปทุมวัน",
+    "lat": 13.746815199999999,
+    "lng": 100.52853789999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Vegan India offers amazing vegan Indian food near MBK, providing authentic, plant-based Indian dishes.",
+    "vibeTags": [
+      "hidden-gem",
+      "local-favorite",
+      "upscale",
+      "family-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "65e0c0e8-d0d9-4263-ba2a-b8702daa3eea",
+    "name": "Vegan Mahanakhon",
+    "neighbourhood": "Bangkok Noi",
+    "lat": 13.7515,
+    "lng": 100.4833,
+    "veganStatus": "fully_vegan",
+    "priceBand": 3,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": "MRT Itsaraphap",
+    "photoUrl": null,
+    "summary": "A more refined vegan Thai restaurant on the Thonburi side, handy after Wat Arun, Wang Lang, or riverside temple routes.",
+    "vibeTags": [
+      "upscale",
+      "historic",
+      "quiet"
+    ],
+    "verified": false
+  },
+  {
+    "id": "fcc5099a-f733-49f1-9589-3bc863960935",
+    "name": "Vegan Pranakhon",
+    "neighbourhood": "Phra Nakhon",
+    "lat": 13.7581,
+    "lng": 100.4992,
+    "veganStatus": "fully_vegan",
+    "priceBand": 3,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "23:59"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "23:59"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "23:59"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "23:59"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "23:59"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "23:59"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "23:59"
+        }
+      ]
+    },
+    "nearestStation": "MRT Sam Yot",
+    "photoUrl": null,
+    "summary": "A fully vegan Thai restaurant in the old city, strong for late meals after temples, Khao San, or Ratchadamnoen walks.",
+    "vibeTags": [
+      "historic",
+      "late-night",
+      "upscale"
+    ],
+    "verified": false
+  },
+  {
+    "id": "d28ceaa0-3b23-4b36-bb1e-fed87e712be3",
+    "name": "Vegan Pranakhon- Khaosan Road วีแกนพระนคร- ถนนข้าวสาร",
+    "neighbourhood": "",
+    "lat": 13.7580704,
+    "lng": 100.49907209999999,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Vegan Pranakhon offers an extraordinary culinary journey with sophisticated, delicious, and beautifully presented vegan Thai cuisine in a warm and elegant atmosphere.",
+    "vibeTags": [
+      "upscale",
+      "artsy",
+      "trendy",
+      "romantic"
+    ],
+    "verified": false
+  },
+  {
+    "id": "2a92ec3e-c524-48af-b001-223735ec9e1c",
+    "name": "Vegetarian by So Vegan ร้านอาหารเจ อาหารมังสวิรัติ สาขาโลตัสลาดพร้าว เขตจตุจักร",
+    "neighbourhood": "",
+    "lat": 13.817904899999998,
+    "lng": 100.56359359999999,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Vegetarian by So Vegan offers excellent, delicious, and well-priced vegan food with plenty of options, including meatless and natural dishes, available in a food court setting and for delivery.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "5de33b51-b9e8-437f-af36-0e1a3150a025",
+    "name": "Vegetarian Restaurant",
+    "neighbourhood": "",
+    "lat": 13.7112811,
+    "lng": 100.4990458,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 10:00-21:30"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "0584760f-8a21-4a39-9cac-ebbd74ebe9fe",
+    "name": "Vegetarian Society in Chatuchak",
+    "neighbourhood": "",
+    "lat": 13.7993128,
+    "lng": 100.54720630000001,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 1,
+    "hours": {
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This cafeteria-style eatery offers tasty vegetarian and vegan options at super affordable prices, where you exchange money for coupons to redeem at various stalls.",
+    "vibeTags": [
+      "local-favorite",
+      "budget-friendly",
+      "street-food",
+      "morning",
+      "bustling"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ba861959-fd2c-4913-b260-e20d3ad301eb",
+    "name": "Vexy Vegan",
+    "neighbourhood": "",
+    "lat": 13.744763,
+    "lng": 100.5615517,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Sa 08:00-17:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "166d244c-e507-48cc-84b0-e83a0442e88a",
+    "name": "VIBE Coffee & Plant-Based Food",
+    "neighbourhood": "",
+    "lat": 13.7173084,
+    "lng": 100.5763028,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "VIBE Coffee & Plant-Based Food is described as a gem offering delicious and thoughtfully created plant-based options, with friendly service and excellent wifi, making it a great spot for meals and remote work.",
+    "vibeTags": [
+      "hidden-gem",
+      "quiet",
+      "morning",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "9066b2c6-bf2e-4db8-b9e3-066b01e11811",
+    "name": "Vistro",
+    "neighbourhood": "",
+    "lat": 13.7272112,
+    "lng": 100.5680358,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Tu-Su 11:00-21:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "4a90379f-c23b-432f-b0ec-3ba2b26d4baa",
+    "name": "Vistro",
+    "neighbourhood": "Phrom Phong",
+    "lat": 13.7273,
+    "lng": 100.5683,
+    "veganStatus": "fully_vegan",
+    "priceBand": 3,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ]
+    },
+    "nearestStation": "BTS Phrom Phong",
+    "photoUrl": null,
+    "summary": "A modern vegan restaurant on Sukhumvit 24 with comfort food, bowls, small plates, and a more polished sit-down feel than a casual café.",
+    "vibeTags": [
+      "upscale",
+      "quiet",
+      "family-friendly",
+      "monsoon-comfort"
+    ],
+    "verified": false
+  },
+  {
+    "id": "c7c333b8-4abb-41a7-9dd5-5e52fb1153cb",
+    "name": "V Street",
+    "neighbourhood": "Phrom Phong",
+    "lat": 13.7322,
+    "lng": 100.5663,
+    "veganStatus": "fully_vegan",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ]
+    },
+    "nearestStation": "BTS Phrom Phong",
+    "photoUrl": null,
+    "summary": "A vegan street-food-style counter inside Emsphere, useful when the route needs a fast plant-based option in an air-conditioned mall.",
+    "vibeTags": [
+      "bustling",
+      "monsoon-comfort",
+      "family-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "6a6b808f-de50-44c1-a5b5-11054b85f5ee",
+    "name": "WAKI WAKI Veggie Sushi",
+    "neighbourhood": "Phrom Phong",
+    "lat": 13.7271,
+    "lng": 100.5681,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "mon": [],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "21:30"
+        }
+      ]
+    },
+    "nearestStation": "BTS Phrom Phong",
+    "photoUrl": null,
+    "summary": "A vegetarian sushi spot where vegan versions are easy to build, especially useful for groups that want Japanese-style rolls and small plates.",
+    "vibeTags": [
+      "hidden-gem",
+      "quiet",
+      "monsoon-comfort"
+    ],
+    "verified": false
+  },
+  {
+    "id": "eeef65ac-0796-4372-a3a8-ad45f966c2f4",
+    "name": "Washin Ramen",
+    "neighbourhood": "",
+    "lat": 13.726918,
+    "lng": 100.5250973,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:30",
+          "close": "01:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:30",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:30",
+          "close": "00:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:30",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:30",
+          "close": "01:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:30",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:30",
+          "close": "23:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Washin Ramen is praised for its delicious ramen with umami soup, well-balanced flavors, and perfect noodle texture, with patrons frequently returning for its high-quality dishes.",
+    "vibeTags": [
+      "local-favorite",
+      "budget-friendly"
+    ],
+    "verified": false
+  },
+  {
+    "id": "8845d804-3e72-4e9f-82d7-41fdbc6e8f10",
+    "name": "Xian Yen Vegefood services",
+    "neighbourhood": "",
+    "lat": 13.753180100000002,
+    "lng": 100.4710879,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This vegetarian restaurant offers delicious, clean food made with fresh ingredients, praised for its excellent taste, friendly staff, and budget-friendly prices.",
+    "vibeTags": [
+      "budget-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "4e90160f-1ad8-4af5-8b0c-e2ec9540c866",
+    "name": "Ying’s Garden",
+    "neighbourhood": "",
+    "lat": 13.7476394,
+    "lng": 100.542552,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "10:00-21:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "60b17c22-9c10-4c0c-8bb0-8c46f64dcaf6",
+    "name": "Yogis Spicy Cafe'",
+    "neighbourhood": "",
+    "lat": 13.72333,
+    "lng": 100.5310848,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This cafe offers delicious food with good portions, a warm, relaxing, and pleasant atmosphere, and great service.",
+    "vibeTags": [
+      "quiet",
+      "hidden-gem",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "50f5e33b-4d40-4487-9701-e7aa292da16e",
+    "name": "Yota Co., Ltd.",
+    "neighbourhood": "",
+    "lat": 13.6805597,
+    "lng": 100.4490732,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "Yota Co., Ltd. is the largest vegetarian food manufacturer in Thailand, operating as a factory with an outlet store that functions as a great vegetarian supermarket for buying various mock meats, soy proteins, and sauces.",
+    "vibeTags": [
+      "budget-friendly",
+      "hidden-gem"
+    ],
+    "verified": false
+  },
+  {
+    "id": "13f3a83e-09c0-4c4d-85ff-1c5ab013d0d1",
+    "name": "เข้ม-ข้น พาหุรัด",
+    "neighbourhood": "",
+    "lat": 13.745209,
+    "lng": 100.4992739,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 10:00-22:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "7ba2ac80-712a-41ff-b564-af3984244b42",
+    "name": "ณพนันต์ มังสวิรัติ",
+    "neighbourhood": "",
+    "lat": 13.7137947,
+    "lng": 100.5154054,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 10:00-20:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "a63c2b17-eae2-482e-8ea5-46ab6b448f92",
+    "name": "โยตาอาหารเจ",
+    "neighbourhood": "",
+    "lat": 13.7478925,
+    "lng": 100.5016496,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 06:30-14:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "7dbdfbca-452b-40cb-abcb-50b9847ffae4",
+    "name": "ร้านนางอาหารเจ (vegetarian food)",
+    "neighbourhood": "",
+    "lat": 13.7461579,
+    "lng": 100.5021156,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "06:30",
+          "close": "15:30"
+        }
+      ],
+      "mon": [
+        {
+          "open": "06:30",
+          "close": "15:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:30",
+          "close": "15:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:30",
+          "close": "15:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:30",
+          "close": "15:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This is a nice little vegan traditional Thai restaurant offering a variety of delicious and affordable bain-Marie vegan dishes for a local experience.",
+    "vibeTags": [
+      "street-food",
+      "hole-in-the-wall",
+      "budget-friendly",
+      "local-favorite"
+    ],
+    "verified": false
+  },
+  {
+    "id": "0777c534-9e8b-46f9-99bf-2a79f0954cf2",
+    "name": "ร้านบ้านเดิมอาหารเจ&คาเฟ่ BannDerm Vegetarian Restaurant&Cafe @สรณคมน์19 ดอนเมือง",
+    "neighbourhood": "",
+    "lat": 13.9303181,
+    "lng": 100.60010570000001,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This vegetarian restaurant and cafe offers delicious and authentic food, including steak, along with a wide variety of dishes and drinks, excellent service, and a great atmosphere with a refreshing, homey feel and a nice, cool air-conditioned room.",
+    "vibeTags": [
+      "garden",
+      "quiet"
+    ],
+    "verified": false
+  },
+  {
+    "id": "fa22fb4a-2a1f-40f8-96f5-5d70a4950b2b",
+    "name": "สินาทอาหารเจ Sinart Vegan",
+    "neighbourhood": "",
+    "lat": 13.9233518,
+    "lng": 100.6010617,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mon-Sun 08:30-17:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "d3bafb52-35c1-430a-89f9-62afefb04011",
+    "name": "สุกี้เจหรูยี่",
+    "neighbourhood": "",
+    "lat": 13.7381165,
+    "lng": 100.5181804,
+    "veganStatus": "vegetarian_jay",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 10:00-21:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "3b988f77-d66f-4798-999e-47ba64f1369b",
+    "name": "ベジジャパン",
+    "neighbourhood": "",
+    "lat": 13.7086503,
+    "lng": 100.515087,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "raw": "Mo-Su 11:30-23:00"
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": null,
+    "vibeTags": [],
+    "verified": false
+  },
+  {
+    "id": "32e64461-38bd-4a19-a5fd-788253f88df4",
+    "name": "曼谷一号 Joyluck",
+    "neighbourhood": "",
+    "lat": 13.7468372,
+    "lng": 100.5801747,
+    "veganStatus": "vegan_friendly",
+    "priceBand": 2,
+    "hours": {
+      "fri": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "mon": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ]
+    },
+    "nearestStation": null,
+    "photoUrl": null,
+    "summary": "This is a cool club with luxurious and grand decor, top-notch sound and lighting, a steep price, and is not suitable for children.",
+    "vibeTags": [
+      "upscale",
+      "late-night",
+      "trendy"
+    ],
+    "verified": false
+  }
+]

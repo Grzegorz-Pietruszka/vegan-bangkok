@@ -1,0 +1,523 @@
+[
+  {
+    "id": "c74cef79-43da-43cf-a72a-df3bf7e42b46",
+    "nameEn": "Gaeng keow wan",
+    "nameTh": "แกงเขียวหวาน",
+    "description": "Green curry with tofu and vegetables.",
+    "spiceLevel": 3,
+    "tags": [
+      "curry",
+      "green curry",
+      "coconut",
+      "tofu"
+    ],
+    "orderPhrase": "gaeng keow wan jay",
+    "skipIngredients": "shrimp paste in curry paste, fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "38acf8b3-1c06-435b-81aa-1a68f0b51341",
+    "nameEn": "Gaeng phed",
+    "nameTh": "แกงเผ็ด",
+    "description": "Red curry with tofu and bamboo shoots.",
+    "spiceLevel": 3,
+    "tags": [
+      "curry",
+      "red curry",
+      "coconut",
+      "tofu",
+      "bamboo"
+    ],
+    "orderPhrase": "gaeng phed jay",
+    "skipIngredients": "shrimp paste in curry paste, fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "c2d58e98-bbba-4b2f-b4a3-070aff4f9b8a",
+    "nameEn": "Khao pad",
+    "nameTh": "ข้าวผัด",
+    "description": "Thai fried rice with vegetables.",
+    "spiceLevel": 0,
+    "tags": [
+      "rice",
+      "fried rice",
+      "vegetables"
+    ],
+    "orderPhrase": "khao pad jay",
+    "skipIngredients": "egg, fish sauce, oyster sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "3604ed2c-e6d7-441f-8dbe-29eaae398eab",
+    "nameEn": "Khao soi",
+    "nameTh": "ข้าวซอย",
+    "description": "Northern coconut curry noodle soup.",
+    "spiceLevel": 2,
+    "tags": [
+      "noodles",
+      "soup",
+      "curry",
+      "coconut",
+      "northern"
+    ],
+    "orderPhrase": "khao soi jay",
+    "skipIngredients": "egg noodles, fish sauce, meat broth",
+    "regionName": "Northern Thailand",
+    "places": []
+  },
+  {
+    "id": "192e9b68-2f27-493d-a75a-96979ce7bc46",
+    "nameEn": "Kuay teow nam",
+    "nameTh": "ก๋วยเตี๋ยวน้ำ",
+    "description": "Clear vegetable noodle soup.",
+    "spiceLevel": 1,
+    "tags": [
+      "noodles",
+      "soup",
+      "clear broth",
+      "vegetables"
+    ],
+    "orderPhrase": "kuay teow nam jay",
+    "skipIngredients": "meat broth, fish balls, fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "6bec4b0a-fbc4-4bd0-b310-d0b1691faa95",
+    "nameEn": "Larb mushroom",
+    "nameTh": "ลาบเห็ด",
+    "description": "Spicy minced mushroom salad with herbs.",
+    "spiceLevel": 3,
+    "tags": [
+      "mushroom",
+      "salad",
+      "herbs",
+      "spicy"
+    ],
+    "orderPhrase": "larb hed jay",
+    "skipIngredients": "fish sauce",
+    "regionName": "Isaan (northeast)",
+    "places": []
+  },
+  {
+    "id": "29a4c861-fd54-47d4-980d-c509dd066b73",
+    "nameEn": "Mango sticky rice",
+    "nameTh": "ข้าวเหนียวมะม่วง",
+    "description": "Sweet mango with coconut sticky rice.",
+    "spiceLevel": 0,
+    "tags": [
+      "dessert",
+      "mango",
+      "coconut",
+      "sweet",
+      "sticky rice"
+    ],
+    "orderPhrase": "khao niao mamuang",
+    "skipIngredients": null,
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "632733d8-c79b-48ad-9c69-13d93d19e9a9",
+    "nameEn": "Massaman curry",
+    "nameTh": "มัสมั่น",
+    "description": "Mild massaman curry with potatoes and tofu.",
+    "spiceLevel": 1,
+    "tags": [
+      "curry",
+      "massaman",
+      "coconut",
+      "potato",
+      "peanut",
+      "mild"
+    ],
+    "orderPhrase": "gaeng massaman jay",
+    "skipIngredients": "shrimp paste in curry paste, fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "040bcabe-4f91-416b-9d39-b5fe7ab0ca88",
+    "nameEn": "Nam tok mushroom",
+    "nameTh": "น้ำตกเห็ด",
+    "description": "Spicy grilled mushroom salad.",
+    "spiceLevel": 3,
+    "tags": [
+      "mushroom",
+      "salad",
+      "grilled",
+      "spicy"
+    ],
+    "orderPhrase": "nam tok hed jay",
+    "skipIngredients": "fish sauce",
+    "regionName": "Isaan (northeast)",
+    "places": []
+  },
+  {
+    "id": "8b795c5e-fbe5-44be-98fc-1bca2b93b905",
+    "nameEn": "Pad kana",
+    "nameTh": "ผัดคะน้า",
+    "description": "Chinese broccoli stir fry with crispy soy protein.",
+    "spiceLevel": 1,
+    "tags": [
+      "stir fry",
+      "chinese broccoli",
+      "soy protein"
+    ],
+    "orderPhrase": "pad kana jay",
+    "skipIngredients": "oyster sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "f276d8a0-3408-4cbe-b2ea-f744682ee819",
+    "nameEn": "Pad kee mao",
+    "nameTh": "ผัดขี้เมา",
+    "description": "Spicy drunken rice noodles with holy basil.",
+    "spiceLevel": 4,
+    "tags": [
+      "noodles",
+      "stir fry",
+      "holy basil",
+      "spicy"
+    ],
+    "orderPhrase": "pad kee mao jay",
+    "skipIngredients": "fish sauce, oyster sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "191eaa80-6b45-43bc-b4ac-5ddf90dbd258",
+    "nameEn": "Pad kra pao",
+    "nameTh": "ผัดกะเพรา",
+    "description": "Spicy holy basil tofu stir fry.",
+    "spiceLevel": 3,
+    "tags": [
+      "stir fry",
+      "holy basil",
+      "tofu",
+      "spicy"
+    ],
+    "orderPhrase": "pad kra pao tao hoo jay",
+    "skipIngredients": "fish sauce, oyster sauce, fried egg",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "061f024d-8e67-4105-8737-772a06f75732",
+    "nameEn": "Pad pak ruam",
+    "nameTh": "ผัดผักรวม",
+    "description": "Mixed vegetable stir fry.",
+    "spiceLevel": 0,
+    "tags": [
+      "stir fry",
+      "vegetables",
+      "mild"
+    ],
+    "orderPhrase": "pad pak ruam jay",
+    "skipIngredients": "oyster sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "5307fd20-aae5-4789-874f-7368dfa7a499",
+    "nameEn": "Pad prik king",
+    "nameTh": "ผัดพริกขิง",
+    "description": "Stir fried tofu with red curry paste and green beans.",
+    "spiceLevel": 2,
+    "tags": [
+      "stir fry",
+      "tofu",
+      "green beans",
+      "curry paste"
+    ],
+    "orderPhrase": "pad prik king jay",
+    "skipIngredients": "shrimp paste in curry paste, fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "c7235a83-725a-45ce-a811-b9a4a3701e56",
+    "nameEn": "Pad prik pao",
+    "nameTh": "ผัดพริกเผา",
+    "description": "Stir fried vegetables with roasted chili paste.",
+    "spiceLevel": 2,
+    "tags": [
+      "stir fry",
+      "vegetables",
+      "chili paste"
+    ],
+    "orderPhrase": "pad prik pao jay",
+    "skipIngredients": "shrimp-based chili jam, fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "036f2762-d9e9-45be-9603-93a4d09fa4ac",
+    "nameEn": "Pad see ew",
+    "nameTh": "ผัดซีอิ๊ว",
+    "description": "Stir fried wide rice noodles with soy sauce.",
+    "spiceLevel": 0,
+    "tags": [
+      "noodles",
+      "stir fry",
+      "wide noodles",
+      "soy sauce"
+    ],
+    "orderPhrase": "pad see ew jay",
+    "skipIngredients": "oyster sauce, egg",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "f6da3e2a-6310-4641-9268-c3efa76c8ec0",
+    "nameEn": "Pad thai",
+    "nameTh": "ผัดไทย",
+    "description": "Stir fried rice noodles with tofu and tamarind.",
+    "spiceLevel": 1,
+    "tags": [
+      "noodles",
+      "stir fry",
+      "tamarind",
+      "tofu"
+    ],
+    "orderPhrase": "pad thai jay",
+    "skipIngredients": "fish sauce, egg, dried shrimp",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "9cdecb23-a56d-4b00-9896-ab3d9c8e7575",
+    "nameEn": "Pad woon sen",
+    "nameTh": "ผัดวุ้นเส้น",
+    "description": "Stir fried glass noodles with vegetables.",
+    "spiceLevel": 1,
+    "tags": [
+      "glass noodles",
+      "stir fry",
+      "vegetables"
+    ],
+    "orderPhrase": "pad woon sen jay",
+    "skipIngredients": "oyster sauce, egg",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "dd63fedb-9645-4955-bd9d-32096506a037",
+    "nameEn": "Pak boong fai daeng",
+    "nameTh": "ผักบุ้งไฟแดง",
+    "description": "Stir fried morning glory with garlic and chili.",
+    "spiceLevel": 2,
+    "tags": [
+      "stir fry",
+      "morning glory",
+      "garlic",
+      "chili"
+    ],
+    "orderPhrase": "pak boong fai daeng jay",
+    "skipIngredients": "oyster sauce, fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "f0904e3d-038d-4159-871d-2365c5a021b9",
+    "nameEn": "Panang curry",
+    "nameTh": "พะแนง",
+    "description": "Creamy panang curry with tofu.",
+    "spiceLevel": 2,
+    "tags": [
+      "curry",
+      "panang",
+      "coconut",
+      "creamy",
+      "tofu"
+    ],
+    "orderPhrase": "gaeng panang jay",
+    "skipIngredients": "shrimp paste in curry paste, fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "c4a370f6-c3b8-4d1b-af07-7128b4955cb7",
+    "nameEn": "Pineapple fried rice",
+    "nameTh": "ข้าวผัดสับปะรด",
+    "description": "Thai fried rice with pineapple and cashews.",
+    "spiceLevel": 0,
+    "tags": [
+      "rice",
+      "fried rice",
+      "pineapple",
+      "cashew"
+    ],
+    "orderPhrase": "khao pad sapparot jay",
+    "skipIngredients": "egg, fish sauce, shrimp",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "c754c941-7561-4f1d-8bf0-d472fde2dee3",
+    "nameEn": "Rad na",
+    "nameTh": "ราดหน้า",
+    "description": "Wide rice noodles with rich vegetable gravy.",
+    "spiceLevel": 0,
+    "tags": [
+      "noodles",
+      "wide noodles",
+      "gravy"
+    ],
+    "orderPhrase": "rad na jay",
+    "skipIngredients": "oyster sauce, pork",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "fe6adfb6-2401-4a13-8987-8a48d35d610b",
+    "nameEn": "Som tam",
+    "nameTh": "ส้มตำ",
+    "description": "Pounded green papaya salad — bright, sour, fiery.",
+    "spiceLevel": 4,
+    "tags": [
+      "papaya",
+      "sour",
+      "salad",
+      "light"
+    ],
+    "orderPhrase": "som tam jay",
+    "skipIngredients": "fish sauce, dried shrimp, crab",
+    "regionName": "Isaan (northeast)",
+    "places": [
+      {
+        "name": "Jae Oa Vegetarian",
+        "verifiedVegan": true,
+        "lovedCount": 212
+      }
+    ]
+  },
+  {
+    "id": "b3e7c57f-894b-499d-ae90-b5b91b1a8073",
+    "nameEn": "Spring rolls",
+    "nameTh": "ปอเปี๊ยะทอด",
+    "description": "Crispy vegetable spring rolls.",
+    "spiceLevel": 0,
+    "tags": [
+      "starter",
+      "fried",
+      "crispy",
+      "vegetables"
+    ],
+    "orderPhrase": "por pia tod jay",
+    "skipIngredients": "meat filling, egg in wrapper",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "c48efc23-b340-46d0-8293-3fef856ef34d",
+    "nameEn": "Tofu satay",
+    "nameTh": "สะเต๊ะเต้าหู้",
+    "description": "Grilled tofu skewers with peanut sauce.",
+    "spiceLevel": 0,
+    "tags": [
+      "starter",
+      "tofu",
+      "grilled",
+      "peanut sauce",
+      "skewers"
+    ],
+    "orderPhrase": "satay tao hoo jay",
+    "skipIngredients": "fish sauce in peanut sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "dbdfe59f-afaa-4379-a9a9-b4a80a93d85e",
+    "nameEn": "Tom kha",
+    "nameTh": "ต้มข่า",
+    "description": "Coconut galangal soup with tofu and mushrooms.",
+    "spiceLevel": 1,
+    "tags": [
+      "soup",
+      "coconut",
+      "galangal",
+      "tofu",
+      "mushroom",
+      "mild"
+    ],
+    "orderPhrase": "tom kha tao hoo jay",
+    "skipIngredients": "fish sauce, chicken stock",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "fc2765d2-efa9-42df-9e9a-dd2343cd0e1b",
+    "nameEn": "Tom yum",
+    "nameTh": "ต้มยำ",
+    "description": "Spicy sour mushroom soup.",
+    "spiceLevel": 3,
+    "tags": [
+      "soup",
+      "sour",
+      "mushroom",
+      "spicy",
+      "lemongrass"
+    ],
+    "orderPhrase": "tom yum hed jay",
+    "skipIngredients": "fish sauce, shrimp",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "4e47cb6f-8f72-42dd-a476-8ab7a245be4a",
+    "nameEn": "Yellow curry",
+    "nameTh": "แกงกะหรี่",
+    "description": "Yellow coconut curry with tofu and potatoes.",
+    "spiceLevel": 1,
+    "tags": [
+      "curry",
+      "yellow curry",
+      "coconut",
+      "potato",
+      "turmeric"
+    ],
+    "orderPhrase": "gaeng karee jay",
+    "skipIngredients": "shrimp paste in curry paste, fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "603f5ea8-bc9a-4c85-a1dd-9327b394586d",
+    "nameEn": "Yum tofu",
+    "nameTh": "ยำเต้าหู้",
+    "description": "Spicy tofu salad with herbs.",
+    "spiceLevel": 2,
+    "tags": [
+      "tofu",
+      "salad",
+      "herbs",
+      "spicy"
+    ],
+    "orderPhrase": "yum tao hoo jay",
+    "skipIngredients": "fish sauce",
+    "regionName": "Central Thailand",
+    "places": []
+  },
+  {
+    "id": "101fa172-3b98-46ad-b7ad-753a4f51ff98",
+    "nameEn": "Yum woon sen",
+    "nameTh": "ยำวุ้นเส้น",
+    "description": "Spicy glass noodle salad.",
+    "spiceLevel": 3,
+    "tags": [
+      "glass noodles",
+      "salad",
+      "spicy",
+      "light"
+    ],
+    "orderPhrase": "yum woon sen jay",
+    "skipIngredients": "fish sauce, dried shrimp, minced pork",
+    "regionName": "Central Thailand",
+    "places": []
+  }
+]
