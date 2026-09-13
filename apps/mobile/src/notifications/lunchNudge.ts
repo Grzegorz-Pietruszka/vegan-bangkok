@@ -33,7 +33,7 @@ export function pickLunchPlace<T extends { id: string; name: string; hours?: unk
   const byId = new Map(places.map((p) => [p.id, p]));
   for (const s of saved) {
     const p = byId.get(s.place_id);
-    if (p && isOpenNow(p.hours as never, fireAt)) return p;
+    if (p && isOpenNow(p.hours, fireAt)) return p;
   }
   return null;
 }

@@ -95,7 +95,7 @@ describe('lunch pref', () => {
 describe('syncLunchNudge', () => {
   // Real bundled catalog: derive a place that IS open at the computed fireAt and use its id.
   const fireAt = nextLunchDate(new Date());
-  const openPlace = placesSeed.find((p) => isOpenNow(p.hours as never, fireAt))!;
+  const openPlace = placesSeed.find((p) => isOpenNow(p.hours, fireAt))!;
   const saved = [{ place_id: openPlace.id, saved_at: '2026-07-12T09:00:00.000Z' }];
 
   beforeEach(() => {
