@@ -1,3 +1,5 @@
+<img src="docs/assets/hero.png" alt="A phone showing the query 'somewhere chill to grab dinner tonight', with geo, lexical and vector retrieval arms flowing into a map of Bangkok" width="100%">
+
 # Vegan Bangkok
 
 A curated, dish-first vegan guide to Bangkok. Not a listings directory — closer to a picky local
