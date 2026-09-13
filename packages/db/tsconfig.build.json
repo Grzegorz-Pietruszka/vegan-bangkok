@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "nodenext", "moduleResolution": "nodenext", "target": "esnext",
+    "allowImportingTsExtensions": true, "rewriteRelativeImportExtensions": true,
+    "declaration": true, "rootDir": "./src", "outDir": "./dist",
+    "strict": true, "skipLibCheck": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["src/**/*.test.ts"]
+}

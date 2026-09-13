@@ -1,0 +1,44 @@
+name: CI
+
+on: push
+
+env:
+  EXPO_NO_TELEMETRY: '1'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: pgvector/pgvector:pg17
+        env:
+          POSTGRES_PASSWORD: pw
+        ports:
+          - 5433:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build -w @vegan-bangkok/schemas -w @vegan-bangkok/db
+      - run: npm run typecheck -w @vegan-bangkok/api -w @vegan-bangkok/admin -w mobile
+      - run: npm run lint -w mobile
+      - name: API migrate + test
+        env:
+          # .env.test is gitignored; --env-file-if-exists falls back to these
+          DATABASE_URL: postgres://postgres:pw@localhost:5433/postgres?sslmode=disable
+          GEMINI_API_KEY: test-not-used-in-unit-tests
+          NODE_ENV: test
+        run: |
+          npm run db:migrate:test -w @vegan-bangkok/api
+          npm test -w @vegan-bangkok/api
+      - run: npm test -w @vegan-bangkok/schemas -w @vegan-bangkok/db -w @vegan-bangkok/admin
+      - run: npm test -w mobile -- --ci
+      - run: npm run test:map -w mobile
